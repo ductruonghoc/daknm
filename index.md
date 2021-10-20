@@ -54,7 +54,7 @@ Hậu cần
 <h3 id="bbbc"> Biên bảng</h3>
 1. Biên bảng thành lập
 
-<p align="center"><iframe width="600" height="650" src="https://docs.google.com/document/d/e/2PACX-1vTH4qTRv8KbnhMMrRSi3tLJU38AeGhWNx-z1Am6FmUVSaZnuBMURdFek-tXWZ6iNoK8PpJw7_cc9usm/pub?embedded=true"></iframe></p>
+<p align="center"><iframe width="600" height="650" src="https://docs.google.com/document/d/e/2PACX-1vTH4qTRv8KbnhMMrRSi3tLJU38AeGhWNx-z1Am6FmUVSaZnuBMURdFek-tXWZ6iNoK8PpJw7_cc9usm/pub?embedded=true" style="max-width:100%;height:auto></iframe></p>
 
 <footer> <p> This site using Jekyll Themes </p> </footer>
 
