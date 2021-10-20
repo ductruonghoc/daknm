@@ -1,4 +1,7 @@
-<h1 align="center"> We are group 5 </h1>
+<h1>
+  <p align="left"> <img height="50" src="https://truyenthongdaiphuc.files.wordpress.com/2015/09/dai_hoc_khoa_hoc_tu_nhien_dhqg-hcm.png"></p>
+  <p align="center"> We are group 5 </p> 
+</h1>
 <h2 align="center"> Ngôi nhà chung chứa đầy tình thương </h2>
 
 ### Thông tin chung
@@ -36,7 +39,9 @@ Hậu cần
 </p>
 
 ### Biên bản báo cáo
-<p align="center"><iframe width="650" height="500" src="https://docs.google.com/document/d/e/2PACX-1vT14_ci7W2dmCmh0nne6joOggnpT3N1ymQrJIzSqNMlA5SJe-4qYCSRXQlGE3MgKlAsrToURvfWVoFJ/pub?embedded=true"></iframe></p>
+<p align="center"><iframe width="650" height="650" src="https://docs.google.com/document/d/e/2PACX-1vT14_ci7W2dmCmh0nne6joOggnpT3N1ymQrJIzSqNMlA5SJe-4qYCSRXQlGE3MgKlAsrToURvfWVoFJ/pub?embedded=true"></iframe></p>
+
+### Logo nhóm
 
 <footer> <p> This site using Jekyll Themes </p> </footer>
 
