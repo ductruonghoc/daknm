@@ -36,7 +36,7 @@ Hậu cần
 </p>
 
 ### Biên bản báo cáo
-<iframe width="800" height="650" src="https://docs.google.com/document/d/e/2PACX-1vT14_ci7W2dmCmh0nne6joOggnpT3N1ymQrJIzSqNMlA5SJe-4qYCSRXQlGE3MgKlAsrToURvfWVoFJ/pub?embedded=true"></iframe>
+<p align="center"><iframe width="650" height="500" src="https://docs.google.com/document/d/e/2PACX-1vT14_ci7W2dmCmh0nne6joOggnpT3N1ymQrJIzSqNMlA5SJe-4qYCSRXQlGE3MgKlAsrToURvfWVoFJ/pub?embedded=true"></iframe></p>
 
 <footer> <p> This site using Jekyll Themes </p> </footer>
 
