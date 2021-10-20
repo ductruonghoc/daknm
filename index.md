@@ -4,13 +4,13 @@
 </h1>
 <h2 align="center"> Ngôi nhà chung chứa đầy tình thương </h2>
 
-<blockquote>
-  <a href="#ttc"> Thông tin chung </a>  
-  
-  <a href="#ctv"> Các thành viên </a>  
-  <a href="#han"> Hình ảnh nhóm </a>  
-  <a href="#bbbc"> Biên bảng báo cáo </a>
-</blockquote>
+>  <a href="#ttc"> Thông tin chung </a>
+>        
+>  <a href="#ctv"> Các thành viên </a>
+>    
+>  <a href="#han"> Hình ảnh nhóm </a>  
+>  
+> <a href="#bbbc"> Biên bảng báo cáo </a>
 
 
 <h3 id="ttc"> Thông tin chung  </h3>
