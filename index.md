@@ -39,7 +39,7 @@ Hậu cần
 </p>
 
 ### Biên bản báo cáo
-<p align="center"><iframe width="650" height="650" src="https://docs.google.com/document/d/e/2PACX-1vT14_ci7W2dmCmh0nne6joOggnpT3N1ymQrJIzSqNMlA5SJe-4qYCSRXQlGE3MgKlAsrToURvfWVoFJ/pub?embedded=true"></iframe></p>
+<p align="center"><iframe width="500" height="650" src="https://docs.google.com/document/d/e/2PACX-1vT14_ci7W2dmCmh0nne6joOggnpT3N1ymQrJIzSqNMlA5SJe-4qYCSRXQlGE3MgKlAsrToURvfWVoFJ/pub?embedded=true"></iframe></p>
 
 ### Logo nhóm
 
