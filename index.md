@@ -49,7 +49,8 @@ Hậu cần
    <p align="center"><img height="100" src="https://images.unsplash.com/photo-1481349518771-20055b2a7b24?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cmFuZG9tfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"></p>
 </p>
 
-<h3 id="bbbc"> Biên bảng báo cáo </h3>
+<h3 id="bbbc"> Biên bảng</h3>
+1. Biên bảng thành lập
 
 <p align="center"><iframe width="600" height="650" src="https://docs.google.com/document/d/e/2PACX-1vTH4qTRv8KbnhMMrRSi3tLJU38AeGhWNx-z1Am6FmUVSaZnuBMURdFek-tXWZ6iNoK8PpJw7_cc9usm/pub?embedded=true"></iframe></p>
 
