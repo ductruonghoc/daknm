@@ -14,12 +14,11 @@
       }
 
       .column.side {
-      width: 25%;
+      width: 5%;
       background-color: #C0C0C0;
       height: 100%;
       color: white;
       position: absolute;
-      overflow-x: scroll
       }
       .column.rest {
       width: 75%;}
