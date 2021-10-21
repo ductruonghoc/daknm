@@ -38,7 +38,7 @@
 ```
 
 <h3 id="ctv"><b> Các thành viên</b></h3>    
-<h4 align="left"><b>Nguyễn Nhật Phi</b><a href="https://www.facebook.com/ngnhatfiii1804"><img align="right" width="20%" src="https://img.favpng.com/3/16/8/clip-art-vector-graphics-student-leader-leadership-png-favpng-8aK7wE6JNeTnLgiMznY94VFVM.jpg"></a></p></h4>
+<h4 align="left"><b>Nguyễn Nhật Phi</b><a href="https://www.facebook.com/ngnhatfiii1804"><img align="right" width="25%" src="https://static.thenounproject.com/png/316802-200.png"></a></h4>
 Trưởng nhóm thân thiện
 
 <h4>
