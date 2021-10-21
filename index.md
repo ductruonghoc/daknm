@@ -15,21 +15,27 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
   
-<body>
-    <div align="left"> <img height="50" src="https://i.ibb.co/BZrJYNY/received-1036612263752220-removebg-preview-1.png"></div>
+<div align="left"> <img height="50" src="https://i.ibb.co/BZrJYNY/received-1036612263752220-removebg-preview-1.png"></div>
     
-    <ul>      
-      <li><a href="#ttc"> Thông tin </a></li>
-      <li><a href="#ctv"> Thành viên </a></li>
-      <li><a href="#han"> Hình ảnh </a></li>  
-      <li><a href="#bbbc"> Báo cáo </a></li>   
-    </ul>
+<ul>      
+  <li><a href="#ttc"> Thông tin </a></li>
+  <li><a href="#ctv"> Thành viên </a></li>
+  <li><a href="#han"> Hình ảnh </a></li>  
+  <li><a href="#bbbc"> Báo cáo </a></li>   
+</ul>
 
-    <img width="100%" src="https://i.ibb.co/qksPTsY/Pics-Art-10-21-10-40-46.jpg">
+<img width="100%" src="https://i.ibb.co/qksPTsY/Pics-Art-10-21-10-40-46.jpg">
     
-
-    <h3 id="ttc"><b>Thông tin chung</b></h3>
+<h3 style="color: pink" id="ttc"><b>Thông tin chung</b></h3>
     <p>Bọn mình là nhóm 5 đến từ 21CLC09</p>
+    
+```c++
+  **   **
+*    *    *
+*  CLC09  *
+  *     *
+     *
+```
 
     <h3 id="ctv"><b> Các thành viên  </b></h3>    
       <h4>
