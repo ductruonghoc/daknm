@@ -7,7 +7,7 @@
   }
 
   li a {
-  padding-right: 20px;
+  padding-right: 15px;
   color: black;
   }
 
