@@ -1,8 +1,16 @@
 <head>
   <meta charset="utf-8">
   <style>
+  ul{
+  padding: 100 px;
+  }
+
   li {
   display: inline;
+  }
+
+  li a {
+  color: black;
   }
 
   </style>
