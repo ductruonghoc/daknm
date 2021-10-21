@@ -6,17 +6,16 @@
 </head>
   
 <body>
-  <ul>    
-    <li><a href="#ttc"> Thông tin chung </a></li>     
-    <li><a href="#ctv"> Các thành viên </a></li>
-    <li><a href="#han"> Hình ảnh nhóm </a></li>  
-    <li><a href="#bbbc"> Biên bảng báo cáo </a></li>   
-  </ul>
-  
-  <div>
     <h1 align="center"> Welcome to group 5 </h1>
     <h2 align="center"> Ngôi nhà chung chứa đầy tình thương </h2>
     
+    <ul style="text-decoration: none">    
+      <li><a href="#ttc"> Thông tin chung </a></li>     
+      <li><a href="#ctv"> Các thành viên </a></li>
+      <li><a href="#han"> Hình ảnh nhóm </a></li>  
+      <li><a href="#bbbc"> Biên bảng báo cáo </a></li>   
+    </ul>
+
     <h3 id="ttc"><b>Thông tin chung</b></h3>
     <p>Bọn mình là nhóm 5 đến từ 21CLC09</p>
 
