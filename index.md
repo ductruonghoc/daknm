@@ -18,6 +18,8 @@
       background-color: #C0C0C0;
       height: 100%;
       color: white;
+      position: absolute;
+      overflow-x: scroll
       }
       .column.rest {
       width: 75%;}
@@ -38,10 +40,12 @@
   
 <body>
   <div class="column side">
-    <a href="#ttc"> Thông tin chung </a>      
-    <a href="#ctv"> Các thành viên </a>
-    <a href="#han"> Hình ảnh nhóm </a>  
-    <a href="#bbbc"> Biên bảng báo cáo </a>
+    <ul>
+      <li><a href="#ttc"> Thông tin chung </a></li>      
+      <li><a href="#ctv"> Các thành viên </a></li>
+      <li><a href="#han"> Hình ảnh nhóm </a></li>  
+      <li><a href="#bbbc"> Biên bảng báo cáo </a></li>
+    </ul>
   </div>
 
   <div class="column rest">
