@@ -1,4 +1,4 @@
-<div style="margin-right = "80%""> <img height="50" src="https://truyenthongdaiphuc.files.wordpress.com/2015/09/dai_hoc_khoa_hoc_tu_nhien_dhqg-hcm.png"><a style = "margin-right = "60%""href="#ttc"> Thông tin chung </a></div>
+<div style="margin-right: 80%"> <img height="50" src="https://truyenthongdaiphuc.files.wordpress.com/2015/09/dai_hoc_khoa_hoc_tu_nhien_dhqg-hcm.png"><a style = "margin-right: 60%"href="#ttc"> Thông tin chung </a></div>
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
