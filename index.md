@@ -48,7 +48,7 @@
     <li><a href="#bbbc"> Biên bảng báo cáo </a></li>   
   </ul>
   
-  <div style="margin-left:25%;padding:1px 16px;height:1000px>
+  <div style="margin-left:25%;padding:1px 16px;height:1000px">
   <h1 align="center"> Welcome to group 5 </h1>
   <h2 align="center"> Ngôi nhà chung chứa đầy tình thương </h2>
   <h3 id="ttc"><b>Thông tin chung</b></h3>
