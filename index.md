@@ -38,8 +38,8 @@
 ```
 
 <h3 id="ctv"><b> Các thành viên</b></h3>    
-<div><h4 align="left"><b>Nguyễn Nhật Phi</b></h4><a href="https://www.facebook.com/ngnhatfiii1804"><img align="right" width="150" src="https://img.favpng.com/3/16/8/clip-art-vector-graphics-student-leader-leadership-png-favpng-8aK7wE6JNeTnLgiMznY94VFVM.jpg"></a>
-Trưởng nhóm thân thiện</div>
+<h4 align="left"><b>Nguyễn Nhật Phi</b><a href="https://www.facebook.com/ngnhatfiii1804"><img align="right" width="20%" src="https://img.favpng.com/3/16/8/clip-art-vector-graphics-student-leader-leadership-png-favpng-8aK7wE6JNeTnLgiMznY94VFVM.jpg"></a></p></h4>
+Trưởng nhóm thân thiện
 
 <h4>
    <a href="https://www.facebook.com/dev.tronghieu"><img width="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Facebook_logo_36x36.svg/2048px-Facebook_logo_36x36.svg.png"></a><b>Nguyễn Trọng Hiếu</b>
