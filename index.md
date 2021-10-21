@@ -16,7 +16,7 @@
       .column.side {
       width: 25%;
       background-color: #C0C0C0;
-      height: 100;
+      height: 100%;
       color: white;
       }
       .column.rest {
@@ -50,8 +50,9 @@
 
   <h3 id="ctv"> Các thành viên  </h3>  
 
-  [<img width="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Facebook_logo_36x36.svg/2048px-Facebook_logo_36x36.svg.png">](https://www.facebook.com/ngnhatfiii1804) **Nguyễn Nhật Phi**  
-  Trưởng nhóm và video editor    
+  <a href="https://www.facebook.com/ngnhatfiii1804"><img width="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Facebook_logo_36x36.svg/2048px-Facebook_logo_36x36.svg.png"></a>
+  <h4>**Nguyễn Nhật Phi**</h4>  
+    <p>Trưởng nhóm và video editor</p>    
 
 
   [<img width="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Facebook_logo_36x36.svg/2048px-Facebook_logo_36x36.svg.png">](https://www.facebook.com/dev.tronghieu) **Nguyễn Trọng Hiếu**   
