@@ -21,11 +21,12 @@
     
       .fixed {
       width: 100px;
-      background-color: #C0C0C0;
-      height: 100%;
+      color: #C0C0C0;
+      line-height: 30px;
       font-color: white;
-      font-size: 10px;
+      font-size: 12px;
       position: fixed;
+      left:50px;
       }
       
       .column.rest {
