@@ -49,9 +49,10 @@
   Bọn mình là nhóm 5 đến từ 21CLC09
 
   <h3 id="ctv"> Các thành viên  </h3>  
-
-  <a href="https://www.facebook.com/ngnhatfiii1804"><img width="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Facebook_logo_36x36.svg/2048px-Facebook_logo_36x36.svg.png"></a>
-  <h4>**Nguyễn Nhật Phi**</h4>  
+  
+  <h4>
+  <a href="https://www.facebook.com/ngnhatfiii1804"><img width="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Facebook_logo_36x36.svg/2048px-Facebook_logo_36x36.svg.png"></a><b>Nguyễn Nhật Phi</b>
+  </h4>  
     <p>Trưởng nhóm và video editor</p>    
 
 
