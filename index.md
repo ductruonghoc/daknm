@@ -16,7 +16,7 @@
 </head>
   
 <body>
-    <div align="left"> <img height="50" src="https://truyenthongdaiphuc.files.wordpress.com/2015/09/dai_hoc_khoa_hoc_tu_nhien_dhqg-hcm.png"></div>
+    <div align="left"> <img height="50" src="https://i.ibb.co/S07G1M9/received-1036612263752220.webp"></div>
     
     <ul>      
       <li><a href="#ttc"> Thông tin </a></li>
