@@ -12,13 +12,19 @@
       float: left;
       padding: 10px;
       }
-
-      .column.side {
-      width: 15%;
+      
+       .relative{
+       margin-left: 100px;
+       position: relative;
+       height: 100%;
+       }
+    
+      .fixed {
+      width: 100px;
       background-color: #C0C0C0;
       height: 100%;
       font-color: white;
-      font-size:12;
+      font-size: 10px;
       position: fixed;
       }
       
@@ -40,7 +46,7 @@
 </head>
   
 <body>
-  <div class="column side">
+  <div class="fixed">
     <ol>
       <li><a href="#ttc"> Thông tin chung </a></li>      
       <li><a href="#ctv"> Các thành viên </a></li>
@@ -50,10 +56,10 @@
   </div>
 
   <div class="column rest">
-  <h3 id="ttc"> Thông tin chung  </h3>
+  <h3 id="ttc"><b>Thông tin chung</b></h3>
   Bọn mình là nhóm 5 đến từ 21CLC09
 
-  <h3 id="ctv"> Các thành viên  </h3>  
+  <h3 id="ctv"><b> Các thành viên  </b></h3>  
   
   <h4>
   <a href="https://www.facebook.com/ngnhatfiii1804"><img width="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Facebook_logo_36x36.svg/2048px-Facebook_logo_36x36.svg.png"></a><b>Nguyễn Nhật Phi</b>
