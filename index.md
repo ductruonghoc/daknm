@@ -4,38 +4,53 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <style>
     
-  .topnav {
-  overflow: hidden;
-  background-color: #99FFCC;
-}
+    body {
+      margin: 0;
+    }
 
-  .topnav a {
-    float: left;
-    display: block;
-    color: #FFFFFF;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    width= 25%;
-  }
+    ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      width: 25%;
+      background-color: #e9d8f4;
+      position: fixed;
+      height: 100%;
+      overflow: auto;
+    }
 
-  .topnav a:hover {
-    background-color: #00FFCC;
-    color: white;
-    font-weight: bold;
-  }
+    li a {
+      display: block;
+      color: #000;
+      padding: 8px 16px;
+      text-decoration: none;
+    }
+
+    li a.active {
+      background-color: #58257b;
+      font-weight: bold;
+      color: white;
+    }
+
+    li a:hover:not(.active) {
+      background-color: #db7093;
+      font-weight: bold;
+      color: white;
+    }
   </style>
 </head>
   
+
+<h1 align="center"> Welcome to group 5 </h1>
+<h2 align="center"> Ngôi nhà chung chứa đầy tình thương </h2>
+
 <body>
-  <h1 align="center"> Welcome to group 5 </h1>
-  <h2 align="center"> Ngôi nhà chung chứa đầy tình thương </h2>
-  <div class="topnav">    
-    <a href="#ttc"> Thông tin chung </a>     
-    <a href="#ctv"> Các thành viên </a>
-    <a href="#han"> Hình ảnh nhóm </a>  
-    <a href="#bbbc"> Biên bảng báo cáo </a>   
-  </div>
+  <ul>    
+    <li><a href="#ttc"> Thông tin chung </a></li>     
+    <li><a href="#ctv"> Các thành viên </a></li>
+    <li><a href="#han"> Hình ảnh nhóm </a></li>  
+    <li><a href="#bbbc"> Biên bảng báo cáo </a></li>   
+  </ul>
 
   <h3 id="ttc"><b>Thông tin chung</b></h3>
   <p>Bọn mình là nhóm 5 đến từ 21CLC09</p>
