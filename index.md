@@ -1,47 +1,45 @@
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-
+<p align="left"> <img height="50" src="https://truyenthongdaiphuc.files.wordpress.com/2015/09/dai_hoc_khoa_hoc_tu_nhien_dhqg-hcm.png"></p>
 <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>We are group 5</title>
   <style>
-    .container {
-    display: grid;
-    grid-template-columns: 15% 85%;
-    grid-gap: 20px
-    }
     
-    .item1 {
-    grid-column: 2 / 3
-    position:fixed}
-    
-    .item2 {
-    grid-column: 2 / 3
-    }
-    
-  </style>
+  .topnav {
+  overflow: hidden;
+  background-color: #58257b;
+}
 
-  <p align="left"> <img height="50" src="https://truyenthongdaiphuc.files.wordpress.com/2015/09/dai_hoc_khoa_hoc_tu_nhien_dhqg-hcm.png"></p>
-  <h1>  
-    <p align="center"> We are group 5 </p> 
-  </h1>
-  <h2 align="center"> Ngôi nhà chung chứa đầy tình thương </h2>
+  .topnav a {
+    float: left;
+    display: block;
+    color: #99FFCC;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+  .topnav a:hover {
+    background-color: #00FFCC;
+    color: white;
+    font-weight: bold;
+  }
+  </style>
 </head>
   
-<body class="container">
-  <div class="item1">
-    <ol>
-      <li><a href="#ttc"> Thông tin chung </a></li>      
-      <li><a href="#ctv"> Các thành viên </a></li>
-      <li><a href="#han"> Hình ảnh nhóm </a></li>  
-      <li><a href="#bbbc"> Biên bảng báo cáo </a></li>
-    </ol>
+<body>
+  <h2 align="center"> Ngôi nhà chung chứa đầy tình thương </h2>
+  <div class="topnav">    
+    <a href="#ttc"> Thông tin chung </a>     
+    <a href="#ctv"> Các thành viên </a>
+    <a href="#han"> Hình ảnh nhóm </a>  
+    <a href="#bbbc"> Biên bảng báo cáo </a>   
   </div>
 
-  <div class="item 2">
-    <h3 id="ttc"><b>Thông tin chung</b></h3>
-    Bọn mình là nhóm 5 đến từ 21CLC09
+  <h3 id="ttc"><b>Thông tin chung</b></h3>
+  <p>Bọn mình là nhóm 5 đến từ 21CLC09</p>
 
-    <h3 id="ctv"><b> Các thành viên  </b></h3>  
-  
+  <h3 id="ctv"><b> Các thành viên  </b></h3>    
     <h4>
     <a href="https://www.facebook.com/ngnhatfiii1804"><img width="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Facebook_logo_36x36.svg/2048px-Facebook_logo_36x36.svg.png"></a><b>Nguyễn Nhật Phi</b>
     </h4>  
