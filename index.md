@@ -63,8 +63,10 @@
     <p>Trưởng nhóm và video editor</p>    
 
 
-  [<img width="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Facebook_logo_36x36.svg/2048px-Facebook_logo_36x36.svg.png">](https://www.facebook.com/dev.tronghieu) **Nguyễn Trọng Hiếu**   
-  Kiểm duyệt viên    
+  <h4>
+  <a href="https://www.facebook.com/dev.tronghieu"><img width="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Facebook_logo_36x36.svg/2048px-Facebook_logo_36x36.svg.png"></a><b>Nguyễn Trọng Hiếu</b>
+  </h4>  
+    <p>Kiểm duyệt viên</p>     
 
 
   [<img width="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Facebook_logo_36x36.svg/2048px-Facebook_logo_36x36.svg.png">](https://www.facebook.com/profile.php?id=100010494795471) **Nguyễn Phú Minh Bảo**  
