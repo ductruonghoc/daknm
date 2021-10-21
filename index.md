@@ -4,12 +4,12 @@
 </head>
   
 <body>
-    <div style="margin-right: 80%"> <img height="50" src="https://truyenthongdaiphuc.files.wordpress.com/2015/09/dai_hoc_khoa_hoc_tu_nhien_dhqg-hcm.png"><a style = "margin-right: 60%" href="#ttc"> Thông tin chung </a></div>
+    <div align="left"> <img height="50" src="https://truyenthongdaiphuc.files.wordpress.com/2015/09/dai_hoc_khoa_hoc_tu_nhien_dhqg-hcm.png"></div>
+    <div><a style = "margin-right: 80%" href="#ttc"> Thông tin chung </a><a style="margin-right: 60%" href="#ctv"> Các thành viên </a></div>
     <h1 align="center"> Welcome to group 5 </h1>
     <h2 align="center"> Ngôi nhà chung chứa đầy tình thương </h2>
     
     <ul>      
-      <li><a href="#ctv"> Các thành viên </a></li>
       <li><a href="#han"> Hình ảnh nhóm </a></li>  
       <li><a href="#bbbc"> Biên bảng báo cáo </a></li>   
     </ul>
