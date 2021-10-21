@@ -17,8 +17,11 @@
       width: 15%;
       background-color: #C0C0C0;
       height: 100%;
-      color: white;
+      font-color: white;
+      font-size:12;
+      position: fixed;
       }
+      
       .column.rest {
       width: 85%;}
 
@@ -38,12 +41,12 @@
   
 <body>
   <div class="column side">
-    <ul>
+    <ol>
       <li><a href="#ttc"> Thông tin chung </a></li>      
       <li><a href="#ctv"> Các thành viên </a></li>
       <li><a href="#han"> Hình ảnh nhóm </a></li>  
       <li><a href="#bbbc"> Biên bảng báo cáo </a></li>
-    </ul>
+    </ol>
   </div>
 
   <div class="column rest">
