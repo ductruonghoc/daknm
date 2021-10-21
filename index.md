@@ -81,7 +81,6 @@
     <p><b>1. Biên bảng thành lập</b></p>
 
       <p align="center"><iframe width="100%" height="650" src="https://docs.google.com/document/d/e/2PACX-1vTH4qTRv8KbnhMMrRSi3tLJU38AeGhWNx-z1Am6FmUVSaZnuBMURdFek-tXWZ6iNoK8PpJw7_cc9usm/pub?embedded=true"></iframe></p>
-</body>
 
 <footer> <p> This site using Jekyll Themes </p> </footer>
 
