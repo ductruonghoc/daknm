@@ -13,20 +13,15 @@
       padding: 10px;
       }
       
-       .relative{
-       margin-left: 100px;
-       position: relative;
-       height: 100%;
-       }
-    
       .fixed {
-      width: 100px;
+      width: 200px;
       color: #C0C0C0;
       line-height: 30px;
       font-color: white;
       font-size: 12px;
       position: fixed;
-      left:50px;
+      left: 50px;
+      bottom: 200px;
       }
       
       .column.rest {
