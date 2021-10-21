@@ -2,7 +2,7 @@
   <meta charset="utf-8">
   <style>
   ul{
-  padding: 100 px;
+  padding: 20 px;
   }
 
   li {
