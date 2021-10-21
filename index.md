@@ -1,21 +1,40 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<style>
-  .column.side {
-  width: 25%;
-  background-color: #C0C0C0;
-  }
-  .column.rest {
-  width: 75%;}
-</style>
+<head>
+  <style>
+      body {
+      margin: 0;
 
-<p align="left"> <img height="50" src="https://truyenthongdaiphuc.files.wordpress.com/2015/09/dai_hoc_khoa_hoc_tu_nhien_dhqg-hcm.png"></p>
-<h1>  
-  <p align="center"> We are group 5 </p> 
-</h1>
-<h2 align="center"> Ngôi nhà chung chứa đầy tình thương </h2>
-<div>
+      }
+
+      .column {
+      float: left;
+      padding: 10px;
+      }
+
+      .column.side {
+      width: 25%;
+      background-color: #C0C0C0;
+      }
+      .column.rest {
+      width: 75%;}
+
+      .row:after {
+      content: "";
+      display: table;
+      clear: both;
+    }
+  </style>
+
+  <p align="left"> <img height="50" src="https://truyenthongdaiphuc.files.wordpress.com/2015/09/dai_hoc_khoa_hoc_tu_nhien_dhqg-hcm.png"></p>
+  <h1>  
+    <p align="center"> We are group 5 </p> 
+  </h1>
+  <h2 align="center"> Ngôi nhà chung chứa đầy tình thương </h2>
+</head>
+  
+<body>
   <div class="column side">
     <a href="#ttc"> Thông tin chung </a>      
     <a href="#ctv"> Các thành viên </a>
@@ -64,7 +83,7 @@
   1. Biên bảng thành lập
 
   <p align="center"><iframe width="100%" height="650" src="https://docs.google.com/document/d/e/2PACX-1vTH4qTRv8KbnhMMrRSi3tLJU38AeGhWNx-z1Am6FmUVSaZnuBMURdFek-tXWZ6iNoK8PpJw7_cc9usm/pub?embedded=true"></iframe></p>
-</div>
+</body>
 
 <footer> <p> This site using Jekyll Themes </p> </footer>
 
