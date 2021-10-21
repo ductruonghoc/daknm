@@ -27,7 +27,7 @@
 <img width="100%" src="https://i.ibb.co/qksPTsY/Pics-Art-10-21-10-40-46.jpg">
     
 <h3 style="color: pink" id="ttc"><b>Thông tin chung</b></h3>
-    <p>Bọn mình là nhóm 5 đến từ 21CLC09</p>
+Bọn mình là nhóm 5 đến từ 21CLC09
     
 ```c++
   **   **
@@ -59,7 +59,7 @@ Thu thập tài liệu và MC
 <h4>
       <a href="https://www.facebook.com/duc.leminh2812/"><img width="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Facebook_logo_36x36.svg/2048px-Facebook_logo_36x36.svg.png"></a><b>Lê Minh Đức</b>
 </h4>  
-    <p>Làm web</p>
+Làm web
 
 <h4>
      <a href="https://www.facebook.com/nomatterwhatusay"><img width="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Facebook_logo_36x36.svg/2048px-Facebook_logo_36x36.svg.png"></a><b>Trương Vĩ Thành</b></h4>  
