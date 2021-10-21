@@ -77,13 +77,16 @@
   <a href="https://www.facebook.com/profile.php?id=100015800913107"><img width="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Facebook_logo_36x36.svg/2048px-Facebook_logo_36x36.svg.png"></a><b>Fa Ngọc Uyển Nhi</b>
   </h4>  
     <p>Thu thập tài liệu và MC</p> 
-
-  [<img width="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Facebook_logo_36x36.svg/2048px-Facebook_logo_36x36.svg.png">](https://www.facebook.com/duc.leminh2812/) **Lê Minh Đức**  
-  Làm web
-
-
-  [<img width="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Facebook_logo_36x36.svg/2048px-Facebook_logo_36x36.svg.png">](https://www.facebook.com/nomatterwhatusay) **Trương Vĩ Thành**  
-  Hậu cần
+  <h4>
+  <a href="https://www.facebook.com/duc.leminh2812/"><img width="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Facebook_logo_36x36.svg/2048px-Facebook_logo_36x36.svg.png"></a><b>Lê Minh Đức</b>
+  </h4>  
+    <p>Làm web</p>
+  
+  <h4>
+  <a href="https://www.facebook.com/nomatterwhatusay"><img width="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Facebook_logo_36x36.svg/2048px-Facebook_logo_36x36.svg.png"></a><b>Trương Vĩ Thành</b>
+  </h4>  
+    <p>Hậu cần</p> 
+  
 
   <h3 id="han"> Hình ảnh nhóm </h3>
 
