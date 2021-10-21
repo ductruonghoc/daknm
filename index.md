@@ -2,7 +2,6 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>We are group 5</title>
   <style>
     
   .topnav {
@@ -29,6 +28,7 @@
 </head>
   
 <body>
+  <h1 align="center"> Welcome to group 5 </h1>
   <h2 align="center"> Ngôi nhà chung chứa đầy tình thương </h2>
   <div class="topnav">    
     <a href="#ttc"> Thông tin chung </a>     
