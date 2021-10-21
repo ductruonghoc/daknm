@@ -16,7 +16,7 @@
 </head>
   
 <body>
-    <div align="left"> <img height="50" src="https://i.ibb.co/BZrJYNY/received-1036612263752220-removebg-preview-1.png"></div>
+    <div align="center"> <img height="50" src="https://i.ibb.co/BZrJYNY/received-1036612263752220-removebg-preview-1.png"></div>
     
     <ul>      
       <li><a href="#ttc"> Thông tin </a></li>
@@ -25,8 +25,7 @@
       <li><a href="#bbbc"> Báo cáo </a></li>   
     </ul>
 
-    <h1 align="center"> Welcome to group 5 </h1>
-    <h2 align="center"> Ngôi nhà chung chứa đầy tình thương </h2>
+    <img width="100%" src="https://i.ibb.co/qksPTsY/Pics-Art-10-21-10-40-46.jpg">
     
 
     <h3 id="ttc"><b>Thông tin chung</b></h3>
