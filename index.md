@@ -17,11 +17,11 @@
       width: 200px;
       color: #C0C0C0;
       line-height: 30px;
-      font-color: white;
       font-size: 12px;
       position: fixed;
       left: 50px;
       bottom: 200px;
+      display:block;
       }
       
       .column.rest {
@@ -73,9 +73,10 @@
   </h4>  
     <p>Thu thập tài liệu và MC</p>
 
-  [<img width="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Facebook_logo_36x36.svg/2048px-Facebook_logo_36x36.svg.png">](https://www.facebook.com/profile.php?id=100015800913107) **Fa Ngọc Uyển Nhi**     
-  Thu thập tài liệu và MC  
-
+  <h4>
+  <a href="https://www.facebook.com/profile.php?id=100015800913107"><img width="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Facebook_logo_36x36.svg/2048px-Facebook_logo_36x36.svg.png"></a><b>Fa Ngọc Uyển Nhi</b>
+  </h4>  
+    <p>Thu thập tài liệu và MC</p> 
 
   [<img width="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Facebook_logo_36x36.svg/2048px-Facebook_logo_36x36.svg.png">](https://www.facebook.com/duc.leminh2812/) **Lê Minh Đức**  
   Làm web
