@@ -14,14 +14,13 @@
       }
 
       .column.side {
-      width: 5%;
+      width: 15%;
       background-color: #C0C0C0;
       height: 100%;
       color: white;
-      position: absolute;
       }
       .column.rest {
-      width: 75%;}
+      width: 85%;}
 
       .row:after {
       content: "";
