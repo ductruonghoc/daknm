@@ -40,10 +40,6 @@
   </style>
 </head>
   
-
-<h1 align="center"> Welcome to group 5 </h1>
-<h2 align="center"> Ngôi nhà chung chứa đầy tình thương </h2>
-
 <body>
   <ul>    
     <li><a href="#ttc"> Thông tin chung </a></li>     
@@ -51,7 +47,10 @@
     <li><a href="#han"> Hình ảnh nhóm </a></li>  
     <li><a href="#bbbc"> Biên bảng báo cáo </a></li>   
   </ul>
-
+  
+  <div style="margin-left:25%;padding:1px 16px;height:1000px;>
+  <h1 align="center"> Welcome to group 5 </h1>
+  <h2 align="center"> Ngôi nhà chung chứa đầy tình thương </h2>
   <h3 id="ttc"><b>Thông tin chung</b></h3>
   <p>Bọn mình là nhóm 5 đến từ 21CLC09</p>
 
@@ -99,7 +98,7 @@
     <p><b>1. Biên bảng thành lập</b></p>
 
       <p align="center"><iframe width="100%" height="650" src="https://docs.google.com/document/d/e/2PACX-1vTH4qTRv8KbnhMMrRSi3tLJU38AeGhWNx-z1Am6FmUVSaZnuBMURdFek-tXWZ6iNoK8PpJw7_cc9usm/pub?embedded=true"></iframe></p>
-    </div>
+   </div>
 </body>
 
 <footer> <p> This site using Jekyll Themes </p> </footer>
