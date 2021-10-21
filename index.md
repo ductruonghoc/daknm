@@ -1,15 +1,13 @@
 <head>
   <meta charset="utf-8">
   <style>
-  ul{
-  padding: 20 px;
-  }
 
   li {
   display: inline;
   }
 
   li a {
+  padding-right: 20px;
   color: black;
   }
 
