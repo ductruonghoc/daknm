@@ -1,10 +1,10 @@
-<div style="margin-right: 80%"> <img height="50" src="https://truyenthongdaiphuc.files.wordpress.com/2015/09/dai_hoc_khoa_hoc_tu_nhien_dhqg-hcm.png"><a style = "margin-right: 60%"href="#ttc"> Thông tin chung </a></div>
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
   
 <body>
+    <div style="margin-right: 80%"> <img height="50" src="https://truyenthongdaiphuc.files.wordpress.com/2015/09/dai_hoc_khoa_hoc_tu_nhien_dhqg-hcm.png"><a style = "margin-right: 60%" href="#ttc"> Thông tin chung </a></div>
     <h1 align="center"> Welcome to group 5 </h1>
     <h2 align="center"> Ngôi nhà chung chứa đầy tình thương </h2>
     
