@@ -9,7 +9,7 @@
     <h1 align="center"> Welcome to group 5 </h1>
     <h2 align="center"> Ngôi nhà chung chứa đầy tình thương </h2>
     
-    <ul style="text-decoration: none">    
+    <ul>    
       <li><a href="#ttc"> Thông tin chung </a></li>     
       <li><a href="#ctv"> Các thành viên </a></li>
       <li><a href="#han"> Hình ảnh nhóm </a></li>  
@@ -62,7 +62,7 @@
     <h3 id="bbbc"> <b>Biên bảng</b></h3>
     <p><b>1. Biên bảng thành lập</b></p>
 
-      <p align="center"><iframe width="80%" height="650" src="https://docs.google.com/document/d/e/2PACX-1vTH4qTRv8KbnhMMrRSi3tLJU38AeGhWNx-z1Am6FmUVSaZnuBMURdFek-tXWZ6iNoK8PpJw7_cc9usm/pub?embedded=true"></iframe></p>
+      <p align="center"><iframe width="100%" height="650" src="https://docs.google.com/document/d/e/2PACX-1vTH4qTRv8KbnhMMrRSi3tLJU38AeGhWNx-z1Am6FmUVSaZnuBMURdFek-tXWZ6iNoK8PpJw7_cc9usm/pub?embedded=true"></iframe></p>
    </div>
 </body>
 
