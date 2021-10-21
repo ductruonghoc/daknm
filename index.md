@@ -1,18 +1,27 @@
 <head>
   <meta charset="utf-8">
+  <style>
+  li {
+  display: inline;
+  }
+
+  </style>
   <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
   
 <body>
     <div align="left"> <img height="50" src="https://truyenthongdaiphuc.files.wordpress.com/2015/09/dai_hoc_khoa_hoc_tu_nhien_dhqg-hcm.png"></div>
-    <div><a style = "margin-right: 80%" href="#ttc"> Thông tin chung </a><a style="margin-right: 60%" href="#ctv"> Các thành viên </a></div>
+    
+    <ul>      
+      <li><a href="#ttc"> Thông tin </a></li>
+      <li><a href="#ctv"> Thành viên </a></li>
+      <li><a href="#han"> Hình ảnh </a></li>  
+      <li><a href="#bbbc"> Báo cáo </a></li>   
+    </ul>
+
     <h1 align="center"> Welcome to group 5 </h1>
     <h2 align="center"> Ngôi nhà chung chứa đầy tình thương </h2>
     
-    <ul>      
-      <li><a href="#han"> Hình ảnh nhóm </a></li>  
-      <li><a href="#bbbc"> Biên bảng báo cáo </a></li>   
-    </ul>
 
     <h3 id="ttc"><b>Thông tin chung</b></h3>
     <p>Bọn mình là nhóm 5 đến từ 21CLC09</p>
