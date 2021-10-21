@@ -16,6 +16,8 @@
       .column.side {
       width: 25%;
       background-color: #C0C0C0;
+      height: 100;
+      color: white;
       }
       .column.rest {
       width: 75%;}
@@ -49,7 +51,7 @@
   <h3 id="ctv"> Các thành viên  </h3>  
 
   [<img width="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Facebook_logo_36x36.svg/2048px-Facebook_logo_36x36.svg.png">](https://www.facebook.com/ngnhatfiii1804) **Nguyễn Nhật Phi**  
-  Trưởng nhóm và video editor  
+  Trưởng nhóm và video editor    
 
 
   [<img width="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Facebook_logo_36x36.svg/2048px-Facebook_logo_36x36.svg.png">](https://www.facebook.com/dev.tronghieu) **Nguyễn Trọng Hiếu**   
@@ -83,6 +85,7 @@
   1. Biên bảng thành lập
 
   <p align="center"><iframe width="100%" height="650" src="https://docs.google.com/document/d/e/2PACX-1vTH4qTRv8KbnhMMrRSi3tLJU38AeGhWNx-z1Am6FmUVSaZnuBMURdFek-tXWZ6iNoK8PpJw7_cc9usm/pub?embedded=true"></iframe></p>
+  </div>
 </body>
 
 <footer> <p> This site using Jekyll Themes </p> </footer>
