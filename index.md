@@ -13,10 +13,11 @@
   .topnav a {
     float: left;
     display: block;
-    color: #99FFCC;
-    text-align: justify;
+    color: #FFFFFF;
+    text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+    width= 25%;
   }
 
   .topnav a:hover {
