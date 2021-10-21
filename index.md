@@ -16,7 +16,7 @@
 </head>
   
 <body>
-    <div align="center"> <img height="50" src="https://i.ibb.co/BZrJYNY/received-1036612263752220-removebg-preview-1.png"></div>
+    <div align="left"> <img height="50" src="https://i.ibb.co/BZrJYNY/received-1036612263752220-removebg-preview-1.png"></div>
     
     <ul>      
       <li><a href="#ttc"> Thông tin </a></li>
