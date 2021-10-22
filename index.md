@@ -5,6 +5,7 @@
     ul {
       background-color: #f556b2;
       height: 50px;
+      text-align: center;
     }
 
     li {
