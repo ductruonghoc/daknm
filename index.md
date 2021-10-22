@@ -11,9 +11,9 @@
     li {
       display: inline-block;
       margin-left: 0.2%;
-      margin-top: 14px;
-      margin-bottom: 14px;
-      max-height: 22px;
+      margin-top: 13px;
+      margin-bottom: 13px;
+      max-height: 24px;
       border: 2px solid #ffffff;
       background-color: #ffffff;
       width: 22%;
