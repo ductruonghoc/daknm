@@ -4,21 +4,22 @@
 
   ul {
     background-color: #3b9dff;
-    max-height: 50;
+    max-height: 50px;
   }
 
   li {
     display: inline-block;
-    margin-top: 10;
-    margin-bottom:10;
+    margin-top: 10px;
+    margin-bottom: 10px;
     border: 2px solid #ffffff;
     background-color: #ffffff;
-    width: 140;
+    max-height: 30px;
+    max-width: 140px;
     text-align: center;
-    border-left-top-radius: 20;
-    border-right-bottom-radius: 20;
-    border-left-bottom-radius: 20;
-    border-right-top-radius: 20;
+    border-left-top-radius: 20px;
+    border-right-bottom-radius: 20px;
+    border-left-bottom-radius: 20px;
+    border-right-top-radius: 20px;
   }
 
   li a {
