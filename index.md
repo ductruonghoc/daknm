@@ -13,7 +13,7 @@
       border: 2px solid #ffffff;
       background-color: #ffffff;
       max-height: 30px;
-      width: 25%;
+      width: 22%;
       text-align: center;
       border-radius: 320px;
     }
