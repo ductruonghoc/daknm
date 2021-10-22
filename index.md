@@ -12,8 +12,7 @@
     height: 30;
     border: 2px solid #ffffff;
     background-color: #ffffff;
-    max-width: 140;
-    padding-left: 5;
+    width: 140;
     text-align: center;
     border-left-top-radius: 20;
     border-right-bottom-radius: 20;
