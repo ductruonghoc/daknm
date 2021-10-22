@@ -26,7 +26,7 @@
       margin: 20%;
       color: #000000;
       width: 80%;
-      height: 300px;
+      height: 400px;
       display: flex;
       overflow-x: auto;
       margin: 0 auto;
