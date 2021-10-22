@@ -16,10 +16,7 @@
     max-height: 30px;
     max-width: 140px;
     text-align: center;
-    border-left-top-radius: 20px;
-    border-right-bottom-radius: 20px;
-    border-left-bottom-radius: 20px;
-    border-right-top-radius: 20px;
+    border-radius: 320px;
   }
 
   li a {
