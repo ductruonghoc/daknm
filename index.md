@@ -2,6 +2,10 @@
   <meta charset="utf-8">
   <style>
 
+  ul {
+  background-color: #3b9dff;
+  }
+
   li {
   display: inline;
   }
