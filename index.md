@@ -8,9 +8,10 @@
 
   li {
     display: inline-block;
-    width: 25%;
+    width: 20%;
     border: 2px solid #ffffff;
-    background-color: #ffffff;    
+    background-color: #ffffff;
+    height: 80%;
   }
 
   li a {
