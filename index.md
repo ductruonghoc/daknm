@@ -123,10 +123,7 @@ Bọn mình là nhóm 5 đến từ 21CLC09
 
 <h3 id="bbbc"> <b>Biên bảng</b></h3>
 <p>
-  <b>1. Biên bảng thành lập </b>
-  <button aria-expanded="false" data-toggle="collapse" data-target="#bbtl">
-    <img width="15px" src="https://i.ibb.co/myHKB3z/images-jpeg-removebg-preview.png"></img>
-  </button>
+  <b>1. Biên bảng thành lập </b><button aria-expanded="false" data-toggle="collapse" data-target="#bbtl"><img width="15px" src="https://i.ibb.co/myHKB3z/images-jpeg-removebg-preview.png"></img></button>
 </p>
 <div class="collapse mt-4" id="bbtl">   
   <p align="center" class="card-text">    
