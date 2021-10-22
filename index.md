@@ -14,7 +14,6 @@
       background-color: #ffffff;
       max-height: 30px;
       width: 20%;
-      font-size: 20%;
       text-align: center;
       border-radius: 320px;
     }
