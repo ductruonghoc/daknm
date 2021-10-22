@@ -4,12 +4,13 @@
 
   ul {
     background-color: #3b9dff;
-    height: 50;
+    max-height: 50;
   }
 
   li {
     display: inline-block;
-    height: 30;
+    margin-top: 10;
+    margin-bottom:10;
     border: 2px solid #ffffff;
     background-color: #ffffff;
     width: 140;
@@ -18,7 +19,6 @@
     border-right-bottom-radius: 20;
     border-left-bottom-radius: 20;
     border-right-top-radius: 20;
-    margin-left:5
   }
 
   li a {
