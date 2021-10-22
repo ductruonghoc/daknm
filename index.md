@@ -13,7 +13,7 @@
       border: 2px solid #ffffff;
       background-color: #ffffff;
       max-height: 30px;
-      max-width: 140px;
+      max-width: 200px;
       text-align: center;
       border-radius: 320px;
     }
