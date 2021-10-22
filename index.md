@@ -9,9 +9,10 @@
 
     li {
       display: inline-block;
-      margin: auto;
-      padding-top: 2%;
-      height: 50%;
+      margin-left: 0.2%;
+      margin-top: 15px;
+      margin-bottom: 15px;
+      max-height: 20px;
       border: 2px solid #ffffff;
       background-color: #ffffff;
       width: 22%;
