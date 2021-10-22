@@ -9,12 +9,12 @@
 
     li {
       display: inline-block;
-      margin: 5%;
+      margin: 3%;
       border: 2px solid #ffffff;
       background-color: #ffffff;
       max-height: 30px;
       width: 20%;
-      font-size: 5%;
+      font-size: 20%;
       text-align: center;
       border-radius: 320px;
     }
