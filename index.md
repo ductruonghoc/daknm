@@ -38,7 +38,7 @@ Bọn mình là nhóm 5 đến từ 21CLC09
 ```
 
 <h3 style="color: pink" id="ctv"><b> Các thành viên</b></h3>    
-<h4 align="left"><b>Nguyễn Nhật Phi</b><a href="https://www.facebook.com/ngnhatfiii1804"><img style="padding-right=10%; align="right"" width="20%" src="https://static.thenounproject.com/png/316802-200.png"></a></h4>
+<h4 align="left"><b>Nguyễn Nhật Phi</b><a href="https://www.facebook.com/ngnhatfiii1804"><img style="padding-right=10%;" align="right" width="20%" src="https://static.thenounproject.com/png/316802-200.png"></a></h4>
   Trưởng nhóm thân thiện
 
 <h4>
