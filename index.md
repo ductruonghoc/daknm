@@ -15,7 +15,6 @@
       margin-bottom: 3%;
       border: 2px solid #ffffff;
       background-color: #ffffff;
-      max-height: 40px;
       width: 22%;
       text-align: center;
       border-radius: 320px;
