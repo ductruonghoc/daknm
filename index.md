@@ -3,22 +3,19 @@
   <style>
 
   ul {
-  background-color: #3b9dff;
+    background-color: #3b9dff;
   }
 
   li {
-  display: inline;
+    display: inline;
+    width: 25%;
+    border: 2px solid #ffffff;
+    background-color: #ffffff;
   }
 
   li a {
-  padding-right: 15px;
-  border: 2px solid #ffffff;
-  background-color: #ffffff;
-  border-left-radius: 20px;
-  border-right-radius: 20px;
-  width: 25%;
-  border-height: 90%;
-  color: black;
+    text-align: center;
+    color: black;
   }
 
   </style>
