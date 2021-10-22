@@ -12,6 +12,10 @@
 
   li a {
   padding-right: 15px;
+  border: 2px solid #ffffff;
+  background-color: #ffffff;
+  border-left-radius: 20px;
+  border-right-radius: 20px;
   color: black;
   }
 
