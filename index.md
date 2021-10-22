@@ -36,9 +36,9 @@
       display: flex;
       overflow-x: auto;
       margin: 0 auto;
-      border-left: 1px solid #000000;
-      border-right: 1px solid #000000;
-      border-top: 1px solid #000000;
+      border-left: 1px solid #f556b2;
+      border-right: 1px solid #f556b2;
+      border-top: 1px solid #f556b2;
       border-radius: 20px;
       -webkit-overflow-scrolling: touch;
       scroll-behavior: smooth;
@@ -69,10 +69,10 @@
 
 <img width="100%" src="https://i.ibb.co/DG2Nvhy/ezgif-2-03b217ffa3f6.gif">
     
-<h3 style="color: pink" id="ttc"><b>Thông tin chung</b></h3>
+<h3 style="color: #f556b2" id="ttc"><b>Thông tin chung</b></h3>
 Bọn mình là nhóm 5 đến từ 21CLC09
     
-<h3 style="color: pink" id="ctv"><b> Các thành viên</b></h3>
+<h3 style="color: #f556b2" id="ctv"><b> Các thành viên</b></h3>
 <div class="slide-wrap">
   
   <a href="#slide-1"></a>
@@ -116,9 +116,9 @@ Bọn mình là nhóm 5 đến từ 21CLC09
     
     
   
-<h3 style="color: pink" id="han"> Hình ảnh nhóm </h3>  
+<h3 style="color: #f556b2" id="han"> Hình ảnh nhóm </h3>  
 
-<h3 style="color: pink" id="bbbc"> <b>Biên bảng</b></h3>
+<h3 style="color: #f556b2" id="bbbc"> <b>Biên bảng</b></h3>
 <p><b>1. Biên bảng thành lập</b></p>
 
 <p align="center"><iframe src="https://drive.google.com/file/d/1YHN3Ju8baykncpl_Y_gnXCC9zcwiz1wx/preview" width="100%" height="600" allow="autoplay"></iframe></p>
