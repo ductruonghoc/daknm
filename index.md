@@ -11,7 +11,7 @@
       display: inline-block;
       margin: auto;
       padding-top: 2%;
-      height: 70%;
+      height: 50%;
       border: 2px solid #ffffff;
       background-color: #ffffff;
       width: 22%;
