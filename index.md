@@ -7,10 +7,10 @@
   }
 
   li {
-    display: inline;
+    display: inline-block;
     width: 25%;
     border: 2px solid #ffffff;
-    background-color: #ffffff;
+    background-color: #ffffff;    
   }
 
   li a {
