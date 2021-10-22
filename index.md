@@ -9,11 +9,14 @@
 
     li {
       display: inline-block;
-      margin: 3px;
+      margin-left: 0px;
+      margin-right: 0.5%;
+      margin-top: 3%;
+      margin-bottom: 3%;
       border: 2px solid #ffffff;
       background-color: #ffffff;
-      max-height: 30px;
-      width: 21%;
+      max-height: 40px;
+      width: 22%;
       text-align: center;
       border-radius: 320px;
       overflow: auto;
