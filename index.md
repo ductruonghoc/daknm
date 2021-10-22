@@ -4,15 +4,21 @@
 
   ul {
     background-color: #3b9dff;
+    max-height: 30;
   }
 
   li {
     display: inline-block;
-    width: 20%;
+    max-height: 20;
     border: 2px solid #ffffff;
     background-color: #ffffff;
-    height: 80%;
+    max-width: 140;
+    padding-left: 5;
     text-align: center;
+    border-left-top-radius: 20;
+    border-right-bottom-radius: 20;
+    border-left-bottom-radius: 20;
+    border-right-top-radius: 20;
   }
 
   li a {
