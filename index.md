@@ -115,9 +115,9 @@ Bọn mình là nhóm 5 đến từ 21CLC09
     
     
   
-<h3 id="han"> Hình ảnh nhóm </h3>  
+<h3 style="color: pink" id="han"> Hình ảnh nhóm </h3>  
 
-<h3 id="bbbc"> <b>Biên bảng</b></h3>
+<h3 style="color: pink" id="bbbc"> <b>Biên bảng</b></h3>
 <p><b>1. Biên bảng thành lập</b></p>
 
 <p align="center"><iframe src="https://drive.google.com/file/d/1YHN3Ju8baykncpl_Y_gnXCC9zcwiz1wx/preview" width="100%" height="600" allow="autoplay"></iframe></p>
