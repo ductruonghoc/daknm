@@ -10,6 +10,7 @@
     li {
       display: inline-block;
       margin: auto;
+      padding-top: 2%;
       height: 70%;
       border: 2px solid #ffffff;
       background-color: #ffffff;
