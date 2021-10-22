@@ -9,8 +9,7 @@
 
     li {
       display: inline-block;
-      margin-left: 4px;
-      margin-top: 4px;
+      margin 0 auto;
       border: 2px solid #ffffff;
       background-color: #ffffff;
       max-height: 30px;
