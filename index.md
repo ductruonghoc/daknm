@@ -9,7 +9,7 @@
 
     li {
       display: inline-block;
-      padding-left: 5px;
+      padding-left: 4px;
       margin-top: 4.5px;
       border: 2px solid #ffffff;
       background-color: #ffffff;
