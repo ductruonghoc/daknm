@@ -112,11 +112,7 @@ Bọn mình là nhóm 5 đến từ 21CLC09
     
     
   
-<h3 id="han"> Hình ảnh nhóm </h3>
-
-<p>
-    <img align="left" height="100" src="https://hatrabbits.com/wp-content/uploads/2017/01/random.jpg">
-</p>
+<h3 id="han"> Hình ảnh nhóm </h3>  
 
 <h3 id="bbbc"> <b>Biên bảng</b></h3>
 <p><b>1. Biên bảng thành lập</b></p>
