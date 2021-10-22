@@ -122,10 +122,8 @@ Bọn mình là nhóm 5 đến từ 21CLC09
 <h3 id="han"> Hình ảnh nhóm </h3>  
 
 <h3 id="bbbc"> <b>Biên bảng</b></h3>
-<p><b>1. Biên bảng thành lập</b><button aria-expanded="false" data-toggle="collapse" data-target="#bbtl"><img width="15px" src="https://i.ibb.co/myHKB3z/images-jpeg-removebg-preview.png"/></button></p>
-<div class="collapse mt-4" id="bbtl"><p align="center" class="card-text"><iframe src="https://drive.google.com/file/d/1YHN3Ju8baykncpl_Y_gnXCC9zcwiz1wx/preview" width="100%" height="600" allow="autoplay"></iframe></p></div>
-
-<a href="#boxnoidung" aria-expanded="false" data-toggle="collapse">Bấm vào đây</a> <button aria-expanded="false" class="btn btn-outline-danger" data-toggle="collapse" data-target="#boxnoidung">Bấm vào đây</button> <div class="collapse mt-4" id="boxnoidung"> <div class="card card-body bg-warning"> <p class="card-text">Nội dung hiện thị !</p> </div> </div>
+<p><b>1. Biên bảng thành lập</b></p>
+<p align="center" ><iframe src="https://drive.google.com/file/d/1YHN3Ju8baykncpl_Y_gnXCC9zcwiz1wx/preview" width="100%" height="600" allow="autoplay"></iframe></p>
 
 <footer> <p> This site using Jekyll Themes </p> </footer>
 
