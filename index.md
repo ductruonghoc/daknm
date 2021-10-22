@@ -16,6 +16,8 @@
   background-color: #ffffff;
   border-left-radius: 20px;
   border-right-radius: 20px;
+  width: 25%;
+  border-height: 90%;
   color: black;
   }
 
