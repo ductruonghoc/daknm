@@ -134,7 +134,7 @@ Bọn mình là nhóm 5 đến từ 21CLC09
 <h3 id="bbbc"> <b>Biên bảng</b></h3>
 <p><b>1. Biên bảng thành lập</b><button onclick="collapse()">Toggle</button>
  </p>
-<div id="bbtl"><p align="center" ><iframe src="https://drive.google.com/file/d/1YHN3Ju8baykncpl_Y_gnXCC9zcwiz1wx/preview" width="100%" height="600" allow="autoplay"></iframe></p></div>
+<div id="bbtl" style="display: none"><p align="center" ><iframe src="https://drive.google.com/file/d/1YHN3Ju8baykncpl_Y_gnXCC9zcwiz1wx/preview" width="100%" height="600" allow="autoplay"></iframe></p></div>
 
 <footer> <p> This site using Jekyll Themes </p> </footer>
 
