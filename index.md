@@ -12,10 +12,10 @@
     border: 2px solid #ffffff;
     background-color: #ffffff;
     height: 80%;
+    text-align: center;
   }
 
   li a {
-    text-align: center;
     color: black;
   }
 
