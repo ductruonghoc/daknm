@@ -11,7 +11,7 @@
       display: inline-block;
       margin-left: 3px;
       margin-right: 3px;
-      margin-top: 10%;
+      margin-top: 3px;
       border: 2px solid #ffffff;
       background-color: #ffffff;
       max-height: 30px;
