@@ -9,11 +9,11 @@
 
     li {
       display: inline-block;
-      margin: 0 auto;
+      margin: 3;
       border: 2px solid #ffffff;
       background-color: #ffffff;
       max-height: 30px;
-      width: 22%;
+      width: 21%;
       text-align: center;
       border-radius: 320px;
       overflow: auto;
