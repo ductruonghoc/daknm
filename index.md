@@ -4,15 +4,14 @@
 
     ul {
       background-color: #f556b2;
-      max-height: 50px;
+      height: 50px;
     }
 
     li {
       display: inline-block;
-      margin-left: 0px;
+      padding-left: 0px;
       margin-right: 0.5%;
-      margin-top: 3%;
-      margin-bottom: 3%;
+      height: 80%;
       border: 2px solid #ffffff;
       background-color: #ffffff;
       width: 22%;
