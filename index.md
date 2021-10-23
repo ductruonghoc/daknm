@@ -67,8 +67,11 @@
       border-top-left-radius: 20px;
       border-bottom-right-radius: 20px;
       padding: 50px;
-      font-color: #ffffff;
       display: block;
+    }
+
+    .black a{
+    font-color: #ffffff;
     }
   </style>
   <script type="text/javascript">
