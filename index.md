@@ -70,9 +70,6 @@
       display: block;
     }
 
-    .black a{
-    font-color: #ffffff;
-    }
   </style>
   <script type="text/javascript">
     function collapse() {
