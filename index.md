@@ -78,6 +78,7 @@
       border-top-right-radius: 20px;
       border-bottom-left-radius: 20px;
       padding: 50px;
+      padding-bottom: 0px;
       display: block;
       text-align: center;
      }
