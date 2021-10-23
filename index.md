@@ -6,7 +6,7 @@
       padding: 10px;
       margin-bottom: 20px;
       background-color: #000000;
-      height: 40px;
+      height: 30px;
       border: 1px solid #000000;
       border-radius: 20px;
       text-align: center;
