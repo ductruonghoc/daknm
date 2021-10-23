@@ -3,7 +3,7 @@
   <style>
 
     ul {
-      padding: 2px;
+      padding: 10px;
       margin-bottom: 20px;
       background-color: #000000;
       height: 50px;
@@ -13,8 +13,7 @@
     }
 
     li {
-      display: inline-block;
-      height: 46px;
+      display: inline-block;      
       border: 2px solid #ffffff;
       background-color: #ffffff;
       width: 22%;
