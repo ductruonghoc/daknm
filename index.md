@@ -58,6 +58,14 @@
       flex-shrink: 0;
       height: 100%;
     }    
+
+    .black {
+      min-height: 300px; 
+      background-color: #000000;
+      color: #ffffff;
+      border-top-left-radius: 20px;
+      border-bottom-right-radius: 20px;
+    }
   </style>
   <script type="text/javascript">
     function collapse() {
@@ -80,9 +88,12 @@
 </ul>
 
 <img width="100%" src="https://i.ibb.co/DG2Nvhy/ezgif-2-03b217ffa3f6.gif">
-    
-<h3 id="ttc"><b>Thông tin chung</b></h3>
-Bọn mình là nhóm 5 đến từ 21CLC09
+
+<div class="black">    
+  <h3 id="ttc"><b>Thông tin chung</b></h3>
+  <p>Bọn mình là nhóm 5 đến từ 21CLC09</p>
+</div>
+
     
 <h3 id="ctv"><b> Các thành viên</b></h3>
 <div class="slide-wrap">
