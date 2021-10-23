@@ -60,12 +60,15 @@
     }    
 
     .black {
-      min-height: 200px; 
+      margin-top: 50px;
+      margin-bottom: 50px;
+      min-height: 150px; 
       background-color: #000000;
-      font-color: white;
       border-top-left-radius: 20px;
       border-bottom-right-radius: 20px;
       padding: 50px;
+      font-color: #ffffff;
+      display: block;
     }
   </style>
   <script type="text/javascript">
