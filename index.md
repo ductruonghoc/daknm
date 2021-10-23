@@ -4,7 +4,7 @@
 
     ul {
       padding: 0px;
-      margin: 0px;
+      margin-bottom: 50px;
       background-color: #000000;
       height: 50px;
       border: 1px solid #000000;
@@ -91,7 +91,7 @@
   <li><a href="#bbbc"> Báo cáo </a></li>   
 </ul>
 
-<img width="100%" src="https://i.ibb.co/DG2Nvhy/ezgif-2-03b217ffa3f6.gif">
+<img style="border-radius: 20px" width="100%" src="https://i.ibb.co/DG2Nvhy/ezgif-2-03b217ffa3f6.gif">
 
 <div style="color: #ffffff" class="black">    
   <h3 style="color: #ffffff" id="ttc"><b>Thông tin chung</b></h3>
