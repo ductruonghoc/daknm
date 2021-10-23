@@ -73,7 +73,6 @@
     .ctv {
       margin-bottom: 50px;
       min-height: 100px;
-      padding: 50px;
       background-color: #ffffff;
       border-top-right-radius: 20px;
       border-bottom-left-radius: 20px;
@@ -81,6 +80,20 @@
       padding-bottom: 0px;
       display: block;
       text-align: center;
+     }
+
+     .han {
+       margin-height: 50px;
+       min-height: 100px;
+       background-color: #000000;
+       border-top-left-radius: 20px;
+       border-bottom-right-radius: 20px;
+       padding: 50px;
+       display: block;
+     }
+
+     .han h3{
+     color: #ffffff;
      }
 
   </style>
@@ -155,8 +168,10 @@
     </div>
   </div>    
 </div>   
-  
-<h3 id="han"> Hình ảnh nhóm </h3>  
+
+<div class="han">  
+  <h3 id="han"> Hình ảnh nhóm </h3>  
+</div>
 
 <h3 id="bbbc"> <b>Biên bảng</b></h3>
 <p><b>1. Biên bảng thành lập</b><button onclick="collapse()"><img width="15" src="https://i.ibb.co/myHKB3z/images-jpeg-removebg-preview.png"/></button>
