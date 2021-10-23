@@ -117,7 +117,7 @@
      }
   </style>
   <script type="text/javascript">
-    function collapse(var cliked_id) {
+    function collapse(var clicked_id) {
       var x = document.getElementById('#bb${clicked_id}');
       if (x.style.display === 'none') {
           x.style.display = 'block';
@@ -193,8 +193,8 @@
 </div>
 
 <div class="bbbc">
-  <h3 id="bbbc"> <b>Biên bảng</b></h3>
-  <p><b>1. Biên bảng thành lập</b><button id="a" onclick="collapse(this.id)"><img width="15" src="https://i.ibb.co/myHKB3z/images-jpeg-removebg-preview.png"/></button></p>
+  <h3 id="bbbc"> <b>Biên bản</b></h3>
+  <p><b>1. Biên bản thành lập</b><button id="a" onclick="collapse(this.id)"><img width="15" src="https://i.ibb.co/myHKB3z/images-jpeg-removebg-preview.png"/></button></p>
   <div id="bba" style="display: none"><p align="center"><iframe src="https://drive.google.com/file/d/1YHN3Ju8baykncpl_Y_gnXCC9zcwiz1wx/preview" width="100%" style="min-height: 50%;" allow="autoplay"></iframe></p></div>
 </div>
 
