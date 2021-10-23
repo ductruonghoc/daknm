@@ -10,6 +10,7 @@
       border: 1px solid #000000;
       border-radius: 20px;
       text-align: center;
+      position: fixed;
     }
 
     li {
