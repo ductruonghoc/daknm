@@ -118,8 +118,8 @@
   </style>
   <script type="text/javascript">
     function collapse(clicked_id) {
-      var y ='bb';
-      y+=document.getElementById(clicked_id).id.toString();
+      var y = "bb";
+      y += document.getElementById(clicked_id).id.toString();
       var x = document.getElementById(y);
       if (x.style.display === 'none') {
           x.style.display = 'block';
