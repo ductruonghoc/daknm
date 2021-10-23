@@ -3,6 +3,7 @@
   <style>
 
     ul {
+      width: 100%;
       padding: 0px;
       margin-bottom: 50px;
       background-color: #000000;
