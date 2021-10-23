@@ -14,6 +14,7 @@
 
     li {
       display: inline-block;
+      height: 46px;
       border: 2px solid #ffffff;
       background-color: #ffffff;
       width: 22%;
