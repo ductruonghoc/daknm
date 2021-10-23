@@ -34,7 +34,7 @@
       margin: 20%;
       color: #000000;
       width: 80%;
-      height: 400px;
+      height: 300px;
       display: flex;
       overflow-x: auto;
       margin: 0 auto;
