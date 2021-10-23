@@ -38,9 +38,9 @@
       display: flex;
       overflow-x: auto;
       margin: 0 auto;
-      border-left: 1px solid #f556b2;
-      border-right: 1px solid #f556b2;
-      border-top: 1px solid #f556b2;
+      border-left: 1px solid #000000;
+      border-right: 1px solid #000000;
+      border-top: 1px solid #000000;
       border-radius: 20px;
       -webkit-overflow-scrolling: touch;
       scroll-behavior: smooth;
@@ -69,6 +69,18 @@
       padding: 50px;
       display: block;
     }
+ 
+    .ctv {
+      margin-bottom: 50px;
+      min-height: 100px;
+      padding: 50px;
+      background-color: #ffffff;
+      border-top-right-radius: 20px;
+      border-bottom-left-radius: 20px;
+      padding: 50px;
+      display: block;
+      text-align: center;
+     }
 
   </style>
   <script type="text/javascript">
@@ -98,50 +110,50 @@
   <p >Bọn mình là nhóm 5 đến từ 21CLC09</p>
 </div>
 
-    
-<h3 id="ctv"><b> Các thành viên</b></h3>
-<div class="slide-wrap">
+<div class="ctv">     
+  <h3 id="ctv"><b> Các thành viên</b></h3>
+  <div class="slide-wrap">
   
-  <a href="#slide-1"></a>
-  <a href="#slide-2"></a>
-  <a href="#slide-3"></a>
-  <a href="#slide-4"></a>
-  <a href="#slide-5"></a>
+    <a href="#slide-1"></a>
+    <a href="#slide-2"></a>
+    <a href="#slide-3"></a>
+    <a href="#slide-4"></a>
+    <a href="#slide-5"></a>
   
-  <div class="slider">
-    <div class="slide" id="slide-1">
-      <a href="https://www.facebook.com/ngnhatfiii1804"><img width="50%" src="https://static.thenounproject.com/png/316802-200.png"></a>
-      <h4><b>Nguyễn Nhật Phi</b></h4>
-      <p>Trưởng nhóm thân thiện</p>
+    <div class="slider">
+      <div class="slide" id="slide-1">
+        <a href="https://www.facebook.com/ngnhatfiii1804"><img width="50%" src="https://static.thenounproject.com/png/316802-200.png"></a>
+        <h4><b>Nguyễn Nhật Phi</b></h4>
+        <p>Trưởng nhóm thân thiện</p>
+      </div>
+      <div class="slide" id="slide-2">
+        <a href="https://www.facebook.com/dev.tronghieu"><img width="50%" src="https://static.thenounproject.com/png/316802-200.png"></a>
+        <h4><b>Nguyễn Trọng Hiếu</b></h4>
+        <p>Kiểm duyệt viên thông thái</p>    
+      </div>
+      <div class="slide" id="slide-3">
+        <a href="https://www.facebook.com/profile.php?id=100010494795471"><img width="50%" src="https://static.thenounproject.com/png/316802-200.png"></a>
+        <h4><b>Nguyễn Phú Minh Bảo</b></h4>
+        <p>MC dui tánh</p>    
+      </div>
+      <div class="slide" id="slide-4">
+        <a href="https://www.facebook.com/profile.php?id=100015800913107"><img width="50%" src="https://static.thenounproject.com/png/316802-200.png"></a>
+        <h4><b>Fa Ngọc Uyển Nhi</b></h4>
+        <p>MC nhiệt tình</p>         
+      </div>
+      <div class="slide" id="slide-5">
+        <a href="https://www.facebook.com/duc.leminh2812/"><img width="50%" src="https://static.thenounproject.com/png/316802-200.png"></a>
+        <h4><b>Lê Minh Đức</b></h4>
+        <p>Web gà mờ</p>      
+      </div>
+      <div class="slide" id="slide-6">
+        <a href="https://www.facebook.com/nomatterwhatusay"><img width="50%" src="https://static.thenounproject.com/png/316802-200.png"></a>
+        <h4><b>Trương Vĩ Thành</b></h4>
+        <p>Hậu cần kín tiếng</p>      
+      </div>
     </div>
-    <div class="slide" id="slide-2">
-      <a href="https://www.facebook.com/dev.tronghieu"><img width="50%" src="https://static.thenounproject.com/png/316802-200.png"></a>
-      <h4><b>Nguyễn Trọng Hiếu</b></h4>
-      <p>Kiểm duyệt viên thông thái</p>    
-    </div>
-    <div class="slide" id="slide-3">
-      <a href="https://www.facebook.com/profile.php?id=100010494795471"><img width="50%" src="https://static.thenounproject.com/png/316802-200.png"></a>
-      <h4><b>Nguyễn Phú Minh Bảo</b></h4>
-      <p>MC dui tánh</p>    
-    </div>
-    <div class="slide" id="slide-4">
-      <a href="https://www.facebook.com/profile.php?id=100015800913107"><img width="50%" src="https://static.thenounproject.com/png/316802-200.png"></a>
-      <h4><b>Fa Ngọc Uyển Nhi</b></h4>
-      <p>MC nhiệt tình</p>         
-    </div>
-    <div class="slide" id="slide-5">
-      <a href="https://www.facebook.com/duc.leminh2812/"><img width="50%" src="https://static.thenounproject.com/png/316802-200.png"></a>
-      <h4><b>Lê Minh Đức</b></h4>
-      <p>Web gà mờ</p>      
-    </div>
-    <div class="slide" id="slide-6">
-      <a href="https://www.facebook.com/nomatterwhatusay"><img width="50%" src="https://static.thenounproject.com/png/316802-200.png"></a>
-      <h4><b>Trương Vĩ Thành</b></h4>
-      <p>Hậu cần kín tiếng</p>      
-    </div>
-  </div>
-    
-    
+  </div>    
+</div>   
   
 <h3 id="han"> Hình ảnh nhóm </h3>  
 
