@@ -4,7 +4,7 @@
 
     ul {
       padding: 0px;
-      margin-bottom: 50px;
+      margin-bottom: 20px;
       background-color: #000000;
       height: 50px;
       border: 1px solid #000000;
@@ -61,8 +61,8 @@
     .black {
       margin-left: 20px;
       margin-right: 20px;
-      margin-top: 50px;
-      margin-bottom: 50px;
+      margin-top: 20px;
+      margin-bottom: 20px;
       min-height: 100px; 
       background-color: #000000;
       border-top-left-radius: 20px;
@@ -72,7 +72,7 @@
     }
  
     .ctv {
-      margin-bottom: 50px;
+      margin-bottom: 20px;
       margin-left: 20px;
       margin-right: 20px;
       min-height: 100px;
@@ -86,7 +86,7 @@
      }
 
      .han {
-       margin-bottom: 50px;
+       margin-bottom: 20px;
        margin-left: 20px;
        margin-right: 20px;
        min-height: 100px;
@@ -102,7 +102,7 @@
      }
 
      .bbbc {
-       margin-bottom: 50px;
+       margin-bottom: 20px;
        margin-left: 20px;
        margin-right: 20px;
        min-height: 100px;
