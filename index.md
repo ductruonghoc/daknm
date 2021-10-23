@@ -8,8 +8,7 @@
       background-color: #000000;
       height: 50px;
       border: 1px solid #000000;
-      border-top-left-radius: 20px;
-      border-bottom-right-radius: 20px;
+      border-radius: 20px;
       text-align: center;
     }
 
