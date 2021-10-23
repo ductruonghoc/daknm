@@ -60,9 +60,9 @@
     }    
 
     .black {
-      min-height: 300px; 
+      min-height: 200px; 
       background-color: #000000;
-      font-color: #ffffff;
+      font-color: white;
       border-top-left-radius: 20px;
       border-bottom-right-radius: 20px;
       padding: 50px;
