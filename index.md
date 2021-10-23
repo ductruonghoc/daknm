@@ -117,8 +117,8 @@
      }
   </style>
   <script type="text/javascript">
-    function collapse(var clicked_id) {
-      var x = document.getElementById('#bb${clicked_id}');
+    function collapse(clicked_id) {
+      var x = document.getElementById('bb'+clicked_id);
       if (x.style.display === 'none') {
           x.style.display = 'block';
       } else {
