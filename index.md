@@ -62,7 +62,7 @@
     .black {
       margin-top: 50px;
       margin-bottom: 50px;
-      min-height: 150px; 
+      min-height: 100px; 
       background-color: #000000;
       border-top-left-radius: 20px;
       border-bottom-right-radius: 20px;
