@@ -79,7 +79,8 @@
       background-color: #ffffff;
       border-top-right-radius: 20px;
       border-bottom-left-radius: 20px;
-      padding: 50px;
+      padding: 20px;
+      padding-top:10px;
       padding-bottom: 0px;
       display: block;
       text-align: center;
@@ -109,9 +110,7 @@
        background-color: #ffffff;
        border-top-right-radius: 20px;
        border-bottom-left-radius: 20px;
-       padding: 50px;
-       padding-right: 10px;
-       padding-left: 10px;
+       padding: 10px;
        padding-bottom: 0px;
        text-align: center;
        display: block;
