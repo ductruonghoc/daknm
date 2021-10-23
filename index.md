@@ -3,7 +3,6 @@
   <style>
 
     ul {
-      width: 100%;
       padding: 0px;
       margin-bottom: 50px;
       background-color: #000000;
@@ -11,7 +10,6 @@
       border: 1px solid #000000;
       border-radius: 20px;
       text-align: center;
-      position: fixed;
     }
 
     li {
