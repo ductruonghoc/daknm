@@ -34,7 +34,6 @@
       margin: 20%;
       color: #000000;
       width: 80%;
-      height: 300px;
       display: flex;
       overflow-x: auto;
       margin: 0 auto;
@@ -112,6 +111,7 @@
        border-bottom-left-radius: 20px;
        padding: 50px;
        padding-bottom: 0px;
+       text-align: center;
        display: block;
      }
   </style>
