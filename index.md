@@ -61,6 +61,8 @@
     }    
 
     .black {
+      margin-left: 20px;
+      margin-right: 20px;
       margin-top: 50px;
       margin-bottom: 50px;
       min-height: 100px; 
@@ -73,6 +75,8 @@
  
     .ctv {
       margin-bottom: 50px;
+      margin-left: 20px;
+      margin-right: 20px;
       min-height: 100px;
       background-color: #ffffff;
       border-top-right-radius: 20px;
@@ -84,7 +88,9 @@
      }
 
      .han {
-       margin-height: 50px;
+       margin-bottom: 50px;
+       margin-left: 20px;
+       margin-right: 20px;
        min-height: 100px;
        background-color: #000000;
        border-top-left-radius: 20px;
