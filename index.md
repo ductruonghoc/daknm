@@ -93,9 +93,9 @@
 
 <img width="100%" src="https://i.ibb.co/DG2Nvhy/ezgif-2-03b217ffa3f6.gif">
 
-<div class="black">    
-  <h3 style="color: #ffffff"> id="ttc"><b>Thông tin chung</b></h3>
-  <p style="color: #ffffff">Bọn mình là nhóm 5 đến từ 21CLC09</p>
+<div style="color: #ffffff" class="black">    
+  <h3 id="ttc"><b>Thông tin chung</b></h3>
+  <p >Bọn mình là nhóm 5 đến từ 21CLC09</p>
 </div>
 
     
