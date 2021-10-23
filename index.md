@@ -62,9 +62,10 @@
     .black {
       min-height: 300px; 
       background-color: #000000;
-      color: #ffffff;
+      font-color: #ffffff;
       border-top-left-radius: 20px;
       border-bottom-right-radius: 20px;
+      padding: 50px;
     }
   </style>
   <script type="text/javascript">
