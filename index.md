@@ -97,11 +97,23 @@
        padding: 50px;
        display: block;
      }
-
+    
      .han h3{
      color: #ffffff;
      }
 
+     .bbbc {
+       margin-bottom: 50px;
+       margin-left: 20px;
+       margin-right: 20px;
+       min-height: 100px;
+       background-color: #ffffff;
+       border-top-right-radius: 20px;
+       border-bottom-left-radius: 20px;
+       padding: 50px;
+       padding-bottom: 0px;
+       display: block;
+     }
   </style>
   <script type="text/javascript">
     function collapse() {
@@ -179,10 +191,11 @@
   <h3 id="han"> Hình ảnh nhóm </h3>  
 </div>
 
-<h3 id="bbbc"> <b>Biên bảng</b></h3>
-<p><b>1. Biên bảng thành lập</b><button onclick="collapse()"><img width="15" src="https://i.ibb.co/myHKB3z/images-jpeg-removebg-preview.png"/></button>
- </p>
-<div id="bbtl" style="display: none"><p align="center" ><iframe src="https://drive.google.com/file/d/1YHN3Ju8baykncpl_Y_gnXCC9zcwiz1wx/preview" width="100%" height="600" allow="autoplay"></iframe></p></div>
+<div class="bbbc">
+  <h3 id="bbbc"> <b>Biên bảng</b></h3>
+  <p><b>1. Biên bảng thành lập</b><button onclick="collapse()"><img width="15" src="https://i.ibb.co/myHKB3z/images-jpeg-removebg-preview.png"/></button></p>
+  <div id="bbtl" style="display: none"><p align="center" ><iframe src="https://drive.google.com/file/d/1YHN3Ju8baykncpl_Y_gnXCC9zcwiz1wx/preview" width="100%" height="600" allow="autoplay"></iframe></p></div>
+</div>
 
 <footer> <p> This site using Jekyll Themes </p> </footer>
 
