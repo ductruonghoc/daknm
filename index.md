@@ -14,7 +14,7 @@
     li {
       display: inline-block;      
       background-color: #657e89;
-      height: 28px;
+      padding: 5px;
       text-align: center;
       border-radius: 320px;
       overflow: auto;
