@@ -231,7 +231,7 @@
   <p style="color:#ffffff;">Chào mừng mọi người đến với nhóm 5</p>
 </div>
      
-  <h3 style="margin:auto; border-radius:5px; background-color:#ff308f; color:white; max-width:200px; padding:5px; text-align:center;" id="ctv"><b> Các thành viên</b></h3>
+  <h3 style="margin:auto; border-radius:5px; background-color:#ff308f; color:white; max-width:200px; padding:3px; text-align:center;" id="ctv"><b> Các thành viên</b></h3>
   <div class="slider">
       <div class="slide fade" style="display:block">
         <div class="numbertext">1 / 6</div>
