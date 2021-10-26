@@ -14,7 +14,6 @@
     li {
       display: inline-block;      
       background-color: #657e89;
-      width: 22%;
       height: 28px;
       text-align: center;
       border-radius: 320px;
@@ -26,7 +25,7 @@
     }
 	  
     li a:hover {
-	  width: 100%;
+	  border-radius: 20px;
 	  background-color: #ff308f;
 	  }	  
 	  
