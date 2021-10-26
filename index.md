@@ -233,6 +233,7 @@ function typeWriter() {
 
 <div style="color: #ffffff" class="black">    
   <h3 style="color: #ffffff" id="ttc"><b>Thông tin chung</b></h3>
+  <button onclick="typeWriter()">Click</button>
   <p id="type"></p>
 </div>
      
