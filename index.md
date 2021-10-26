@@ -221,7 +221,7 @@
       <div class="slide fade">
         <div class="numbertext">1 / 6</div>
         <img src="https://static.thenounproject.com/png/316802-200.png">
-		    <h4><b>Nguyễn Nhật Phi</b></h4>
+	<h4><b>Nguyễn Nhật Phi</b></h4>
         <p><b>Trưởng nhóm thân thiện</b></p></div>
       <div class="slide fade" >
       <div class="numbertext">2 / 6</div>
@@ -240,7 +240,7 @@
         <p>Thu thập thông tin</p>         
       </div>
       <div class="slide fade">
-        <img width="50%" src="https://static.thenounproject.com/png/316802-200.png">
+        <img src="https://static.thenounproject.com/png/316802-200.png">
         <h4><b>Lê Minh Đức</b></h4>
         <p>Web gà mờ</p>      
       </div>
