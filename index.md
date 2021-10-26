@@ -132,7 +132,7 @@
   <li><a href="#bbbc"> Báo cáo </a></li>   
 </ul>
 
-<img style="border-radius: 20px" width="100%" src="https://i.ibb.co/y5cnnMW/ezgif-3-0a9e99cf56e5.gif">
+<img style="border-radius: 20px" width="100%" src="https://i.ibb.co/f2YMMWh/ezgif-6-776185cdd998.gif">
 
 <div style="color: #ffffff" class="black">    
   <h3 style="color: #ffffff" id="ttc"><b>Thông tin chung</b></h3>
