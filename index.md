@@ -208,17 +208,6 @@
       }
     }
 				
-var i = 0;
-var txt = 'Hello, We are group 5 from CLC09';
-var speed = 30;
-
-function typeWriter() {
-  if (i < txt.length) {
-    document.getElementById("typer").innerHTML += txt.charAt(i);
-    i++;
-    setTimeout(typeWriter, speed);
-  }
-}
   </script>
   <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
@@ -234,8 +223,7 @@ function typeWriter() {
 
 <div style="color: #ffffff" class="black">    
   <h3 style="color: #ffffff" id="ttc"><b>Thông tin chung</b></h3>
-  <button onclick="typeWriter()">Click</button>
-  <p style="color:#ffffff;" id="typer"></p>
+  <p style="color:#ffffff;">Chào mừng mọi người đến với nhóm 5</p>
 </div>
      
   <h3 style="margin:auto; border-radius:5px; background-color:#ff308f; color:white; max-width:200px; padding:5px; text-align:center;" id="ctv"><b> Các thành viên</b></h3>
