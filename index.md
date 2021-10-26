@@ -7,7 +7,6 @@
       margin-bottom: 20px;
       background-color: #ff308f;
       height: 30px;
-      border: 1px solid #000000;
       border-radius: 20px;
       text-align: justify;
     }
@@ -21,10 +20,12 @@
       overflow: auto;
     }
 
-    li: hover{background-color: #ff308f;}
     li a {
       color: white;
     }
+	  
+    li a: hover{background-color: #ff308f;}	  
+	  
   .slider {
     position: relative;
     margin: auto;
