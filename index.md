@@ -12,6 +12,7 @@
     }
 
     li {
+      margin: 0px;
       display: inline-block;      
       background-color: #657e89;
       height: 20px;
