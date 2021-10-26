@@ -15,6 +15,7 @@
       display: inline-block;      
       background-color: #657e89;
       width: 22%;
+      height: 10px;
       text-align: center;
       border-radius: 320px;
       overflow: auto;
