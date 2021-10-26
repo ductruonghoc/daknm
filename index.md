@@ -208,7 +208,7 @@
     }
 				
 var i = 0;
-var txt = 'Bọn mình là nhóm 5 đến từ CLC 09';
+var txt = 'Hello, We are group 5 from CLC09';
 var speed = 30;
 
 function typeWriter() {
