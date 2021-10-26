@@ -219,7 +219,7 @@
      
   <h3 style="text-align:center; border-radius:5px; background-color:white" id="ctv"><b> Các thành viên</b></h3>
   <div class="slider">
-      <div class="slide fade" script = "currentSlide(1)">
+      <div class="slide fade" style="display:block">
         <div class="numbertext">1 / 6</div>
         <img src="https://static.thenounproject.com/png/316802-200.png">
 	<h4><b>Nguyễn Nhật Phi</b></h4>
