@@ -28,6 +28,7 @@
   .slider {
     position: relative;
     margin: auto;
+    margin-bottom: 20px;
     background-color: #ff308f;
     padding:20px;
     border-radius: 10px;
