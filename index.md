@@ -16,7 +16,7 @@
       display: inline-block;      
       background-color: #657e89;
       height: 24px;
-      width: 21%;
+      width: 20%;
       padding: 5px;
       padding-left: 8px;
       padding-right:8px;
