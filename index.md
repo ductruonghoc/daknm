@@ -47,7 +47,9 @@
     padding:10px;
     margin-right:20px;
   }
-     
+  
+  .slide h3{color:#ffffff;}	  
+	  
   .prev, .next {
     cursor: pointer;
     position: absolute;
