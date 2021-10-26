@@ -219,7 +219,7 @@
      
   <h3 style="text-align:center; border-radius:5px; background-color:white" id="ctv"><b> Các thành viên</b></h3>
   <div class="slider">
-      <div class="slide fade">
+      <div class="slide fade" script = "currentSlide(1)">
         <div class="numbertext">1 / 6</div>
         <img src="https://static.thenounproject.com/png/316802-200.png">
 	<h4><b>Nguyễn Nhật Phi</b></h4>
@@ -231,21 +231,25 @@
         <p>Kiểm duyệt viên thông thái</p>           
       </div>
       <div class="slide fade">
+        <div class="numbertext">3 / 6</div>	   
         <img src="https://static.thenounproject.com/png/316802-200.png">
         <h4><b>Nguyễn Phú Minh Bảo</b></h4>
         <p>Thu thập thông tin</p>    
       </div>
       <div class="slide fade">
+	<div class="numbertext">4 / 6</div>
         <img src="https://static.thenounproject.com/png/316802-200.png">
         <h4><b>Fa Ngọc Uyển Nhi</b></h4>
         <p>Thu thập thông tin</p>         
       </div>
       <div class="slide fade">
+        <div class="numbertext">5 / 6</div>	      
         <img src="https://static.thenounproject.com/png/316802-200.png">
         <h4><b>Lê Minh Đức</b></h4>
         <p>Web gà mờ</p>      
       </div>
       <div class="slide fade">
+        <div class="numbertext">6 / 6</div>	      
         <img src="https://static.thenounproject.com/png/316802-200.png">
         <h4><b>Trương Vĩ Thành</b></h4>
 	<p>Hậu cần kín tiếng</p></div>      
