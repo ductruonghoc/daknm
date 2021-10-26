@@ -292,7 +292,7 @@ function typeWriter() {
 </div>
 
 <div class="bbbc">
-  <h3 id="bbbc"> <b>Biên bản</b></h3>
+  <h3 id="bbbc" style="color:#ff308f"> <b>Biên bản</b></h3>
   <p><b>1. Biên bản thành lập</b><button id="a" onclick="collapse(this.id)"><img width="15" src="https://i.ibb.co/myHKB3z/images-jpeg-removebg-preview.png"/></button></p>
   <div id="bba" style="display: none"><p align="center"><iframe src="https://drive.google.com/file/d/1VA7EZOSaf-LPhqs-FWn58O89kPHo_ciV/preview" width="100%" style="min-height: 600px;" allow="autoplay"></iframe></p></div>
   <p><b>1. Biên bản thành lập</b><button id="b" onclick="collapse(this.id)"><img width="15" src="https://i.ibb.co/myHKB3z/images-jpeg-removebg-preview.png"/></button></p>
