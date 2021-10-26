@@ -15,7 +15,6 @@
       margin: 0px;
       display: inline-block;      
       background-color: #657e89;
-      height: 22px;
       width: 18%;
       padding:5px;
       text-align: center;
