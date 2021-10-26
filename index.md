@@ -223,7 +223,6 @@
         <img src="https://static.thenounproject.com/png/316802-200.png">
 		    <h4><b>Nguyễn Nhật Phi</b></h4>
         <p><b>Trưởng nhóm thân thiện</b></p></div>
-      </div>
       <div class="slide fade" >
       <div class="numbertext">2 / 6</div>
         <img src="https://static.thenounproject.com/png/316802-200.png">
