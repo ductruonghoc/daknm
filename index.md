@@ -3,7 +3,7 @@
   <style>
 
     ul {
-      padding: 3px;
+      padding: 2px;
       margin-bottom: 20px;
       background-color: #ff308f;
       height: 30px;
@@ -15,8 +15,8 @@
       margin: 0px;
       display: inline-block;      
       background-color: #657e89;
-      width: 20%;
-      height: 100%;
+      width: 21%;
+      height: 25px;
       padding:5px;
       text-align: center;
       border-radius: 320px;
