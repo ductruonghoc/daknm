@@ -124,7 +124,7 @@
       margin-top: 20px;
       margin-bottom: 20px;
       min-height: 100px; 
-      background-color: #000000;
+      background-color: #bb0b54;
       border-top-left-radius: 20px;
       border-bottom-right-radius: 20px;
       padding: 50px;
@@ -151,14 +151,15 @@
        margin-left: 20px;
        margin-right: 20px;
        min-height: 100px;
-       background-color: #000000;
+       background-color: #bb0b54;
        border-top-left-radius: 20px;
        border-bottom-right-radius: 20px;
        padding: 50px;
        display: block;
      }
     
-
+     .han h3{color:#ffffff}
+	  
      .bbbc {
        margin-bottom: 20px;
        margin-left: 20px;
