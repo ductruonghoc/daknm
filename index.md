@@ -9,7 +9,7 @@
       height: 30px;
       border: 1px solid #000000;
       border-radius: 20px;
-      text-align: center;
+      text-align: justify;
     }
 
     li {
@@ -23,7 +23,7 @@
 
     li: hover{background-color: #ff308f;}
     li a {
-      color: black;
+      color: white;
     }
   .slider {
     position: relative;
