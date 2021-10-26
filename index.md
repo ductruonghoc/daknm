@@ -25,7 +25,9 @@
       color: white;
     }
 	  
-    li a: hover{background-color: #ff308f;}	  
+    li a: hover{
+	  background-color: #ff308f;
+	  }	  
 	  
   .slider {
     position: relative;
