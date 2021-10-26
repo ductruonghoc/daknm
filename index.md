@@ -213,7 +213,7 @@ var speed = 30;
 
 function typeWriter() {
   if (i < txt.length) {
-    document.getElementById("thongtin").innerHTML += txt.charAt(i);
+    document.getElementById("typer").innerHTML += txt.charAt(i);
     i++;
     setTimeout(typeWriter, speed);
   }
@@ -234,7 +234,7 @@ function typeWriter() {
 <div style="color: #ffffff" class="black">    
   <h3 style="color: #ffffff" id="ttc"><b>Thông tin chung</b></h3>
   <button onclick="typeWriter()">Click</button>
-  <p style="color:#ffffff;" id="thongtin"></p>
+  <p style="color:#ffffff;" id="typer"></p>
 </div>
      
   <h3 style="text-align:center; border-radius:5px; background-color:white" id="ctv"><b> Các thành viên</b></h3>
