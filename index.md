@@ -209,7 +209,7 @@
 				
 var i = 0;
 var txt = 'Bọn mình là nhóm 5 đến từ CLC 09';
-var speed = 50;
+var speed = 30;
 
 function typeWriter() {
   if (i < txt.length) {
