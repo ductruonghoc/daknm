@@ -121,7 +121,7 @@
       margin-top: 20px;
       margin-bottom: 20px;
       min-height: 100px; 
-      background-color: #000000;
+      background-color: #c40a5b;
       border-top-left-radius: 20px;
       border-bottom-right-radius: 20px;
       padding: 50px;
@@ -148,7 +148,7 @@
        margin-left: 20px;
        margin-right: 20px;
        min-height: 100px;
-       background-color: #000000;
+       background-color: #c40a5b;
        border-top-left-radius: 20px;
        border-bottom-right-radius: 20px;
        padding: 50px;
