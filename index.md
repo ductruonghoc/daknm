@@ -42,7 +42,8 @@
 
 
   .slide {
-    background-color: #8ca7b7;     color:#ffffff;
+    background-color: #8ca7b7;     
+    color:#ffffff;
     width:97%;
     text-align: center;
 	  display: none;
@@ -50,7 +51,7 @@
     margin-right:20px;
   }
 	 
-  .slide h4{color:#ffffff;)
+  .slide h4{color:#ffffff;}
 	  
   .prev, .next {
     cursor: pointer;
