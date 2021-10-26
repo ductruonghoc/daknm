@@ -222,7 +222,7 @@
 
 <img style="border-radius: 20px" width="100%" src="https://i.ibb.co/WfSHVLr/ezgif-6-ae3bd257d1a4.gif">
 
-<p style="text-align:center; color:#ff308f; font-size:23px; font-style:oblique; font-family:Lucida Sans Unicode">-"Không phải phép chia nhưng nhà mình có rất nhiều thương"-</p>	
+<p style="text-align:center; color:#ff308f; font-size:21px; font-style:oblique; font-family:Lucida Sans Unicode">-"Không phải phép chia nhưng nhà mình có rất nhiều thương"-</p>	
 <div style="color: #ffffff" class="black">    
   <h3 style="color: #ffffff" id="ttc"><b>Thông tin chung</b></h3>
   <p style="color:#ffffff;">Chào mừng mọi người đến với nhóm 5</p>
