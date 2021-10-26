@@ -238,7 +238,7 @@ function typeWriter() {
   <p style="color:#ffffff;" id="typer"></p>
 </div>
      
-  <h3 style="margin:auto; border-radius:5px; background-color:#ff308f; color:white; max-width:200px;" id="ctv"><b> Các thành viên</b></h3>
+  <h3 style="margin:auto; border-radius:5px; background-color:#ff308f; color:white; max-width:200px; padding:20px" id="ctv"><b> Các thành viên</b></h3>
   <div class="slider">
       <div class="slide fade" style="display:block">
         <div class="numbertext">1 / 6</div>
