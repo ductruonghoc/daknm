@@ -25,34 +25,88 @@
     li a {
       color: black;
     }
+  .slider {
+    position: relative;
+    margin: auto;
+    background-color: #ff308f;
+    padding:20px;
+    border-radius: 10px;
+  }  
 
-    .slider {
-      margin: 20%;
-      color: #000000;
-      width: 80%;
-      display: flex;
-      overflow-x: auto;
-      margin: 0 auto;
-      border-left: 1px solid #000000;
-      border-right: 1px solid #000000;
-      border-top: 1px solid #000000;
-      border-radius: 20px;
-      -webkit-overflow-scrolling: touch;
-      scroll-behavior: smooth;
-      -webkit-scroll-snap-points-x: repeat(300px);
-      -ms-scroll-snap-points-x: repeat(300px);
-      scroll-snap-points-x: repeat(300px);
-      -webkit-scroll-snap-type: mandatory;
-      -ms-scroll-snap-type: mandatory;
-      scroll-snap-type: mandatory;
-    }  
 
-    .slide {
-      text-align: center;
-      width: 100%;
-      flex-shrink: 0;
-      height: 100%;
-    }    
+  .slide {
+    background-color: #8ca7b7;     color:#ffffff;
+    width:97%;
+    text-align: center;
+	  display: none;
+    padding:10px;
+    margin-right:20px;
+  }
+     
+  .prev, .next {
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    width: auto;
+    margin-top: -22px;
+    padding: 16px;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    transition: 0.6s ease;
+    border-radius: 0 3px 3px 0;
+    user-select: none;
+  }
+ 
+  .next {
+    right: 20px;
+    border-radius: 3px 0 0 3px;
+  }
+  
+  .prev:hover, .next:hover {
+   background-color: rgba(0,0,0,0.8);
+  }
+  
+  .numbertext {
+    color: #f2f2f2;
+    font-size: 10px;
+    padding: 8px 12px;
+    position: absolute;
+    top: 0;
+    background-color:#c50b5a;
+  }
+ 
+  .dot {
+    cursor: pointer;
+    height: 15px;
+    width: 15px;
+    margin: 0 2px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+  }
+ 
+  .active, .dot:hover {
+    background-color: #717171;
+  }
+ 
+  .fade {
+    -webkit-animation-name: fade;
+    -webkit-animation-duration: 1.5s;
+    animation-name: fade;
+    animation-duration: 1.5s;
+  }
+ 
+  @-webkit-keyframes fade {
+    from {opacity: .4}
+    to {opacity: 1}
+  }
+
+  @keyframes fade {
+    from {opacity: .4}
+    to {opacity: 1}
+  }
 
     .black {
       margin-left: 20px;
@@ -113,6 +167,29 @@
      }
   </style>
   <script type="text/javascript">
+  var slideIndex = 1;
+  showSlides(slideIndex);
+  function plusSlides(n) {
+    showSlides(slideIndex += n);
+  }
+  function currentSlide(n) {
+    showSlides(slideIndex = n);
+  }
+  function showSlides(n) {
+    var i;
+    var slides = document.getElementsByClassName("slide");
+    var dots = document.getElementsByClassName("dot");
+    if (n > slides.length) {slideIndex = 1}
+    if (n < 1) {slideIndex = slides.length}
+    for (i = 0; i < slides.length; i++) {
+        slides[i].style.display = "none";
+    }
+    for (i = 0; i < dots.length; i++) {
+        dots[i].className = dots[i].className.replace(" active", "");
+    }
+    slides[slideIndex-1].style.display = "block";
+    dots[slideIndex-1].className += " active";
+  }    
     function collapse(clicked_id) {
       var x = document.getElementById('bb'+clicked_id);
       if (x.style.display === 'none') {
@@ -138,51 +215,52 @@
   <h3 style="color: #ffffff" id="ttc"><b>Thông tin chung</b></h3>
   <p >Bọn mình là nhóm 5 đến từ 21CLC09</p>
 </div>
-
-<div class="ctv">     
-  <h3 id="ctv"><b> Các thành viên</b></h3>
-  <div class="slide-wrap">
-  
-    <a href="#slide-1"></a>
-    <a href="#slide-2"></a>
-    <a href="#slide-3"></a>
-    <a href="#slide-4"></a>
-    <a href="#slide-5"></a>
-  
+     
+  <h3 style="text-align:center; border-radius:5px; background-color:white" id="ctv"><b> Các thành viên</b></h3>
     <div class="slider">
-      <div class="slide" id="slide-1">
-        <a href="https://www.facebook.com/ngnhatfiii1804"><img width="50%" src="https://static.thenounproject.com/png/316802-200.png"></a>
-        <h4><b>Nguyễn Nhật Phi</b></h4>
-        <p>Trưởng nhóm thân thiện</p>
+      <div class="slide fade">
+        <div class="numbertext">1 / 6</div>
+        <img src="https://static.thenounproject.com/png/316802-200.png">
+		    <h4><b>Nguyễn Nhật Phi</b></h4>
+        <p><b>Trưởng nhóm thân thiện</b></p></div>
       </div>
-      <div class="slide" id="slide-2">
-        <a href="https://www.facebook.com/dev.tronghieu"><img width="50%" src="https://static.thenounproject.com/png/316802-200.png"></a>
+      <div class="slide fade" >
+      <div class="numbertext">2 / 6</div>
+        <img src="https://static.thenounproject.com/png/316802-200.png">
         <h4><b>Nguyễn Trọng Hiếu</b></h4>
-        <p>Kiểm duyệt viên thông thái</p>    
+        <p>Kiểm duyệt viên thông thái</p>           
       </div>
-      <div class="slide" id="slide-3">
-        <a href="https://www.facebook.com/profile.php?id=100010494795471"><img width="50%" src="https://static.thenounproject.com/png/316802-200.png"></a>
+      <div class="slide">
+        <img src="https://static.thenounproject.com/png/316802-200.png">
         <h4><b>Nguyễn Phú Minh Bảo</b></h4>
-        <p>MC dui tánh</p>    
+        <p>Thu thập thông tin</p>    
       </div>
-      <div class="slide" id="slide-4">
-        <a href="https://www.facebook.com/profile.php?id=100015800913107"><img width="50%" src="https://static.thenounproject.com/png/316802-200.png"></a>
+      <div class="slide fade">
+        <img src="https://static.thenounproject.com/png/316802-200.png">
         <h4><b>Fa Ngọc Uyển Nhi</b></h4>
-        <p>MC nhiệt tình</p>         
+        <p>Thu thập thông tin</p>         
       </div>
-      <div class="slide" id="slide-5">
-        <a href="https://www.facebook.com/duc.leminh2812/"><img width="50%" src="https://static.thenounproject.com/png/316802-200.png"></a>
+      <div class="slide fade">
+        <img width="50%" src="https://static.thenounproject.com/png/316802-200.png">
         <h4><b>Lê Minh Đức</b></h4>
         <p>Web gà mờ</p>      
       </div>
-      <div class="slide" id="slide-6">
-        <a href="https://www.facebook.com/nomatterwhatusay"><img width="50%" src="https://static.thenounproject.com/png/316802-200.png"></a>
+      <div class="slide fade">
+        <img src="https://static.thenounproject.com/png/316802-200.png">
         <h4><b>Trương Vĩ Thành</b></h4>
         <p>Hậu cần kín tiếng</p>      
-      </div>
-    </div>
-  </div>    
-</div>   
+      <a class="prev" onclick="plusSlides(-1)">❮</a>
+   		<a class="next" onclick="plusSlides(1)">❯</a></div>
+ 		<br>
+
+<div style="text-align:center">
+   <span class="dot" onclick="currentSlide(1)"></span>
+   <span class="dot" onclick="currentSlide(2)"></span>
+   <span class="dot" onclick="currentSlide(3)"></span>
+   <span class="dot" onclick="currentSlide(4)"></span>
+   <span class="dot" onclick="currentSlide(5)"></span>
+   <span class="dot" onclick="currentSlide(6)"></span>
+</div>        
 
 <div class="han">  
   <h3 id="han"> Hình ảnh nhóm </h3>  
