@@ -26,6 +26,7 @@
     }
 	  
     li a:hover {
+	  width: 100%;
 	  background-color: #ff308f;
 	  }	  
 	  
