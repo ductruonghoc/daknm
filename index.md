@@ -25,7 +25,7 @@
       color: white;
     }
 	  
-    li a: hover{
+    li a:hover {
 	  background-color: #ff308f;
 	  }	  
 	  
