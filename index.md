@@ -217,7 +217,7 @@
 </div>
      
   <h3 style="text-align:center; border-radius:5px; background-color:white" id="ctv"><b> Các thành viên</b></h3>
-    <div class="slider">
+  <div class="slider">
       <div class="slide fade">
         <div class="numbertext">1 / 6</div>
         <img src="https://static.thenounproject.com/png/316802-200.png">
@@ -230,7 +230,7 @@
         <h4><b>Nguyễn Trọng Hiếu</b></h4>
         <p>Kiểm duyệt viên thông thái</p>           
       </div>
-      <div class="slide">
+      <div class="slide fade">
         <img src="https://static.thenounproject.com/png/316802-200.png">
         <h4><b>Nguyễn Phú Minh Bảo</b></h4>
         <p>Thu thập thông tin</p>    
@@ -248,10 +248,10 @@
       <div class="slide fade">
         <img src="https://static.thenounproject.com/png/316802-200.png">
         <h4><b>Trương Vĩ Thành</b></h4>
-        <p>Hậu cần kín tiếng</p>      
+	<p>Hậu cần kín tiếng</p></div>      
       <a class="prev" onclick="plusSlides(-1)">❮</a>
-   		<a class="next" onclick="plusSlides(1)">❯</a></div>
- 		<br>
+	<a class="next" onclick="plusSlides(1)">❯</a>
+ <br>
 
 <div style="text-align:center">
    <span class="dot" onclick="currentSlide(1)"></span>
@@ -261,7 +261,7 @@
    <span class="dot" onclick="currentSlide(5)"></span>
    <span class="dot" onclick="currentSlide(6)"></span>
 </div>        
-
+</div>
 <div class="han">  
   <h3 id="han"> Hình ảnh nhóm </h3>  
 </div>
