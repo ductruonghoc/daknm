@@ -15,7 +15,7 @@
       margin: 0px;
       display: inline-block;      
       background-color: #657e89;
-      height: 20px;
+      height: 24px;
       width: 21%;
       padding: 5px;
       padding-left: 8px;
