@@ -157,9 +157,6 @@
        display: block;
      }
     
-     .han h3{
-     color: #ffffff;
-     }
 
      .bbbc {
        margin-bottom: 20px;
