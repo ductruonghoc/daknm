@@ -48,9 +48,7 @@
 	  display: none;
     padding:10px;
     margin-right:20px;
-  }
-  
-  .slide h3{color:#ffffff;}	  
+  }	  
 	  
   .prev, .next {
     cursor: pointer;
@@ -198,7 +196,8 @@
     }
     slides[slideIndex-1].style.display = "block";
     dots[slideIndex-1].className += " active";
-  }    
+  }  
+				
     function collapse(clicked_id) {
       var x = document.getElementById('bb'+clicked_id);
       if (x.style.display === 'none') {
@@ -207,6 +206,18 @@
           x.style.display = 'none';
       }
     }
+				
+var i = 0;
+var txt = "Bọn mình là nhóm 5 đến từ CLC 09";
+var speed = 50;
+
+function typeWriter() {
+  if (i < txt.length) {
+    document.getElementById("type").innerHTML += txt.charAt(i);
+    i++;
+    setTimeout(typeWriter, speed);
+  }
+}
   </script>
   <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
@@ -222,7 +233,7 @@
 
 <div style="color: #ffffff" class="black">    
   <h3 style="color: #ffffff" id="ttc"><b>Thông tin chung</b></h3>
-  <p >Bọn mình là nhóm 5 đến từ 21CLC09</p>
+  <p id="type"></p>
 </div>
      
   <h3 style="text-align:center; border-radius:5px; background-color:white" id="ctv"><b> Các thành viên</b></h3>
