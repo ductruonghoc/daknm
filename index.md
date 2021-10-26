@@ -8,7 +8,7 @@
       background-color: #ff308f;
       height: 30px;
       border-radius: 20px;
-      justify-content: space-around;
+      text-align: right;
     }
 
     li {
