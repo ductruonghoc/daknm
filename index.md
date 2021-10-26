@@ -171,6 +171,7 @@
        padding-bottom: 0px;
        text-align: center;
        display: block;
+       color: #c20a5d;
      }
   </style>
   <script type="text/javascript">
