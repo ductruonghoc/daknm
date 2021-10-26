@@ -5,7 +5,7 @@
     ul {
       padding: 10px;
       margin-bottom: 20px;
-      background-color: #000000;
+      background-color: #ff308f;
       height: 30px;
       border: 1px solid #000000;
       border-radius: 20px;
@@ -14,14 +14,14 @@
 
     li {
       display: inline-block;      
-      border: 2px solid #ffffff;
-      background-color: #ffffff;
+      background-color: #657e89;
       width: 22%;
       text-align: center;
       border-radius: 320px;
       overflow: auto;
     }
 
+    li: hover{background-color: #ff308f;}
     li a {
       color: black;
     }
