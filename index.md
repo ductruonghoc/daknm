@@ -160,48 +160,51 @@
     
      .han h3{color:#ffffff}
 	  
-     .bbbc {
-       margin-bottom: 20px;
-       margin-left: 20px;
-       margin-right: 20px;
-       min-height: 100px;
-       background-color: #ffffff;
-       border-top-right-radius: 20px;
-       border-bottom-left-radius: 20px;
-       padding: 10px;
-       padding-bottom: 0px;
-       text-align: center;
-       display: block;
-       color: #c20a5d;
-     }
+		.bbbc {
+			margin-bottom: 20px;
+			margin-left: 20px;
+			margin-right: 20px;
+			min-height: 100px;
+			background-color: #ffffff;
+			border-top-right-radius: 20px;
+			border-bottom-left-radius: 20px;
+			padding: 10px;
+			padding-bottom: 0px;
+			text-align: center;
+			display: block;
+			color: #c20a5d;
+		}
 		
-#project_title h1{display:none;}
+		#project_title h1{color: #000000;}
 		
-  </style>
-  <script type="text/javascript">
-  var slideIndex = 1;
-  showSlides(slideIndex);
-  function plusSlides(n) {
-    showSlides(slideIndex += n);
-  }
-  function currentSlide(n) {
-    showSlides(slideIndex = n);
-  }
-  function showSlides(n) {
-    var i;
-    var slides = document.getElementsByClassName("slide");
-    var dots = document.getElementsByClassName("dot");
-    if (n > slides.length) {slideIndex = 1}
-    if (n < 1) {slideIndex = slides.length}
-    for (i = 0; i < slides.length; i++) {
-        slides[i].style.display = "none";
-    }
-    for (i = 0; i < dots.length; i++) {
-        dots[i].className = dots[i].className.replace(" active", "");
-    }
-    slides[slideIndex-1].style.display = "block";
-    dots[slideIndex-1].className += " active";
-  }  
+		#project_title {color: #000000;}
+		
+	</style>
+	
+	<script type="text/javascript">
+		var slideIndex = 1;
+		showSlides(slideIndex);
+		function plusSlides(n) {
+			showSlides(slideIndex += n);
+		}
+		function currentSlide(n) {
+			showSlides(slideIndex = n);
+		}
+		function showSlides(n) {
+			var i;
+			var slides = document.getElementsByClassName("slide");
+			var dots = document.getElementsByClassName("dot");
+			if (n > slides.length) {slideIndex = 1}
+			if (n < 1) {slideIndex = slides.length}
+			for (i = 0; i < slides.length; i++) {
+				slides[i].style.display = "none";
+			}
+			for (i = 0; i < dots.length; i++) {
+				dots[i].className = dots[i].className.replace(" active", "");
+			}
+			slides[slideIndex-1].style.display = "block";
+			dots[slideIndex-1].className += " active";
+		}  
 				
     function collapse(clicked_id) {
       var x = document.getElementById('bb'+clicked_id);
