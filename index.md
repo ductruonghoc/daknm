@@ -8,7 +8,7 @@
 			background-size: auto 220px;
 			border-radius: 20px;
 			text-align: right;
-			height:200px;
+			height:220px;
 			background-color: white;
 		}
 
