@@ -11,6 +11,7 @@
 			border-radius: 20px;
 			text-align: right;
 			height:200px;
+			background-color: white;
 		}
 
 		li {
@@ -67,23 +68,23 @@
 			user-select: none;
 		}
  
-  .next {
-    right: 20px;
-    border-radius: 3px 0 0 3px;
-  }
+		.next {
+			right: 20px;
+			border-radius: 3px 0 0 3px;
+		}
   
-  .prev:hover, .next:hover {
-   background-color: rgba(0,0,0,0.8);
-  }
+		.prev:hover, .next:hover {
+			background-color: rgba(0,0,0,0.8);
+		}
   
-  .numbertext {
-    color: #f2f2f2;
-    font-size: 10px;
-    padding: 8px 12px;
-    position: absolute;
-    top: 0;
-    background-color:#c50b5a;
-  }
+		.numbertext {
+			color: #f2f2f2;
+			font-size: 10px;
+			padding: 8px 12px;
+			position: absolute;
+			top: 0;
+			background-color:#c50b5a;
+		}
  
   .dot {
     cursor: pointer;
