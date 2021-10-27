@@ -10,7 +10,7 @@
 			background-size: 100% auto;
 			border-radius: 20px;
 			text-align: right;
-			height:20%;
+			height:50%;
 		}
 
 		li {
