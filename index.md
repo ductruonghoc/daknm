@@ -7,7 +7,7 @@
 			margin-bottom: 20px;
 			background: url(https://i.ibb.co/WfSHVLr/ezgif-6-ae3bd257d1a4.gif);
 			background-repeat: no-repeat;
-			background-size: 100% auto;
+			background-size: auto 200px;
 			border-radius: 20px;
 			text-align: right;
 			height:200px;
