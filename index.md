@@ -18,7 +18,6 @@
 			margin-top: 0px;
 			display: inline-block;      
 			height: 27px;
-			border-radius: 320px;
 			overflow: auto;
 		}
 
