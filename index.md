@@ -17,7 +17,7 @@
       background-color: #657e89;
       width: 21%;
       height: 20px;
-      padding:4px;
+      padding:3px;
       text-align: center;
       border-radius: 320px;
       overflow: auto;
