@@ -222,7 +222,7 @@
 <p style="text-align:right; color:#ff308f; font-size:25px; font-style:oblique; font-family:Lucida Sans Unicode; text-shadow: 1px 1px 1px #c20c5e">-"Không phải phép chia nhưng nhà mình có rất nhiều thương"-</p>	
 <div style="color: #ffffff" class="black">    
   <h3 style="color: #ffffff" id="ttc"><b>Thông tin chung</b></h3>
-  <p style="color:#ffffff;">Chào mừng mọi người đến với nhóm 5</p>
+  <p style="color:#ffffff;">Chào mọi người bọn mình là nhóm 5 đến từ 21clc9</p>
 </div>
      
   <h3 style="margin:auto; border-radius:5px; background-color:#ff308f; color:white; max-width:200px; padding:3px; text-align:center;" id="ctv"><b> Các thành viên</b></h3>
