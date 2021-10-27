@@ -10,7 +10,7 @@
 			background-size: 100% auto;
 			border-radius: 20px;
 			text-align: right;
-			min-height:300px;
+			min-height:250px;
 		}
 
 		li {
@@ -22,14 +22,15 @@
 			top:0px;
 		}
 
-    li a {
-      color: #c00356;
-    }
+		li a {
+			color: #c00356;
+		}
 	  
-    li a:hover {
-	  border-radius: 20px;
-	  background-color: #ff308f;
-	  }
+		li a:hover {
+			border-radius: 20px;
+			background-color: #ff308f;
+		}
+		
   .slider {
     position: relative;
     margin: auto;
