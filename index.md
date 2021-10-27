@@ -86,50 +86,50 @@
 			background-color:#c50b5a;
 		}
  
-  .dot {
-    cursor: pointer;
-    height: 15px;
-    width: 15px;
-    margin: 0 2px;
-    background-color: #bbb;
-    border-radius: 50%;
-    display: inline-block;
-    transition: background-color 0.6s ease;
-  }
+		.dot {
+			cursor: pointer;
+			height: 15px;
+			width: 15px;
+			margin: 0 2px;
+			background-color: #bbb;
+			border-radius: 50%;
+			display: inline-block;
+			transition: background-color 0.6s ease;
+		}
  
-  .active, .dot:hover {
-    background-color: #717171;
-  }
+		.active, .dot:hover {
+			background-color: #717171;
+		}
  
-  .fade {
-    -webkit-animation-name: fade;
-    -webkit-animation-duration: 1.5s;
-    animation-name: fade;
-    animation-duration: 1.5s;
-  }
+		.fade {
+			-webkit-animation-name: fade;
+			-webkit-animation-duration: 1.5s;
+			animation-name: fade;
+			animation-duration: 1.5s;
+		}
  
-  @-webkit-keyframes fade {
-    from {opacity: .4}
-    to {opacity: 1}
-  }
+		@-webkit-keyframes fade {
+			from {opacity: .4}
+			to {opacity: 1}
+		}
 
-  @keyframes fade {
-    from {opacity: .4}
-    to {opacity: 1}
-  }
+		@keyframes fade {
+			from {opacity: .4}
+			to {opacity: 1}
+		}
 
-    .black {
-      margin-left: 20px;
-      margin-right: 20px;
-      margin-top: 20px;
-      margin-bottom: 20px;
-      min-height: 100px; 
-      background-color: #bb0b54;
-      border-top-left-radius: 20px;
-      border-bottom-right-radius: 20px;
-      padding: 50px;
-      display: block;
-    }
+		.black {
+			margin-left: 20px;
+			margin-right: 20px;
+			margin-top: 20px;
+			margin-bottom: 20px;
+			min-height: 100px; 
+			background-color: #bb0b54;
+			border-top-left-radius: 20px;
+			border-bottom-right-radius: 20px;
+			padding: 50px;
+			display: block;
+		}
  
     .ctv {
       margin-bottom: 20px;
@@ -174,6 +174,9 @@
        display: block;
        color: #c20a5d;
      }
+		
+#project_title h1{color:black;}
+		
   </style>
   <script type="text/javascript">
   var slideIndex = 1;
