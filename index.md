@@ -10,7 +10,7 @@
 		background-size: 100% auto;
 		border-radius: 20px;
 		text-align: right;
-		min-height:310px;
+		min-height:300px;
 	}
 
     li {
