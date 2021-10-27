@@ -2,36 +2,34 @@
   <meta charset="utf-8">
   <style>
 
-    ul {
-      padding: 2px;
-      margin-bottom: 20px;
-      background-color: #ff308f;
-      height: 30px;
-      border-radius: 20px;
-      text-align: center;
-    }
+	ul {
+		padding: 2px;
+		margin-bottom: 20px;
+		background: url(https://i.ibb.co/WfSHVLr/ezgif-6-ae3bd257d1a4.gif);
+		background-repeat: no-repeat;
+		background-size: 100% auto;
+		border-radius: 20px;
+		text-align: right;
+		min-height:310px;
+	}
 
     li {
-      margin: 0px;
+      margin: 3px;
       display: inline-block;      
-      background-color: #657e89;
-      width: 21%;
       height: 27px;
       padding:1px;
-      text-align: center;
       border-radius: 320px;
       overflow: auto;
     }
 
     li a {
-      color: white;
+      color: #c00356;
     }
 	  
     li a:hover {
 	  border-radius: 20px;
 	  background-color: #ff308f;
-	  }	  
-	  
+	  }
   .slider {
     position: relative;
     margin: auto;
