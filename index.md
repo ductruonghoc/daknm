@@ -17,7 +17,6 @@
       margin: 3px;
       display: inline-block;      
       height: 27px;
-      padding:1px;
       border-radius: 320px;
       overflow: auto;
     }
