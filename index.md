@@ -146,19 +146,19 @@
 			text-align: center;
 		}
 
-     .han {
-       margin-bottom: 20px;
-       margin-left: 20px;
-       margin-right: 20px;
-       min-height: 100px;
-       background-color: #bb0b54;
-       border-top-left-radius: 20px;
-       border-bottom-right-radius: 20px;
-       padding: 50px;
-       display: block;
-     }
+		.han {
+			margin-bottom: 20px;
+			margin-left: 20px;
+			margin-right: 20px;
+			min-height: 100px;
+			background-color: #bb0b54;
+			border-top-left-radius: 20px;
+			border-bottom-right-radius: 20px;
+			padding: 50px;
+			display: block;
+		}
     
-     .han h3{color:#ffffff}
+		.han h3{color:#ffffff}
 	  
 		.bbbc {
 			margin-bottom: 20px;
@@ -177,7 +177,7 @@
 		
 		#project_title h1{color: #000000;}
 		
-		#project_title {color: #000000;}
+		#project_title {color: #000000; display:none;}
 		
 	</style>
 	
