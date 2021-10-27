@@ -131,20 +131,20 @@
 			display: block;
 		}
  
-    .ctv {
-      margin-bottom: 20px;
-      margin-left: 20px;
-      margin-right: 20px;
-      min-height: 100px;
-      background-color: #ffffff;
-      border-top-right-radius: 20px;
-      border-bottom-left-radius: 20px;
-      padding: 20px;
-      padding-top:10px;
-      padding-bottom: 0px;
-      display: block;
-      text-align: center;
-     }
+		.ctv {
+			margin-bottom: 20px;
+			margin-left: 20px;
+			margin-right: 20px;
+			min-height: 100px;
+			background-color: #ffffff;
+			border-top-right-radius: 20px;
+			border-bottom-left-radius: 20px;
+			padding: 20px;
+			padding-top:10px;
+			padding-bottom: 0px;
+			display: block;
+			text-align: center;
+		}
 
      .han {
        margin-bottom: 20px;
@@ -175,7 +175,7 @@
        color: #c20a5d;
      }
 		
-#project_title h1{color:black;}
+#project_title h1{display:none;}
 		
   </style>
   <script type="text/javascript">
