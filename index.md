@@ -219,8 +219,6 @@
   <li><a href="#bbbc"> Báo cáo </a></li>   
 </ul>
 
-<img style="border-radius: 20px" width="100%" src="https://i.ibb.co/WfSHVLr/ezgif-6-ae3bd257d1a4.gif">
-
 <p style="text-align:right; color:#ff308f; font-size:25px; font-style:oblique; font-family:Lucida Sans Unicode; text-shadow: 1px 1px 1px #c20c5e">-"Không phải phép chia nhưng nhà mình có rất nhiều thương"-</p>	
 <div style="color: #ffffff" class="black">    
   <h3 style="color: #ffffff" id="ttc"><b>Thông tin chung</b></h3>
