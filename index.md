@@ -2,7 +2,6 @@
 	<meta charset="utf-8">
 	<style>
 		ul {
-			padding: 2px;
 			margin-bottom: 20px;
 			background: url(https://i.ibb.co/WfSHVLr/ezgif-6-ae3bd257d1a4.gif);
 			background-repeat: no-repeat;
