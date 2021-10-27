@@ -1,7 +1,6 @@
 <head>
 	<meta charset="utf-8">
 	<style>
-
 		ul {
 			padding: 2px;
 			margin-bottom: 20px;
@@ -177,10 +176,8 @@
 		
 		#project_title h1{color: #000000;}
 		
-		#project_title {color: #000000; display:none;}
-		
-	</style>
-	
+		#project_title {color: #000000; display:none;}		
+	</style>	
 	<script type="text/javascript">
 		var slideIndex = 1;
 		showSlides(slideIndex);
@@ -206,25 +203,25 @@
 			dots[slideIndex-1].className += " active";
 		}  
 				
-    function collapse(clicked_id) {
-      var x = document.getElementById('bb'+clicked_id);
-      if (x.style.display === 'none') {
-          x.style.display = 'block';
-      } else {
-          x.style.display = 'none';
-      }
-    }
-				
-  </script>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+		function collapse(clicked_id) {
+			var x = document.getElementById('bb'+clicked_id);
+			if (x.style.display === 'none') {
+				x.style.display = 'block';
+			} else {
+				x.style.display = 'none';
+			}
+		}				
+	</script>		
+	<meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
+	
 <body>   
-<ul>      
-  <li><a href="#ttc"> Thông tin </a></li>
-  <li><a href="#ctv"> Thành viên </a></li>
-  <li><a href="#han"> Hình ảnh </a></li>  
-  <li><a href="#bbbc"> Báo cáo </a></li>   
-</ul>
+	<ul>      
+		<li><a href="#ttc"> Thông tin </a></li>
+		<li><a href="#ctv"> Thành viên </a></li>
+		<li><a href="#han"> Hình ảnh </a></li>  
+		<li><a href="#bbbc"> Báo cáo </a></li>   
+	</ul>
 
 <p style="text-align:right; color:#ff308f; font-size:25px; font-style:oblique; font-family:Lucida Sans Unicode; text-shadow: 1px 1px 1px #c20c5e">-"Không phải phép chia nhưng nhà mình có rất nhiều thương"-</p>	
 <div style="color: #ffffff" class="black">    
