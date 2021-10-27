@@ -16,7 +16,7 @@
       display: inline-block;      
       background-color: #657e89;
       width: 21%;
-      height: 20px;
+      height: 23px;
       padding:1px;
       text-align: center;
       border-radius: 320px;
