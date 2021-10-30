@@ -215,13 +215,6 @@
 <body>   
 	<ul>
 		<div style="float:left; margin-top:0px; margin-left:5px; vertical-align:middle; height:50px"><img src="https://i.ibb.co/mSRT73K/246851863-1001811467029406-3944106550228583769-n-removebg-preview.png" height="30px" style="display:inline-block"/>
-			<div style="display:inline-block;  height:100%; color: #c00356;">
-				<div style="display:block; height:25px;vertical-align:middle">
-					Group 5
-				</div>
-				<div style="display:block; height:15px;vertical-align:middle font-size:10px">
-					Ngôi nhà chung chứa đầy tình thương</div>
-			</div>
 		</div>
 		<li><a href="#bbbc"> Báo cáo </a></li>
 		<li><a href="#han"> Hình ảnh </a></li>
