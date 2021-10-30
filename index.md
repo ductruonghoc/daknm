@@ -3,7 +3,7 @@
 	<style>
 		ul {
 			margin-bottom: 20px;
-			height:50px;
+			height:40px;
 			background-color: white;
 			padding:0px;
 			vertical-align:middle;
@@ -11,7 +11,6 @@
 
 		li {
 			display: inline-block;      
-			height: 50px;
 			float:right;
 			padding:5px;
 			vertical-align:middle;
