@@ -7,6 +7,7 @@
 			background-color: white;
 			padding:0px;
 			vertical-align:middle;
+			display:block;
 		}
 
 		li {
