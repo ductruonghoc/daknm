@@ -15,6 +15,7 @@
 			float:right;
 			padding:5px;
 			vertical-align:middle;
+			margin:0px;
 		}
 
 		li a {
@@ -213,7 +214,7 @@
 	
 <body>   
 	<ul>
-		<img src="https://i.ibb.co/mSRT73K/246851863-1001811467029406-3944106550228583769-n-removebg-preview.png" height="30px" style="display:block; float:left; top:0;"/>
+		<img src="https://i.ibb.co/mSRT73K/246851863-1001811467029406-3944106550228583769-n-removebg-preview.png" height="30px" style="display:block; float:left; margin-top:0px;"/>
 		<li><a href="#bbbc"> Báo cáo </a></li>
 		<li><a href="#han"> Hình ảnh </a></li>
 		<li><a href="#ctv"> Thành viên </a></li>
