@@ -25,6 +25,12 @@
 			background-color: #ff308f;
 		}
 		
+		.poster {
+			display:block;
+			width: 100%;
+			height: 300px;
+		}
+		
 		.slider {
 			position: relative;
 			margin: auto;
@@ -218,6 +224,8 @@
 		<li><a href="#ctv"> Thành viên </a></li>
 		<li><a href="#ttc"> Thông tin </a></li>        
 	</ul>
+	
+	<div class="poster"> poster</div>
 
 	<p style="text-align:right; color:#ff308f; font-size:25px; font-style:oblique; font-family:Lucida Sans Unicode; text-shadow: 1px 1px 1px #c20c5e">-"Không phải phép chia nhưng nhà mình có rất nhiều thương"-</p>	
 	<div style="color: #ffffff" class="black">    
