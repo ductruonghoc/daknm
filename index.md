@@ -11,7 +11,7 @@
 
 		li {
 			display: inline-block;      
-			height: 100%;
+			height: 50px;
 			overflow: auto;
 			float:right;
 			padding:5px;
