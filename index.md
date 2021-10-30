@@ -212,7 +212,7 @@
 		}				
 	</script>		
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title class="#project_title" style="display:block;"><img src="https://i.ibb.co/mSRT73K/246851863-1001811467029406-3944106550228583769-n-removebg-preview.png" width=50px></title>
+	<title class="#project_title" style="display:block;"><img src="https://i.ibb.co/mSRT73K/246851863-1001811467029406-3944106550228583769-n-removebg-preview.png" width="50px"></title>
 </head>
 	
 <body>   
