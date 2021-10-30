@@ -230,7 +230,7 @@
 		<li><a href="#ttc"> Thông tin </a></li>        
 	</ul>
 	
-	<div class="poster"> poster</div>
+	<div class="poster"><p style="display:block"> poster </p></div>
 
 	<p style="text-align:right; color:#ff308f; font-size:25px; font-style:oblique; font-family:Lucida Sans Unicode; text-shadow: 1px 1px 1px #c20c5e">-"Không phải phép chia nhưng nhà mình có rất nhiều thương"-</p>	
 	<div style="color: #ffffff" class="black">    
