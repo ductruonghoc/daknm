@@ -3,7 +3,7 @@
 	<style>
 		ul {
 			margin-bottom: 20px;
-			height:50px;
+			height:30px;
 			background-color: white;
 			padding:0px;
 			vertical-align:middle;
