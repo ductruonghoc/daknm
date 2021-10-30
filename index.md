@@ -3,21 +3,19 @@
 	<style>
 		ul {
 			margin-bottom: 20px;
-			background: url(https://i.ibb.co/WfSHVLr/ezgif-6-ae3bd257d1a4.gif);
-			background-repeat: no-repeat;
-			background-size: auto 220px;
-			border-radius: 20px;
-			text-align: right;
-			height:225px;
+			height:50px;
 			background-color: white;
+			padding:0px;
+			vertical-align:middle;
 		}
 
 		li {
-			margin: 3px;
-			margin-top: 0px;
 			display: inline-block;      
-			height: 27px;
+			height: 100%;
 			overflow: auto;
+			float:right;
+			padding:5px;
+			vertical-align:middle;
 		}
 
 		li a {
@@ -215,11 +213,20 @@
 </head>
 	
 <body>   
-	<ul>      
-		<li><a href="#ttc"> Thông tin </a></li>
+	<ul>
+		<div style="float:left; margin-left:5px; vertical-align:middle; height:100%"><img src="https://i.ibb.co/mSRT73K/246851863-1001811467029406-3944106550228583769-n-removebg-preview.png" height="30px" style="display:inline-block"/>
+		<div style="display:inline-block;  height:100%; color: #c00356;">
+			<div style="display:block; height:25px;vertical-align:middle; float:top">
+				Group 5
+			</div>
+			<div style="display:block; height:15px;vertical-align:middle; float:top; font-size:10px">
+				Ngôi nhà chung chứa đầy tình thương</div>
+			</div>
+		</div>
+		<li><a href="#bbbc"> Báo cáo </a></li>
+		<li><a href="#han"> Hình ảnh </a></li>
 		<li><a href="#ctv"> Thành viên </a></li>
-		<li><a href="#han"> Hình ảnh </a></li>  
-		<li><a href="#bbbc"> Báo cáo </a></li>   
+		<li><a href="#ttc"> Thông tin </a></li>        
 	</ul>
 
 	<p style="text-align:right; color:#ff308f; font-size:25px; font-style:oblique; font-family:Lucida Sans Unicode; text-shadow: 1px 1px 1px #c20c5e">-"Không phải phép chia nhưng nhà mình có rất nhiều thương"-</p>	
