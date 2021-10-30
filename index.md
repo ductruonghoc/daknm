@@ -13,7 +13,6 @@
 			display: inline-block;      
 			float:right;
 			padding:5px;
-			vertical-align:middle;
 			margin:0px;
 		}
 
