@@ -14,7 +14,7 @@
 			display: inline-block;      
 			float:right;
 			padding:5px;
-			padding-top:10px;
+			padding-top:7px;
 			margin:auto;
 		}
 
