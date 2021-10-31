@@ -8,6 +8,7 @@
 			padding:0px;
 			vertical-align:middle;
 			display:table-cell;
+			width:100%;
 		}
 
 		li {
