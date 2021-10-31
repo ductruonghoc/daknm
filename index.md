@@ -7,7 +7,7 @@
 			background-color: white;
 			padding:0px;
 			vertical-align:middle;
-			display:block;
+			display:table-cell;
 		}
 
 		li {
