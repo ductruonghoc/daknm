@@ -5,7 +5,7 @@
 			margin-bottom: 20px;
 			height:40px;
 			background-color: white;
-			padding:15px;
+			padding:5px;
 			display:block;
 			width:100%;
 		}
