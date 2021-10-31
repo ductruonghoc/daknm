@@ -14,7 +14,7 @@
 			display: inline-block;      
 			float:right;
 			padding:5px;
-			margin:0px;
+			margin:auto;
 		}
 
 		li a {
