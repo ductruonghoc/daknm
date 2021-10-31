@@ -3,7 +3,7 @@
 	<style>
 		ul {
 			margin-bottom: 20px;
-			height:40px;
+			height:30px;
 			background-color: white;
 			padding:5px;
 			display:block;
@@ -14,6 +14,7 @@
 			display: inline-block;      
 			float:right;
 			padding:5px;
+			padding-top:10px;
 			margin:auto;
 		}
 
