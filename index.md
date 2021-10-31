@@ -5,9 +5,8 @@
 			margin-bottom: 20px;
 			height:40px;
 			background-color: white;
-			padding:0px;
-			vertical-align:middle;
-			display:table-cell;
+			padding:15px;
+			display:block;
 			width:100%;
 		}
 
