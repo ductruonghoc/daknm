@@ -60,6 +60,7 @@
 				margin-bottom:12px;
 				font-size:11px;
 				color:#fff;
+				grid-item-4 {grid-column-start: 2; grid-column-end: 3;};
 			}
 			
 			.about{
@@ -67,8 +68,14 @@
 				width:100%;
 				display:grid;
 				min-height:300px;
+				grid-template-columns: 3fr 1fr;
+				padding-top:120px;
 			}
 			
+			.shortinf{
+				margin-left:100px;
+			}
+							
 			.member{
 				margin:0px;
 				width:100%;
@@ -107,7 +114,12 @@
 			<li><a href="mb">Members</a></li>
 			<li><a href="ab">About</a></li>
 		</ul>
-		<div class="about"></div>
+		
+		<div class="about">
+			<div class="shortinf">
+				<h3>About</h3>
+			</div>
+		</div>
 		<div class="member"></div>
 		<div class="pp"></div>
 		<footer></footer>
