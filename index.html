@@ -28,11 +28,22 @@
 			}
 			
 			.logo{
+				margin-top:5px;
+				padding:0px;
+				width: 200px;
 				float:left;
 				margin-left:100px;
 				display:inline-grid;
 				color:#fff;
+				grid-template-columns: 40px 160px;
 			}
+			
+			.logo-icon{
+				margin:0px;
+				padding:0px;
+				grid-item-1 {grid-row-start: 1; grid-row-end: 3;};
+			}
+				
 			
 			.about{
 				margin:0px;
@@ -68,7 +79,11 @@
 	</head>
 	<body>
 		<ul class="nav">
-			<div class="logo">Group5</div>
+			<div class="logo">
+				<div class="logo-icon">
+					<img src="https://i.ibb.co/CWcj6WL/246851863-1001811467029406-3944106550228583769-n-removebg-preview.png" width="40px"/>			
+				</div>
+			</div>	
 			<li>Handsome</li>
 			<li>Tôi</li>
 		</ul>
