@@ -1,4 +1,4 @@
-body{
+body {
   display: grid;
   grid-template-rows: auto auto auto;
   min-height: 500px;
@@ -8,7 +8,7 @@ body{
   padding:0;
 }
 
-.cover{
+.cover {
   width: 100%;
   height: 600px;
   background: url("image/Cover.svg") no-repeat center;
