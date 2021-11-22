@@ -1,1 +1,9 @@
-
+body{
+  display: grid;
+  grid-template-rows: auto auto auto;
+  min-height: 500px;
+  width: 70%;
+  margin: 0;
+  margin-left: 15%;
+  padding:0;
+}
