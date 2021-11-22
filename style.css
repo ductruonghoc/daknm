@@ -14,4 +14,5 @@ body {
   background: url("image/Cover.svg") no-repeat center;
   background-size: auto 600px;
   grid-area: 1 / 1 / 2 / 2;
+  border-bottom: 1px solid #000;
 }
