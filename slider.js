@@ -71,15 +71,15 @@
             "<div style='display: flex; justify-content: space-around; align-items: center; width:100%;'>" +
             "<img src='" +
             slideArray[p].avatar +
-            "' style = 'border-radius: 50%;' height='30px' /> "+
-
-            "<img src='" +
-            slideArray[i].avatar +
             "' style = 'border-radius: 50%;' height='50px' /> "+
 
             "<img src='" +
+            slideArray[i].avatar +
+            "' style = 'border-radius: 50%;' height='100px' /> "+
+
+            "<img src='" +
             slideArray[n].avatar +
-            "' style = 'border-radius: 50%;' height='30px' /> "+
+            "' style = 'border-radius: 50%;' height='50px' /> "+
             "</div>" +
             "<h2>" +
             slideArray[i].name +
