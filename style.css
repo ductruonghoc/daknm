@@ -21,8 +21,8 @@ body {
 .sliderBox {
   width: 100%;
   grid-area: 3 / 1 / 4 / 2; 
-  display: flex;
-  justify-content: center;
+  display: block;
+  padding-left:10%;
 }
  
 a {
