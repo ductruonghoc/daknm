@@ -32,19 +32,19 @@
         "Mình là Nguyễn Nhật Phi, là nhóm trưởng của nhóm Ngôi nhà chung chưa đựng đầy tình thương này. Mình là sinh viên khoá 21, ngành Công nghệ Thông tin của trường đại học Khoa học Tự nhiên Thành phố Hồ Chí Minh. Mình sinh ngày 18/04/2003, và thuộc cung bạch dương (cung lửa), nên đôi khi tính tình mình hơi nóng nảy. Nhưng nếu không chọc giận mình thì mình lại là tuýp người dễ gần và thân thiện. Sở thích của mình là nghe nhạc và chơi game lúc rảnh. Và mình cực kì đam mê với vũ đạo, hiện mình đang là thành viên của tổ chức SAB, ban SAB Entertainment & Arts và cũng là thành viên của câu lạc bộ FOS, ban nhảy. Ước mơ tương lai của mình là trở thành một Web Developer kiêm UI Designer xịn sò. Các bạn hãy chào đón mình như một đối thủ đáng gờm nhé. Cảm ơn mọi người rất nhiều."
         );
         
-        var MinhDuc = new Slide(
-        "Image/MinhDuc.jpg",
-        "Lê Minh Đức",
-        "Kỹ thuật",""
-        ,"Hè lố"
-        );
-        
         var TrongHieu = new Slide(
         "Image/TrongHieu.jpg",
         "Nguyễn Trọng Hiếu",
-        "Kiểm duyêt",""
-        ,"Hè lố"
-        );
+        "Kiểm duyêt",
+        "https://www.facebook.com/dev.tronghieu",
+        "Hello, mình là Nguyễn Trọng Hiếu. Mình nhận vai trò người kiểm duyệt cho nhóm Ngôi nhà chứa đựng đầy TÌNH THƯƠNG này.<br> &emsp; Hiếu năm nay 18 tuổi, là sinh viên năm nhất khoa CNTT CLC của trường HCMUS.<br> &emsp; Sở thích hiện tại của Hiếu là chạy deadline, cứ hết 2 3 cái thì lại nhận thêm 4 5 cái và duy trì cái vòng tuần hoàn này cho tới khi hết sức.<br> &emsp; Hiếu đã từng định hướng mình thành creative developer vì khả năng phát triển cũng như cơ hội sáng tạo đầu óc thông qua việc thiết kế các 2d, 3d animations cho web. Tuy nhiên dưới sức mạnh của đồng tiền, mình đã bẻ lái dần và chuẩn bị kiến thức cho mảng blockchain.<br> &emsp; Mình hy vọng có thể hoà thuận được với mọi người, xin cảm ơn rất nhiều!!");
+
+        var MinhDuc = new Slide(
+          "Image/MinhDuc.jpg",
+          "Lê Minh Đức",
+          "Kỹ thuật",""
+          ,"Hè lố"
+          );
         
         // Từ mảng slide đã tạo, ta tiến hành đưa nó vào source HTML
         function buildSlider() {
@@ -73,7 +73,7 @@
             "<div style='display: flex; justify-content: space-around; align-items: center; width:100%;'>" +
             "<img src='" +
             slideArray[p].avatar +
-            "' style = 'border-radius: 50%;' height='30px' /> "+
+            "' style = 'border-radius: 50%;' height='50px' /> "+
 
             "<img src='" +
             slideArray[i].avatar +
@@ -81,7 +81,7 @@
 
             "<img src='" +
             slideArray[n].avatar +
-            "' style = 'border-radius: 50%;' height='30px' /> "+
+            "' style = 'border-radius: 50%;' height='50px' /> "+
             "</div>" +
             "<h2>" +
             slideArray[i].name +
