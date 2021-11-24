@@ -1,146 +1,141 @@
 body {
-  display: grid;
-  grid-template-rows: auto auto auto;
-  min-height: 500px;
-  width: 70%;
-  margin: 0;
-  margin-left: 15%;
-  padding:0;
-  grid-row-gap: 30px;
-}
+    display: grid;
+    grid-template-rows: auto auto auto;
+    min-height: 500px;
+    width: 70%;
+    margin: 0;
+    margin-left: 15%;
+    padding:0;
+    grid-row-gap: 30px;
+  }
+  
+  .cover {
+    width: 100%;
+    height: 500px;
+    background: url("image/Cover.svg") no-repeat center;
+    background-size: auto 500px;
+    grid-area: 1 / 1 / 2 / 2;
+    border-bottom: 1px solid #000;
+  }
+  
+  .sliderBox {
+    width: 100%;
+    grid-area: 3 / 1 / 4 / 2; 
+    display: block;
+    min-height: 300px;
+  }
 
-.cover {
-  width: 100%;
-  height: 500px;
-  background: url("image/Cover.svg") no-repeat center;
-  background-size: auto 500px;
-  grid-area: 1 / 1 / 2 / 2;
-  border-bottom: 1px solid #000;
-}
-
-.sliderBox {
-  width: 100%;
-  grid-area: 3 / 1 / 4 / 2; 
-  display: block;
-}
- 
-a {
-  padding: 10px 25px;
-  background-color: #4ca74c;
-  color: #fff;
-  border-radius: 25px;
-  text-decoration: none;
-}
- 
-#mySlider {
-  overflow: hidden;
-  position: relative;
-  width: 80%;
-  min-height: 300px;
-  padding: 0px;
-  margin: 0px;
-  z-index: 0;
-  margin-left: 10%;
-}
- 
-.singleSlide {
-  background-size: cover;
-  min-height: 300px;
-  position: absolute;
-  left: 100%;
-  width: 100%;
-  top: 0px;
-  text-align: center;
-}
- 
-.slideOverlay {
-  background-color: rgba(0, 0, 0, 0.5);
-  padding: 50px;
-}
- 
-#sliderNav {
-  position: relative;
-  top: 100px;
-  z-index: 1;
-  margin-left: 10%;
-  width: 80%;
-}
- 
-#sliderNav:hover {
-  cursor: pointer;
-}
- 
-#sliderPrev {
-  position: relative;
-  float: left;
-  left: 50px;
-}
- 
-#sliderNext {
-  position: relative;
-  float: right;
-  right: 50px;
-}
- 
-#sliderNext img,
-#sliderPrev img {
-  width: 32px;
-}
- 
-@-webkit-keyframes slideIn {
-  100% {
-    left: 0;
+   
+  #mySlider {
+    overflow: hidden;
+    position: relative;
+    width: 80%;
+    height: 500px;
+    padding: 0px;
+    margin: 0px;
+    z-index: 0;
+    margin-left: 10%;
   }
-}
- 
-@keyframes slideIn {
-  100% {
-    left: 0;
-  }
-}
- 
-.slideInRight {
-  left: -100%;
-  -webkit-animation: slideIn 1s forwards;
-  animation: slideIn 1s forwards;
-}
- 
-.slideInLeft {
-  left: 100%;
-  -webkit-animation: slideIn 1s forwards;
-  animation: slideIn 1s forwards;
-}
- 
-@-webkit-keyframes slideOutLeft {
-  100% {
-    left: -100%;
-  }
-}
- 
-@keyframes slideOutLeft {
-  100% {
-    left: -100%;
-  }
-}
- 
-.slideOutLeft {
-  -webkit-animation: slideOutLeft 1s forwards;
-  animation: slideOutLeft 1s forwards;
-}
- 
-@-webkit-keyframes slideOutRight {
-  100% {
+   
+  .singleSlide {
+    background-size: cover;
+    max-height: 1000px;
+    position: absolute;
     left: 100%;
+    width: 100%;
+    top: 0px;
+    text-align: center;
   }
-}
- 
-@keyframes slideOutRight {
-  100% {
+   
+  .slideOverlay {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 50px;
+  }
+   
+  #sliderNav {
+    position: relative;
+    top: 80px;
+    z-index: 1;
+    margin-left: 10%;
+    width: 80%;
+  }
+   
+  #sliderNav:hover {
+    cursor: pointer;
+  }
+   
+  #sliderPrev {
+    position: relative;
+    float: left;
+    left: 50px;
+  }
+   
+  #sliderNext {
+    position: relative;
+    float: right;
+    right: 50px;
+  }
+   
+  #sliderNext img,
+  #sliderPrev img {
+    width: 32px;
+  }
+   
+  @-webkit-keyframes slideIn {
+    100% {
+      left: 0;
+    }
+  }
+   
+  @keyframes slideIn {
+    100% {
+      left: 0;
+    }
+  }
+   
+  .slideInRight {
+    left: -100%;
+    -webkit-animation: slideIn 1s forwards;
+    animation: slideIn 1s forwards;
+  }
+   
+  .slideInLeft {
     left: 100%;
+    -webkit-animation: slideIn 1s forwards;
+    animation: slideIn 1s forwards;
   }
-}
- 
-.slideOutRight {
-  -webkit-animation: slideOutRight 1s forwards;
-  animation: slideOutRight 1s forwards;
-}
+   
+  @-webkit-keyframes slideOutLeft {
+    100% {
+      left: -100%;
+    }
+  }
+   
+  @keyframes slideOutLeft {
+    100% {
+      left: -100%;
+    }
+  }
+   
+  .slideOutLeft {
+    -webkit-animation: slideOutLeft 1s forwards;
+    animation: slideOutLeft 1s forwards;
+  }
+   
+  @-webkit-keyframes slideOutRight {
+    100% {
+      left: 100%;
+    }
+  }
+   
+  @keyframes slideOutRight {
+    100% {
+      left: 100%;
+    }
+  }
+   
+  .slideOutRight {
+    -webkit-animation: slideOutRight 1s forwards;
+    animation: slideOutRight 1s forwards;
+  }
+  
