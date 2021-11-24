@@ -35,14 +35,22 @@
         var TrongHieu = new Slide(
         "Image/TrongHieu.jpg",
         "Nguyễn Trọng Hiếu",
-        "Kiểm duyêt",
+        "Kiểm duyệt viên",
         "https://www.facebook.com/dev.tronghieu",
         "Hello, mình là Nguyễn Trọng Hiếu. Mình nhận vai trò người kiểm duyệt cho nhóm Ngôi nhà chứa đựng đầy TÌNH THƯƠNG này.<br> &emsp; Hiếu năm nay 18 tuổi, là sinh viên năm nhất khoa CNTT CLC của trường HCMUS.<br> &emsp; Sở thích hiện tại của Hiếu là chạy deadline, cứ hết 2 3 cái thì lại nhận thêm 4 5 cái và duy trì cái vòng tuần hoàn này cho tới khi hết sức.<br> &emsp; Hiếu đã từng định hướng mình thành creative developer vì khả năng phát triển cũng như cơ hội sáng tạo đầu óc thông qua việc thiết kế các 2d, 3d animations cho web. Tuy nhiên dưới sức mạnh của đồng tiền, mình đã bẻ lái dần và chuẩn bị kiến thức cho mảng blockchain.<br> &emsp; Mình hy vọng có thể hoà thuận được với mọi người, xin cảm ơn rất nhiều!!");
+
+        var UyenNhi = new Slide(
+          "Image/UyenNhi.jpg",
+          "Fa Ngọc Uyển Nhi",
+          "Nội dung & MC",
+          "https://www.facebook.com/profile.php?id=100015800913107",
+          "Xin chào mọi người mình là Fa Ngọc Uyển Nhi, mình là thành viên của nhóm Ngôi nhà chung chứa đựng đầy tình thương, trong nhóm mình sẽ đảm nhận vai trò là biên kịch, cũng như là MC phụ trách phần thuyết trình cuối kì của nhóm.<br> &emsp; Mình là sinh viên khóa 21, ngành Công nghệ Thông tin, trường Đại Học Khoa Học Tự Nhiên – ĐHQG TPHCM, mình sinh ngày 15/09/2003 , tên của mình khá đặc biệt(đôi khi là khá bất tiện để mọi người có thể hiểu ngay từ đầu) cũng bởi mình là người dân tộc Chăm và mình cảm thấy rất tự hào vì điều đó. Mình là người khá hòa đồng và luôn sẵn lòng giúp đỡ mọi người, mình là người kiềm chế cảm xúc khá tốt nên mọi sẽ thấy mình rất ít khi nổi nóng. <br> &emsp; Sở thích của mình khá đơn giản đó là nghe nhạc, và đặc biệt là mình rất thích xem phim. Với sự cẩn thận hiện có mình định hướng trở thành Software Testers . Và mình cũng có một ước mơ từ rất lâu rồi đó là được đi và khám phá đất nước Thụy Sĩ, nên mình sẽ nỗ lực thật nhiều để ước mơ này thành sự thật!!"
+        );
 
         var MinhDuc = new Slide(
           "Image/MinhDuc.jpg",
           "Lê Minh Đức",
-          "Kỹ thuật",
+          "Kỹ thuật viên",
           "https://www.facebook.com/duc.leminh2812/",
           "Mình là Lê Minh Đức, kỹ thuật viên của nhóm 5, ngôi nhà chung chứa đựng đầy tình thương.<br> &emsp; Mình sinh vào ngày 28 tháng 12, một ngày đông cuối năm không có tuyết (tại thành phố Hồ Chí Minh, Việt Nam). Trường THPT Trưng Vương đã nâng đỡ mình và hiện giờ mình đang cư ngụ tại lớp 21CLC09, Khoa CNTT, Trường ĐHKHTN.<br> &emsp; Sở thích của mình rất nhiều nhưng thích nhất là ngủ, cũng như tìm tòi, học hỏi những điều mới mẻ. (thỉnh thoảng, mình còn tìm ra được những giải pháp mới trong lúc ngủ)<br> &emsp; Về uớc mơ của mình ư? Như nhiều người thôi đó là có một thu nhập ổn định, xa hơn là xây dựng được một căn nhà siêu to khổng lồ. Còn một mục tiêu mà mình luôn nhắm đến đó là được làm trong công ty game lớn như là hãng game 10 năm để pr phim Riot Entertainment.<br> &emsp; Và đó là tất cả thông tin về mình, cám ơn mọi người đã quan tâm. Mọi người có thể liên hệ với mình qua icon facebook ở trên!"
           );
@@ -57,11 +65,11 @@
         // Go through the Array and add the code to our HTML
         for (var i = 0; i < slideArray.length; i++) {
             if (i===0){
-                p=2;
+                p=3;
             } else {
                 p=i-1;
             }
-            if (i===2){
+            if (i===3){
                 n=0;
             } else {
                 n=i+1;
