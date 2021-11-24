@@ -33,42 +33,42 @@
         );
         
         var TrongHieu = new Slide(
-        "Image/TrongHieu.jpg",
+        "image/TrongHieu.jpg",
         "Nguyễn Trọng Hiếu",
         "Kiểm duyệt viên",
         "https://www.facebook.com/dev.tronghieu",
-        "Hello, mình là Nguyễn Trọng Hiếu. Mình nhận vai trò người kiểm duyệt cho nhóm Ngôi nhà chứa đựng đầy TÌNH THƯƠNG này.<br> &emsp; Hiếu năm nay 18 tuổi, là sinh viên năm nhất khoa CNTT CLC của trường HCMUS.<br> &emsp; Sở thích hiện tại của Hiếu là chạy deadline, cứ hết 2 3 cái thì lại nhận thêm 4 5 cái và duy trì cái vòng tuần hoàn này cho tới khi hết sức.<br> &emsp; Hiếu đã từng định hướng mình thành creative developer vì khả năng phát triển cũng như cơ hội sáng tạo đầu óc thông qua việc thiết kế các 2d, 3d animations cho web. Tuy nhiên dưới sức mạnh của đồng tiền, mình đã bẻ lái dần và chuẩn bị kiến thức cho mảng blockchain.<br> &emsp; Mình hy vọng có thể hoà thuận được với mọi người, xin cảm ơn rất nhiều!!");
+        "Hello, mình là Nguyễn Trọng Hiếu. Mình nhận vai trò người kiểm duyệt cho nhóm Ngôi nhà chứa đựng đầy TÌNH THƯƠNG này. Hiếu năm nay 18 tuổi, là sinh viên năm nhất khoa CNTT CLC của trường HCMUS. Sở thích hiện tại của Hiếu là chạy deadline, cứ hết 2 3 cái thì lại nhận thêm 4 5 cái và duy trì cái vòng tuần hoàn này cho tới khi hết sức. Hiếu đã từng định hướng mình thành creative developer vì khả năng phát triển cũng như cơ hội sáng tạo đầu óc thông qua việc thiết kế các 2d, 3d animations cho web. Tuy nhiên dưới sức mạnh của đồng tiền, mình đã bẻ lái dần và chuẩn bị kiến thức cho mảng blockchain. Mình hy vọng có thể hoà thuận được với mọi người, xin cảm ơn rất nhiều!!");
 
         var UyenNhi = new Slide(
-          "Image/UyenNhi.jpg",
+          "image/UyenNhi.jpg",
           "Fa Ngọc Uyển Nhi",
           "Nội dung & MC",
           "https://www.facebook.com/profile.php?id=100015800913107",
-          "Xin chào mọi người mình là Fa Ngọc Uyển Nhi, mình là thành viên của nhóm Ngôi nhà chung chứa đựng đầy tình thương, trong nhóm mình sẽ đảm nhận vai trò là biên kịch, cũng như là MC phụ trách phần thuyết trình cuối kì của nhóm.<br> &emsp; Mình là sinh viên khóa 21, ngành Công nghệ Thông tin, trường Đại Học Khoa Học Tự Nhiên – ĐHQG TPHCM, mình sinh ngày 15/09/2003 , tên của mình khá đặc biệt(đôi khi là khá bất tiện để mọi người có thể hiểu ngay từ đầu) cũng bởi mình là người dân tộc Chăm và mình cảm thấy rất tự hào vì điều đó. Mình là người khá hòa đồng và luôn sẵn lòng giúp đỡ mọi người, mình là người kiềm chế cảm xúc khá tốt nên mọi sẽ thấy mình rất ít khi nổi nóng. <br> &emsp; Sở thích của mình khá đơn giản đó là nghe nhạc, và đặc biệt là mình rất thích xem phim. Với sự cẩn thận hiện có mình định hướng trở thành Software Testers . Và mình cũng có một ước mơ từ rất lâu rồi đó là được đi và khám phá đất nước Thụy Sĩ, nên mình sẽ nỗ lực thật nhiều để ước mơ này thành sự thật!!"
+          "Xin chào mọi người mình là Fa Ngọc Uyển Nhi, mình là thành viên của nhóm Ngôi nhà chung chứa đựng đầy tình thương, trong nhóm mình sẽ đảm nhận vai trò là biên kịch, cũng như là MC phụ trách phần thuyết trình cuối kì của nhóm. Mình là sinh viên khóa 21, ngành Công nghệ Thông tin, trường Đại Học Khoa Học Tự Nhiên – ĐHQG TPHCM, mình sinh ngày 15/09/2003 , tên của mình khá đặc biệt(đôi khi là khá bất tiện để mọi người có thể hiểu ngay từ đầu) cũng bởi mình là người dân tộc Chăm và mình cảm thấy rất tự hào vì điều đó. Mình là người khá hòa đồng và luôn sẵn lòng giúp đỡ mọi người, mình là người kiềm chế cảm xúc khá tốt nên mọi sẽ thấy mình rất ít khi nổi nóng. Sở thích của mình khá đơn giản đó là nghe nhạc, và đặc biệt là mình rất thích xem phim. Với sự cẩn thận hiện có mình định hướng trở thành Software Testers . Và mình cũng có một ước mơ từ rất lâu rồi đó là được đi và khám phá đất nước Thụy Sĩ, nên mình sẽ nỗ lực thật nhiều để ước mơ này thành sự thật!!"
         );
 
         var MinhBao = new Slide(
-          "Image/MinhBao.jpeg",
+          "image/MinhBao.jpeg",
           "Nguyễn Phú Minh Bảo",
           "Nội dung",
           "https://www.facebook.com/profile.php?id=100010494795471",
-          "Chào các bạn, mình tên là Nguyễn Phú Minh Bảo hiện đang giữ vai trò sáng tạo nội dung và là MC của nhóm 5 môn kĩ năng mềm. <br> &emsp; Nói sơ qua về thông tin cá nhân của mình: mình sinh vào ngày 20/07/2003 tại thị xã Châu Đốc nhưng từ khi lên 6 gia đình mình bắt đầu chuyển đến và sinh sống ở TP Long Xuyên. Đây cũng là nơi mình dành 12 năm đèn sách và sinh sống cho đến khi đỗ vào trường Đại Học Khoa Học Tự Nhiên, khoa Công Nghệ Thông Tin K21.<br> &emsp; Sở thích của mình cũng nhiều, nói chung là vui là mình quất, đặc biệt trong việc chơi game. Game nào mình cũng chơi được nếu có bạn bè, còn về độ hardcore thì hiện tại mình không có thời gian chứ ngày xưa mình cũng “Chiến” lắm đấy😎. <br> &emsp; Ước mơ của mình thì bây giờ cũng khá là mơ hồ vì khá là phân vân trong việc chọn chuyên ngành nên mình cứ chỉ Enjoy cái moment này thôi trước đã :P<br> &emsp; Rất mong được làm quen với mọi người"
+          "Chào các bạn, mình tên là Nguyễn Phú Minh Bảo hiện đang giữ vai trò sáng tạo nội dung và là MC của nhóm 5 môn kĩ năng mềm. Nói sơ qua về thông tin cá nhân của mình: mình sinh vào ngày 20/07/2003 tại thị xã Châu Đốc nhưng từ khi lên 6 gia đình mình bắt đầu chuyển đến và sinh sống ở TP Long Xuyên. Đây cũng là nơi mình dành 12 năm đèn sách và sinh sống cho đến khi đỗ vào trường Đại Học Khoa Học Tự Nhiên, khoa Công Nghệ Thông Tin K21. Sở thích của mình cũng nhiều, nói chung là vui là mình quất, đặc biệt trong việc chơi game. Game nào mình cũng chơi được nếu có bạn bè, còn về độ hardcore thì hiện tại mình không có thời gian chứ ngày xưa mình cũng “Chiến” lắm đấy😎. Ước mơ của mình thì bây giờ cũng khá là mơ hồ vì khá là phân vân trong việc chọn chuyên ngành nên mình cứ chỉ Enjoy cái moment này thôi trước đã :P Rất mong được làm quen với mọi người"
         );
 
         var MinhDuc = new Slide(
-          "Image/MinhDuc.jpg",
+          "image/MinhDuc.jpg",
           "Lê Minh Đức",
           "Kỹ thuật viên",
           "https://www.facebook.com/duc.leminh2812/",
-          "Mình là Lê Minh Đức, kỹ thuật viên của nhóm 5, ngôi nhà chung chứa đựng đầy tình thương.<br> &emsp; Mình sinh vào ngày 28 tháng 12, một ngày đông cuối năm không có tuyết (tại thành phố Hồ Chí Minh, Việt Nam). Trường THPT Trưng Vương đã nâng đỡ mình và hiện giờ mình đang cư ngụ tại lớp 21CLC09, Khoa CNTT, Trường ĐHKHTN.<br> &emsp; Sở thích của mình rất nhiều nhưng thích nhất là ngủ, cũng như tìm tòi, học hỏi những điều mới mẻ. (thỉnh thoảng, mình còn tìm ra được những giải pháp mới trong lúc ngủ)<br> &emsp; Về uớc mơ của mình ư? Như nhiều người thôi đó là có một thu nhập ổn định, xa hơn là xây dựng được một căn nhà siêu to khổng lồ. Còn một mục tiêu mà mình luôn nhắm đến đó là được làm trong công ty game lớn như là hãng game 10 năm để pr phim Riot Entertainment.<br> &emsp; Và đó là tất cả thông tin về mình, cám ơn mọi người đã quan tâm. Mọi người có thể liên hệ với mình qua icon facebook ở trên!"
+          "Mình là Lê Minh Đức, kỹ thuật viên của nhóm 5, ngôi nhà chung chứa đựng đầy tình thương. Mình sinh vào ngày 28 tháng 12, một ngày đông cuối năm không có tuyết (tại thành phố Hồ Chí Minh, Việt Nam). Trường THPT Trưng Vương đã nâng đỡ mình và hiện giờ mình đang cư ngụ tại lớp 21CLC09, Khoa CNTT, Trường ĐHKHTN. Sở thích của mình rất nhiều nhưng thích nhất là ngủ, cũng như tìm tòi, học hỏi những điều mới mẻ. (thỉnh thoảng, mình còn tìm ra được những giải pháp mới trong lúc ngủ) Về uớc mơ của mình ư? Như nhiều người thôi đó là có một thu nhập ổn định, xa hơn là xây dựng được một căn nhà siêu to khổng lồ. Còn một mục tiêu mà mình luôn nhắm đến đó là được làm trong công ty game lớn như là hãng game 10 năm để pr phim Riot Entertainment. Và đó là tất cả thông tin về mình, cám ơn mọi người đã quan tâm. Mọi người có thể liên hệ với mình qua icon facebook ở trên!"
           );
         
         var VyThanh = new Slide(
-          "Image/VyThanh.jpeg",
+          "image/VyThanh.jpeg",
           "Trương Vỹ Thành",
           "Hậu cần",
           "https://www.facebook.com/nomatterwhatusay",
-          "hi xin chào tất cả mọi người, mình là Trương Vỹ Thành là thành viên của nhóm 5, vai trò của mình là hậu cần trong nhóm<br> &emsp; mình sinh ngày 18/3/2003 tại HCM, mình đậu được ngành CNTT, Trường ĐHKHTN là do số đỏ mà thôi chứ mình cũng chẳng có tài giỏi gì <br> &emsp; sở thích của mình là nghe nhạc, xem phim, đồ công nghệ, chơi game và xem mêm<br> &emsp; mình có ước mơ là trở thành tester hoặc designer trong 1 công ti game chuyên gia để game dead<br> &emsp; cảm ơn mọi người đã lắng nghe lời chia sẻ của mình"
+          "Hi xin chào tất cả mọi người, mình là Trương Vỹ Thành là thành viên của nhóm 5, vai trò của mình là hậu cần trong nhóm. Mình sinh ngày 18/3/2003 tại HCM, mình đậu được ngành CNTT, Trường ĐHKHTN là do số đỏ mà thôi chứ mình cũng chẳng có tài giỏi gì. Sở thích của mình là nghe nhạc, xem phim, đồ công nghệ, chơi game và xem mêm. Mình có ước mơ là trở thành tester hoặc designer trong 1 công ti game chuyên gia để game dead. Cảm ơn mọi người đã lắng nghe lời chia sẻ của mình"
         );
 
         // Từ mảng slide đã tạo, ta tiến hành đưa nó vào source HTML
@@ -98,15 +98,15 @@
             "<div style='display: flex; justify-content: space-around; align-items: center; width:100%;'>" +
             "<img src='" +
             slideArray[p].avatar +
-            "' style = 'border-radius: 50%;' height='50px' /> "+
+            "' style = 'border-radius: 50%; margin-left:15%;' height='50px' /> "+
 
             "<img src='" +
             slideArray[i].avatar +
-            "' style = 'border-radius: 50%;' height='100px' /> "+
+            "' style = 'border-radius: 50%;' height='130px' /> "+
 
             "<img src='" +
             slideArray[n].avatar +
-            "' style = 'border-radius: 50%;' height='50px' /> "+
+            "' style = 'border-radius: 50%; margin-right:15%;' height='50px' /> "+
             "</div>" +
             "<h2>" +
             slideArray[i].name +
@@ -117,9 +117,9 @@
             slideArray[i].link+
             "'><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Facebook_icon_2013.svg/768px-Facebook_icon_2013.svg.png' width='15px'/></a>"+
             "</h3>" +
-            "<div style='display: flex; justify-content: center; width: 100%;'><p style='text-align: justify; width: 50%;'> &emsp; " +
+            "<div style='display: flex; justify-content: center; width: 100%;'><p style='text-align: justify; width: 70%; font-size:1.125em; font-family: 'Trebuchet MS', sans-serif;'><b> &emsp; " +
             slideArray[i].description +
-            "</p></div>" +
+            "</b></p></div>" +
             "</div>" +
             "</div>";
         }

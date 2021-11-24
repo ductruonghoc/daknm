@@ -3016,7 +3016,7 @@
 	.st3010{clip-path:url(#SVGID_167_);fill:#FA3C8F;}
 	.st3011{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
 	.st3012{fill:#0071BC;}
-	.st3013{opacity:0.1;fill:#fcebef;}
+	.st3013{opacity:0.15;fill:#ffbaca;}
 </style>
 <rect x="-13" y="-6" class="st0" width="1953" height="1101"/>
 <path class="st1" d="M1266,922c-168.7-9.7-230.6,15.3-284-35c-19-17.9-31.3-40.2-46.3-93.2c-20.8-73.5-112.7-399.2,70.8-570.1
