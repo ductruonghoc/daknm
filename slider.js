@@ -24,7 +24,7 @@
         // Tạo các đối tượng slide, bạn có thể tạo nhiều hơn
         
         var NhatPhi = new Slide(
-        "NhatPhi.jpg",
+        "image/NhatPhi.jpg",
         "Nguyễn Nhật Phi",
         "Nhóm Trưởng",
         "Hè lố"
@@ -47,7 +47,7 @@
         // Từ mảng slide đã tạo, ta tiến hành đưa nó vào source HTML
         function buildSlider() {
         // A variable to hold all our HTML
-        var myHTML;
+        var myHTML = "";
         var p;
         var n;
         
