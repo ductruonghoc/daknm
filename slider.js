@@ -33,14 +33,14 @@
         );
         
         var TrongHieu = new Slide(
-        "Image/TrongHieu.jpg",
+        "image/TrongHieu.jpg",
         "Nguyễn Trọng Hiếu",
         "Kiểm duyệt viên",
         "https://www.facebook.com/dev.tronghieu",
         "Hello, mình là Nguyễn Trọng Hiếu. Mình nhận vai trò người kiểm duyệt cho nhóm Ngôi nhà chứa đựng đầy TÌNH THƯƠNG này.<br> &emsp; Hiếu năm nay 18 tuổi, là sinh viên năm nhất khoa CNTT CLC của trường HCMUS.<br> &emsp; Sở thích hiện tại của Hiếu là chạy deadline, cứ hết 2 3 cái thì lại nhận thêm 4 5 cái và duy trì cái vòng tuần hoàn này cho tới khi hết sức.<br> &emsp; Hiếu đã từng định hướng mình thành creative developer vì khả năng phát triển cũng như cơ hội sáng tạo đầu óc thông qua việc thiết kế các 2d, 3d animations cho web. Tuy nhiên dưới sức mạnh của đồng tiền, mình đã bẻ lái dần và chuẩn bị kiến thức cho mảng blockchain.<br> &emsp; Mình hy vọng có thể hoà thuận được với mọi người, xin cảm ơn rất nhiều!!");
 
         var UyenNhi = new Slide(
-          "Image/UyenNhi.jpg",
+          "image/UyenNhi.jpg",
           "Fa Ngọc Uyển Nhi",
           "Nội dung & MC",
           "https://www.facebook.com/profile.php?id=100015800913107",
@@ -48,7 +48,7 @@
         );
 
         var MinhBao = new Slide(
-          "Image/MinhBao.jpeg",
+          "image/MinhBao.jpeg",
           "Nguyễn Phú Minh Bảo",
           "Nội dung",
           "https://www.facebook.com/profile.php?id=100010494795471",
@@ -56,7 +56,7 @@
         );
 
         var MinhDuc = new Slide(
-          "Image/MinhDuc.jpg",
+          "image/MinhDuc.jpg",
           "Lê Minh Đức",
           "Kỹ thuật viên",
           "https://www.facebook.com/duc.leminh2812/",
@@ -64,7 +64,7 @@
           );
         
         var VyThanh = new Slide(
-          "Image/VyThanh.jpeg",
+          "image/VyThanh.jpeg",
           "Trương Vỹ Thành",
           "Hậu cần",
           "https://www.facebook.com/nomatterwhatusay",
