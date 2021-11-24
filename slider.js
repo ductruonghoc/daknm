@@ -8,11 +8,12 @@
         // Hàm này sẽ giúp chúng ta tạo ra các đối tượng slide
         // bao gồm: tiêu đề, mô tả, ảnh, đường dẫn khi nhấp vào button trên slide, 
         // và id của mỗi slide
-        function Slide(avatar, name, role, description) {
+        function Slide(avatar, name, role, link, description) {
         this.avatar = avatar;
         this.name = name;
         this.role = role;
         this.description = description;
+        this.link = link;
         // we need an id to target later using getElementById
         this.id = "slide" + slideIndex;
         // Add one to the index for the next slide number
@@ -27,21 +28,22 @@
         "image/NhatPhi.jpg",
         "Nguyễn Nhật Phi",
         "Nhóm Trưởng",
-        "Hè lố"
+        "https://www.facebook.com/ngnhatfiii1804",
+        "Mình là Nguyễn Nhật Phi, là nhóm trưởng của nhóm Ngôi nhà chung chưa đựng đầy tình thương này. Mình là sinh viên khoá 21, ngành Công nghệ Thông tin của trường đại học Khoa học Tự nhiên Thành phố Hồ Chí Minh. Mình sinh ngày 18/04/2003, và thuộc cung bạch dương (cung lửa), nên đôi khi tính tình mình hơi nóng nảy. Nhưng nếu không chọc giận mình thì mình lại là tuýp người dễ gần và thân thiện. Sở thích của mình là nghe nhạc và chơi game lúc rảnh. Và mình cực kì đam mê với vũ đạo, hiện mình đang là thành viên của tổ chức SAB, ban SAB Entertainment & Arts và cũng là thành viên của câu lạc bộ FOS, ban nhảy. Ước mơ tương lai của mình là trở thành một Web Developer kiêm UI Designer xịn sò. Các bạn hãy chào đón mình như một đối thủ đáng gờm nhé. Cảm ơn mọi người rất nhiều."
         );
         
         var MinhDuc = new Slide(
-        "MinhDuc.jpg",
+        "Image/MinhDuc.jpg",
         "Lê Minh Đức",
-        "Kỹ thuật",
-        "Hè lố"
+        "Kỹ thuật",""
+        ,"Hè lố"
         );
         
         var TrongHieu = new Slide(
-        "TrongHieu.jpg",
+        "Image/TrongHieu.jpg",
         "Nguyễn Trọng Hiếu",
-        "Kiểm duyêt",
-        "Hè lố"
+        "Kiểm duyêt",""
+        ,"Hè lố"
         );
         
         // Từ mảng slide đã tạo, ta tiến hành đưa nó vào source HTML
@@ -84,12 +86,15 @@
             "<h2>" +
             slideArray[i].name +
             "</h2>" +
-            "<h3>" +
+            "<h3 style='color: #ff6f74'>" +
             slideArray[i].role +
+            " &nbsp; <a href='"+
+            slideArray[i].link+
+            "'><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Facebook_icon_2013.svg/768px-Facebook_icon_2013.svg.png' width='15px'/></a>"+
             "</h3>" +
-            "<p>" +
+            "<div style='display: flex; justify-content: center; width: 100%;'><p style='text-align: justify; width: 50%;'> &emsp; " +
             slideArray[i].description +
-            "</p>" +
+            "</p></div>" +
             "</div>" +
             "</div>";
         }
