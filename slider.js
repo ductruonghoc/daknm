@@ -75,7 +75,7 @@
 
             "<img src='" +
             slideArray[i].avatar +
-            "' style = 'border-radius: 50%;' height='100px' /> "+
+            "' style = 'border-radius: 50%;' height='70px' /> "+
 
             "<img src='" +
             slideArray[n].avatar +
