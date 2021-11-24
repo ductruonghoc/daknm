@@ -93,7 +93,7 @@
             "</div>" +
             "</div>";
         }
-        
+        console.log(myHTML);
         // Đưa HTML chúng ta vừa tạo vào id #mySlider
         document.getElementById("mySlider").innerHTML = myHTML;
         
