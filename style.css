@@ -61,7 +61,7 @@ a {
 #sliderNav {
   position: relative;
   top: 100px;
-  z-index: -1;
+  z-index: 1;
   margin-left: 10%;
   width: 80%;
 }
