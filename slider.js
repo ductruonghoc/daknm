@@ -68,7 +68,7 @@
             slideArray[i].id +
             "' class='singleSlide'" +
             "<div class='slideOverlay'>" +
-            "<div style='display: flex-block; justify-content: space-around; align-items: center; width:100%;'>" +
+            "<div style='display: flex; justify-content: space-around; align-items: center; width:100%;'>" +
             "<img src='" +
             slideArray[p].avatar +
             "' style = 'border-radius: 50%;' height='30px' /> "+
