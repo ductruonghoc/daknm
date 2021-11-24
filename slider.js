@@ -71,7 +71,7 @@
             "<div style='display: flex; justify-content: space-around; align-items: center; width:100%;'>" +
             "<img src='" +
             slideArray[p].avatar +
-            "' style = 'border-radius: 50%;' height='50px' /> "+
+            "' style = 'border-radius: 50%;' height='30px' /> "+
 
             "<img src='" +
             slideArray[i].avatar +
@@ -79,7 +79,7 @@
 
             "<img src='" +
             slideArray[n].avatar +
-            "' style = 'border-radius: 50%;' height='50px' /> "+
+            "' style = 'border-radius: 50%;' height='30px' /> "+
             "</div>" +
             "<h2>" +
             slideArray[i].name +
