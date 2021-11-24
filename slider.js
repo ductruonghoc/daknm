@@ -42,8 +42,9 @@
         var MinhDuc = new Slide(
           "Image/MinhDuc.jpg",
           "Lê Minh Đức",
-          "Kỹ thuật",""
-          ,"Hè lố"
+          "Kỹ thuật",
+          "https://www.facebook.com/duc.leminh2812/",
+          "Mình là Lê Minh Đức, kỹ thuật viên của nhóm 5, ngôi nhà chung chứa đựng đầy tình thương.<br> &emsp; Mình sinh vào ngày 28 tháng 12, một ngày đông cuối năm không có tuyết (tại thành phố Hồ Chí Minh, Việt Nam). Trường THPT Trưng Vương đã nâng đỡ mình và hiện giờ mình đang cư ngụ tại lớp 21CLC09, Khoa CNTT, Trường ĐHKHTN.<br> &emsp; Sở thích của mình rất nhiều nhưng thích nhất là ngủ, cũng như tìm tòi, học hỏi những điều mới mẻ. (thỉnh thoảng, mình còn tìm ra được những giải pháp mới trong lúc ngủ)<br> &emsp; Về uớc mơ của mình ư? Như nhiều người thôi đó là có một thu nhập ổn định, xa hơn là xây dựng được một căn nhà siêu to khổng lồ. Còn một mục tiêu mà mình luôn nhắm đến đó là được làm trong công ty game lớn như là hãng game 10 năm để pr phim Riot Entertainment.<br> &emsp; Và đó là tất cả thông tin về mình, cám ơn mọi người đã quan tâm. Mọi người có thể liên hệ với mình qua icon facebook ở trên!"
           );
         
         // Từ mảng slide đã tạo, ta tiến hành đưa nó vào source HTML
