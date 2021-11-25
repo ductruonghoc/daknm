@@ -1,4 +1,4 @@
-body {
+  body {
     display: grid;
     grid-template-rows: auto auto auto;
     grid-template-columns: 2fr 8fr 2fr; 
@@ -137,3 +137,24 @@ body {
     animation: slideOutRight 1s forwards;
   }
   
+  /* ===== Scrollbar CSS ===== */
+  /* Firefox */
+  * {
+    scrollbar-width: auto;
+    scrollbar-color: #f551a9 #ffffff;
+  }
+
+  /* Chrome, Edge, and Safari */
+  *::-webkit-scrollbar {
+    width: 16px;
+  }
+
+  *::-webkit-scrollbar-track {
+    background: #ffffff;
+  }
+
+  *::-webkit-scrollbar-thumb {
+    background-color: #f551a9;
+    border-radius: 10px;
+    border: 3px solid #ffffff;
+  }
