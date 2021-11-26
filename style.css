@@ -29,8 +29,8 @@
   .teptin {
     grid-area: 1/ 1/ 2/ 2;
     padding-top: 100%;
-    background: url("image/TapTin.svg") no-repeat -25vw -11vw;
-    background-size: 74vw auto;
+    background: url("image/TapTin.svg") no-repeat -24vw -10vw;
+    background-size: 72vw auto;
   }
 
   .sliderBox {
