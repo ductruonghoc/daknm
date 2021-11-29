@@ -12,6 +12,9 @@
 		
 		<div class="content">
 			<button type="button" style="border-style: none;" class="teptin" data-toggle="modal" data-target="#myModal"></button>
+			<button type="button" onclick="Collapse();" class="hinhanh"></button>
+			<div id="anhnhom" class="anhnhom"><img style="border-radius: 5%;"src="image/AnhNhom.png" width="100%"/></div>
+			<div class="thongtinchung"></div>
 		</div>
 
 		<div class="sliderBox">
@@ -45,6 +48,14 @@
 			</div>
 		</div>
 
+		<script>
+			function Collapse()
+			{
+				var x = document.getElementById("anhnhom");	
+				if (x.style.display === "none") x.style.display = "block";
+				else x.style.display = "none";
+			}
+		</script>
 		<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
