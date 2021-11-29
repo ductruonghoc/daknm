@@ -111,11 +111,11 @@
             "<h2>" +
             slideArray[i].name +
             "</h2>" +
-            "<h3 style='color: #ff6f74;'>" +
+            "<div style = 'display: flex; justify-content: center;'><h3 style='color: #ff6f74; display: relative; '>" +
             slideArray[i].role +
             "</h3><a href='"+
             slideArray[i].link+
-            "' style = 'position: absolute; z-index: 1; right: 24.5vw; top: 9.4vw;'><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Facebook_icon_2013.svg/768px-Facebook_icon_2013.svg.png' width='30vw' style = 'border-radius: 50%; '/></a>"+
+            "' style = 'position: absolute; z-index: 1; margin-left: 18em; margin-top: 0.3em; '><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1200px-Facebook_Logo_%282019%29.png' width='30vw' style = 'border-radius: 50%; '/></a></div>"+
             "<br><div style='display: flex; justify-content: center; width: 100%;'><p style='text-align: justify; width: 70%; font-size:1.125em; font-family: 'Trebuchet MS', sans-serif;'> &emsp; " +
             slideArray[i].description +
             "</p></div>" +
