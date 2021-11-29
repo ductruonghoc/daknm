@@ -92,6 +92,10 @@
     top: 0px;
     text-align: center;
   }
+
+  .singleSlide p{
+    font-family: "Segoe UI",Arial,sans-serif;
+  }
    
   .slideOverlay {
     background-color: rgba(0, 0, 0, 0.5);

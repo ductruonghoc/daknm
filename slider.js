@@ -116,7 +116,7 @@
             "</h3><a href='"+
             slideArray[i].link+
             "' style = 'position: absolute; z-index: 1; margin-left: 18em; margin-top: 0.3em; '><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1200px-Facebook_Logo_%282019%29.png' width='30vw' style = 'border-radius: 50%; '/></a></div>"+
-            "<br><div style='display: flex; justify-content: center; width: 100%;'><p style='text-align: justify; width: 70%; font-size:1.125em; font-family: 'Trebuchet MS', sans-serif;'> &emsp; " +
+            "<br><div style='display: flex; justify-content: center; width: 100%;'><p style='text-align: justify; width: 70%; font-size:1.125em;'> &emsp; " +
             slideArray[i].description +
             "</p></div>" +
             "</div>" +
