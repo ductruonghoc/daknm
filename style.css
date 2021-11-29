@@ -45,7 +45,7 @@
     overflow: hidden;
     position: relative;
     width: 80%;
-    height: 600px;
+    height: 28vw;
     padding: 0px;
     margin: 0px;
     z-index: 0;
@@ -54,7 +54,6 @@
    
   .singleSlide {
     background-size: cover;
-    max-height: 1000px;
     position: absolute;
     left: 100%;
     width: 100%;
@@ -82,18 +81,18 @@
   #sliderPrev {
     position: relative;
     float: left;
-    left: 50px;
+    left: 5vw;
   }
    
   #sliderNext {
     position: relative;
     float: right;
-    right: 50px;
+    right: 5vw;
   }
    
   #sliderNext img,
   #sliderPrev img {
-    width: 32px;
+    width: 2vw;
   }
    
   @-webkit-keyframes slideIn {
