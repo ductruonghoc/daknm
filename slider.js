@@ -64,7 +64,7 @@
           );
         
         var VyThanh = new Slide(
-          "image/VyThanh.jpeg",
+          "image/VyThanh.jpg",
           "Trương Vỹ Thành",
           "Hậu cần",
           "https://www.facebook.com/nomatterwhatusay",
