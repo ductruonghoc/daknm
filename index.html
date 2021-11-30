@@ -13,7 +13,16 @@
 		<div class="content">
 			<button type="button" style="border-style: none;" class="teptin" data-toggle="modal" data-target="#myModal"></button>
 			<button type="button" onclick="Collapse();" class="hinhanh"></button>
-			<div id="anhnhom" class="anhnhom"><img style="border-radius: 5%;"src="image/AnhNhom.png" width="100%"/></div>
+			<div id="anhnhom" class="anh">
+				<div class="anhnhom">
+					<img style="border-radius: 5%;"src="image/AnhNhom.png" width="100%"/>
+					<h3>Nhóm 5 nè!!!</h3>
+				</div>
+				<div class="poster">
+					<img src="image/Poster.png" width="100%"/>
+					<h3>Poster</h3>
+				</div>
+			</div>
 			<div class="thongtinchung"></div>
 		</div>
 
@@ -52,7 +61,7 @@
 			function Collapse()
 			{
 				var x = document.getElementById("anhnhom");	
-				if (x.style.display === "none") x.style.display = "block";
+				if (x.style.display === "none") x.style.display = "grid";
 				else x.style.display = "none";
 			}
 		</script>

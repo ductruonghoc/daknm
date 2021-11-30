@@ -41,9 +41,25 @@
     background-size: 41vw auto;
   }
 
-  .anhnhom {
+  .anh {
+    margin-top:1vw;
     grid-area: 2/ 1/ 3/ 5;
     display: none;
+    grid-template-columns: 1.66fr 1fr;
+    grid-gap:2vw;
+    text-align: center;
+  }
+
+  .anh img{
+    border: 0.3vw solid rgb(238, 92, 182);
+  }
+
+  .anhnhom {
+    grid-area: 1/ 1/ 2/ 2;
+  }
+
+  .poster {
+    grid-area: 1/ 2/ 2/ 3;
   }
 
   .thongtinchung {
