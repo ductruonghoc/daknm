@@ -98,24 +98,24 @@
             "<div style='display: flex; justify-content: space-around; align-items: center; width:100%;'>" +
             "<img src='" +
             slideArray[p].avatar +
-            "' style = 'border-radius: 50%; margin-left:15%;' height='50px' /> "+
+            "' style = 'border-radius: 50%; margin-left:15%;' height='50vw' /> "+
 
             "<img src='" +
             slideArray[i].avatar +
-            "' style = 'border-radius: 50%;' height='130px' /> "+
+            "' style = 'border-radius: 50%;' height='130vw' /> "+
 
             "<img src='" +
             slideArray[n].avatar +
-            "' style = 'border-radius: 50%; margin-right:15%;' height='50px' /> "+
+            "' style = 'border-radius: 50%; margin-right:15%;' height='50vw' /> "+
             "</div>" +
-            "<h2>" +
+            "<h3>" +
             slideArray[i].name +
             "<a href='" +
             slideArray[i].link+
-            "' style = 'position: absolute; margin-left: 0.5em; margin-top: 0.2em; ' target='_blank'><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1200px-Facebook_Logo_%282019%29.png' width='30vw' style = 'border-radius: 50%; '/></a></h2>"+
-            "<h3 style='color: #ff6f74; display: relative; '>" +
+            "' style = 'position: absolute; margin-left: 0.5em; margin-top: 0.1em; ' target='_blank'><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1200px-Facebook_Logo_%282019%29.png' width='30vw' style = 'border-radius: 50%; '/></a></h3>"+
+            "<h4 style='color: #ff6f74; display: relative; '>" +
             slideArray[i].role +
-            "</h3>"+
+            "</h4>"+
             "<br><div style='display: flex; justify-content: center; width: 100%;'><p style='text-align: justify; width: 70%; font-size:0.9vw;'> &emsp; " +
             slideArray[i].description +
             "</p></div>" +
