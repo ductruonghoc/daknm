@@ -67,6 +67,11 @@
     background: url("image/ThongTinChung.svg") no-repeat -21.5vw -11vw;
     background-size: 77vw auto;
     height: 27vw;
+    padding-top: 7vw;
+    padding-left: 3vw;
+    padding-right: 14vw;
+    font-family: "Segoe UI",Arial,sans-serif;
+    font-size: 0.88vw;
   }
 
   .resource {
