@@ -112,7 +112,7 @@
             slideArray[i].name +
             "<a href='" +
             slideArray[i].link+
-            "' style = 'position: absolute; margin-left: 0.5em; margin-top: 0.2em; '><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1200px-Facebook_Logo_%282019%29.png' width='30vw' style = 'border-radius: 50%; '/></a></h2>"+
+            "' style = 'position: absolute; margin-left: 0.5em; margin-top: 0.2em; ' target='_blank'><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1200px-Facebook_Logo_%282019%29.png' width='30vw' style = 'border-radius: 50%; '/></a></h2>"+
             "<h3 style='color: #ff6f74; display: relative; '>" +
             slideArray[i].role +
             "</h3>"+
