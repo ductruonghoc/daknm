@@ -116,7 +116,7 @@
             "<h4 style='color: #ff6f74; display: relative; '>" +
             slideArray[i].role +
             "</h4>"+
-            "<br><div style='display: flex; justify-content: center; width: 100%;'><p style='text-align: justify; width: 70%; font-size:0.9vw;'> &emsp; " +
+            "<br><div style='display: flex; justify-content: center; width: 100%;'><p style='text-align: justify; width: 70%;'> &emsp; " +
             slideArray[i].description +
             "</p></div>" +
             "</div>" +

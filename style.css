@@ -6,7 +6,7 @@
     width: 100%;
     margin: 0;
     padding:0;
-    grid-row-gap: 30px;
+    grid-row-gap: 2vw;
   }
   
   .cover {
@@ -29,14 +29,13 @@
 
   .teptin {
     grid-area: 1/ 2/ 2/ 3;
-    padding-top: 13vw;
+    height: 13vw;
     background: url("image/TapTin.svg") no-repeat -13.8vw -6vw;
     background-size: 41vw auto;
   }
 
   .hinhanh {
     grid-area: 1/ 3/ 2/ 4;
-    padding-top: 49%;
     background: url("image/HinhAnh.svg") no-repeat -8.7vw -5vw;
     background-size: 41vw auto;
   }
@@ -71,7 +70,10 @@
     padding-left: 3vw;
     padding-right: 14vw;
     font-family: "Segoe UI",Arial,sans-serif;
-    font-size: 0.88vw;
+  }
+
+  p {
+    font-size: 18px;
   }
 
   .resource {
@@ -236,4 +238,34 @@
     background-color: #ec9a9ad0;
     border-radius: 10px;
     border: 3px solid #ffffff;
+  }
+
+  @media only screen and (max-width:1000px){
+    p {
+      font-size: 14px;
+    }
+
+    .content {
+      grid-area: 2/ 1/ 3/ 4;
+    }
+
+    .teptin {
+      grid-area: 1/ 1/ 2/ 3;
+      height: 32vw;
+      background-size: 94vw;
+      background-position: -31vw -13vw;
+    }
+
+    .hinhanh {
+      grid-area: 1/ 3/ 2/ 5;
+      background-size: 94vw;
+      background-position: -20vw -11vw;
+    }
+
+    .thongtinchung {
+      grid-area: 3/ 1/ 4/ 5;
+      height: 60vw;
+      background-size: 194vw auto;
+      background-position: -54vw -11vw;
+    }
   }
