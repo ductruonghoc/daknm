@@ -44,8 +44,8 @@
     margin-top:1vw;
     grid-area: 2/ 1/ 3/ 5;
     display: none;
-    grid-template-columns: 1.66fr 1fr;
-    grid-gap:2vw;
+    grid-template-columns: 1.64fr 1fr;
+    grid-template-rows: auto auto;
     text-align: center;
   }
 
@@ -61,6 +61,10 @@
     grid-area: 1/ 2/ 2/ 3;
   }
 
+  .mindmap {
+    grid-area: 2/ 1/ 3/ 3;
+  }
+
   .thongtinchung {
     grid-area: 3/ 2/ 4/ 4;
     background: url("image/ThongTinChung.svg") no-repeat -21.5vw -11vw;
@@ -70,6 +74,10 @@
     padding-left: 3vw;
     padding-right: 14vw;
     font-family: "Segoe UI",Arial,sans-serif;
+  }
+
+  .thongtinchung b {
+    color:rgb(230, 68, 167);
   }
 
   p {
