@@ -52,7 +52,8 @@
     grid-gap: 1vw;
   }
 
-  .anh div{
+  .anh div,
+  .anh a {
     border-radius: 2%;
   }
 
@@ -60,25 +61,10 @@
     grid-area: 1/ 1/ 2/ 2;
     background: url('image/AnhNhom.png') no-repeat;
     background-size: 26.4vw auto;
-    height: 22.8vw;
+    height: 26.5vw;
     display: flex;
     align-items: flex-end;
-  }
-
-  .hide {
-    width: 100%;
-    background-color: rgba(218, 215, 215, 0.3);
-    display: none;
-    color: rgb(247, 167, 233);
-    text-align: center;
-    -webkit-text-stroke-width: 1px;
-    -webkit-text-stroke-color: black;
-  }
-
-  .anhnhom:hover .hide,
-  .poster:hover .hide,
-  .mindmap:hover .hide {
-    display: block;
+    justify-content: center;
   }
 
   .poster {
@@ -87,6 +73,15 @@
     background-size: auto 22.8vw;
     display: flex;
     align-items: flex-end;
+    justify-content: center;
+  }
+
+  .anhnhom h3,
+  .poster h3{
+    background: linear-gradient(to right, rgb(241, 206, 206), #ff7cac);
+    border-radius: 1vw;
+    color: white; 
+    padding: 0.3vw;
   }
 
   .mindmap {
@@ -96,6 +91,7 @@
     background-size: auto 30vw;
     display: flex;
     align-items: flex-end;
+    justify-content: center;
   }
 
   .thongtinchung {
@@ -107,6 +103,8 @@
     padding-left: 3vw;
     padding-right: 14vw;
     font-family: "Segoe UI",Arial,sans-serif;
+    font-size: 0.9vw;
+    text-align: justify;
   }
 
   .thongtinchung b {
@@ -119,7 +117,19 @@
 
   .resource {
     grid-area: 4/ 1/ 5/ 4;
-    margin-left: 1vw;
+    margin-left: 1vw;  
+  }
+
+  .resource button {
+    background-color: #ff0c54;
+    padding: 0.3vw;
+    color: #fff;
+  }
+
+  .resource button:hover {
+    background-color: #fff;
+    color: #ff0c54;
+    border: 0.1vw solid #ff0c54;
   }
 
   button {
@@ -142,6 +152,9 @@
     height: 40em;
   }
 
+  .modal-body h5{
+    margin-top: 1.3vw;
+  }
    
   #mySlider {
     overflow: hidden;
