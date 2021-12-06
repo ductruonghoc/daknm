@@ -44,25 +44,58 @@
     margin-top:1vw;
     grid-area: 2/ 1/ 3/ 5;
     display: none;
-    grid-template-columns: 1.64fr 1fr;
+    grid-template-columns: 1.62fr 1fr;
     grid-template-rows: auto auto;
     text-align: center;
+    padding-left: 15vw;
+    padding-right: 15vw;
+    grid-gap: 1vw;
   }
 
-  .anh img{
-    border-radius: 5px;
+  .anh div{
+    border-radius: 2%;
   }
 
   .anhnhom {
     grid-area: 1/ 1/ 2/ 2;
+    background: url('image/AnhNhom.png') no-repeat;
+    background-size: 26.4vw auto;
+    height: 22.8vw;
+    display: flex;
+    align-items: flex-end;
+  }
+
+  .hide {
+    width: 100%;
+    background-color: rgba(218, 215, 215, 0.3);
+    display: none;
+    color: rgb(247, 167, 233);
+    text-align: center;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+  }
+
+  .anhnhom:hover .hide,
+  .poster:hover .hide,
+  .mindmap:hover .hide {
+    display: block;
   }
 
   .poster {
     grid-area: 1/ 2/ 2/ 3;
+    background: url('image/Poster.png') no-repeat ;
+    background-size: auto 22.8vw;
+    display: flex;
+    align-items: flex-end;
   }
 
   .mindmap {
     grid-area: 2/ 1/ 3/ 3;
+    background: url('image/Mindmap.jpg') no-repeat;
+    height: 30vw;
+    background-size: auto 30vw;
+    display: flex;
+    align-items: flex-end;
   }
 
   .thongtinchung {
