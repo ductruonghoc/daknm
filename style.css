@@ -52,11 +52,6 @@
     grid-gap: 1vw;
   }
 
-  .anh div,
-  .anh a {
-    border-radius: 2%;
-  }
-
   .anhnhom {
     grid-area: 1/ 1/ 2/ 2;
     background: url('image/AnhNhom.png') no-repeat;
