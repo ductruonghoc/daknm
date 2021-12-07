@@ -65,7 +65,7 @@
   .poster {
     grid-area: 1/ 2/ 2/ 3;
     background: url('image/Poster.png') no-repeat ;
-    background-size: auto 27.58vw;
+    background-size: auto 27.85vw;
     display: flex;
     align-items: flex-end;
     justify-content: center;
