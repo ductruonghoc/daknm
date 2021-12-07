@@ -70,7 +70,7 @@
   .poster {
     grid-area: 1/ 2/ 2/ 3;
     background: url('image/Poster.png') no-repeat ;
-    background-size: auto 22.8vw;
+    background-size: auto 27.58vw;
     display: flex;
     align-items: flex-end;
     justify-content: center;
@@ -362,7 +362,7 @@
 
     .poster {
       background: url('image/Poster.png') no-repeat ;
-      background-size: auto 45.6vw;
+      background-size: auto 55.16vw;
     }
 
     .mindmap {
