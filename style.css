@@ -24,7 +24,7 @@
     grid-area: 2/ 2/ 3/ 3;
     grid-gap: 0.1vw;
     grid-template-columns: 1.25fr 1fr 1.5fr 1.25fr;
-    grid-template-rows: auto auto auto;
+    grid-template-rows: auto auto auto auto;
   }
 
   .teptin {
@@ -91,6 +91,30 @@
     justify-content: center;
   }
 
+  .video {
+    margin-top:1vw;
+    grid-area: 4/ 1/ 5/ 5;
+    padding-left: 15vw;
+    padding-right: 15vw;
+  }
+
+  .fa-heart-o {
+    color: red;
+    cursor: pointer;
+  }
+  
+  .fa-heart {
+    color: red;
+    cursor: pointer;
+  }  
+
+  #heart {
+    position: absolute;
+    font-size: 3vw;
+    padding-left: 1vw;
+    padding-top: 1vw;
+  }
+
   .thongtinchung {
     grid-area: 3/ 2/ 4/ 4;
     background: url("image/ThongTinChung.svg") no-repeat -21.5vw -11vw;
@@ -123,6 +147,10 @@
   .resource div {
     grid-column-start: 2;
     grid-column-end: 3;
+  }
+
+  #rs h3 {
+    margin-top: 1.2vw;
   }
 
   button {
@@ -365,6 +393,10 @@
       background-size: auto 60vw;
     }
 
+    .video {
+      padding: 0;
+    }
+
     #sliderPrev {
       left: -3vw;
     }
@@ -373,4 +405,15 @@
       right: -3vw;
     }
 
+    #heart {
+      position: static;
+      font-size: 25vw;
+      width: 100%;
+      display: flex;
+      justify-content: center;
+    }
+
+    #rs h3 {
+      margin-top: 8vw;
+    }
   }

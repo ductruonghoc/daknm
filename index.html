@@ -4,6 +4,8 @@
 		<link rel="icon" type="image/x-icon" href="image/logo.ico">
 		<link rel="stylesheet" type="text/css" href="style.css" />
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+		<script src="https://code.jquery.com/jquery-3.5.0.js"></script>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 	</head>
@@ -30,6 +32,10 @@
 				<b>Ngôi nhà chung chứa đựng đầy tình thương</b> là một nhóm hội tụ 6 thành viên dễ thương của 
 				<b> lớp 21CLC09, khoa Công Nghệ Thông Tin, trường Đại học Khoa học Tự nhiên</b> để phục vụ quá trình thực hiện đồ án <b>môn Kỹ Năng Mềm</b>. Ngôi nhà chung mang lại cảm giác như một gia đình thực thụ, hướng đến việc các thành viên giúp đỡ lẫn nhau, lan tỏa tình thương to lớn và không tạo ra áp lực nặng nề!
 			</div>
+			<div class="video" id="ttc">
+				<iframe src="https://drive.google.com/file/d/13MTFJTS-pMAGPtTeYvQwic5Ne99VbM3b/preview" width="100%" height="480vw" allow="autoplay"></iframe>
+				<span id="heart"><i class="fa fa-heart-o" aria-hidden="true" ></i> </span>
+			</div>
 		</div>
 
 		<div class="sliderBox">
@@ -43,7 +49,7 @@
 
 		<div class="resource">
 			<div style="grid-row-start: 1; grid-row-end: 2; display: flex; justify-content: center"><h2 style=" background-color: #ff0c54; margin-bottom: 0; padding-left: 1vw; padding-right: 1vw; color: #fff; border-radius: 1vw 1vw 0 0;">Nguồn tham khảo</h2></div>
-			<div style="margin-bottom: 1vw; padding-left: 17vw; padding-top: 1vw; border: 0.3vw solid #ff0c54; grid-row-start: 2; grid-row-end: 3; border-radius: 3vw; padding-bottom:1vw;">
+			<div id="rs" style="margin-bottom: 1vw; padding-left: 17vw; border: 0.3vw solid #ff0c54; grid-row-start: 2; grid-row-end: 3; border-radius: 3vw; padding-bottom:1vw;">
 			<b><h3>Hình ảnh</h3></b>
 			<a href="https://storyset.com/" target="_blank">
 				<img src="https://s3-alpha-sig.figma.com/plugins/865232148477039928/7147/e314ef46-9a1b-4e17-ac37-085b5ceca18d-icon?Expires=1639353600&Signature=T8bagcrY1tiiKVQnMADXE3dcchhy0Xb-jJrdUv2wylqBeOOhijcwE7PkqBfY0t8eJvzvdA3GRwN6IPYspb72slqAGQB3lDLW4Rdihm8hej~75~VQLGH1GHH0-KF4JpzViqeGEN1QPqOADQHR1yrCb7CpICJY74SOdkkIUkW0rE97NYrn8WqHV4bf2F1wumhSByMK36kmj9Htpp74vukbiwTqGhR9gv5lZI1sds~RpiXOLnL7hfR4Pg3XZULvhnVjZ4GXcxa3VdHUHEyWA~ymIvn0qTw9UW1MC~Qv-g17lh7lERFgBSN9b-0h1J5CDLpPeMM-vNhjeV3guTx~WuLXSg__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA" width="25vw" style = "margin-right: 1vw;"/> Storyset.com 
@@ -135,6 +141,19 @@
 			</div>
 		</div>
 		
+		<script>
+			$(document).ready(function(){
+				$("#heart").click(function(){
+				  if($("#heart").hasClass("liked")){
+					$("#heart").html('<i class="fa fa-heart-o" aria-hidden="true"></i>');
+					$("#heart").removeClass("liked");
+				  }else{
+					$("#heart").html('<i class="fa fa-heart" aria-hidden="true"></i>');
+					$("#heart").addClass("liked");
+				  }
+				});
+			  });
+		</script>
 		<script>
 			function Collapse()
 			{
