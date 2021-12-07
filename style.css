@@ -126,6 +126,11 @@
     grid-template-rows: auto auto;
   }
 
+  .resource div {
+    grid-column-start: 2;
+    grid-column-end: 3;
+  }
+
   button {
     background: none;
     color: inherit;
@@ -172,6 +177,7 @@
 
   .singleSlide p{
     font-family: "Segoe UI",Arial,sans-serif;
+    width: 70%;
   }
    
   .slideOverlay {
@@ -312,8 +318,57 @@
 
     .thongtinchung {
       grid-area: 3/ 1/ 4/ 5;
-      height: 60vw;
+      height: 68vw;
       background-size: 194vw auto;
-      background-position: -54vw -11vw;
+      background-position: -54vw -28vw;
+      font-size: 2.3vw;
+      padding-top: 18vw;
+      padding-right: 35vw;
+      padding-left: 7vw;
     }
+
+    .singleSlide p{
+      width: 95%;
+    }
+
+    #mySlider{
+      width: 100%;
+      margin-left: 0;
+      height: 48em;
+    }
+
+    .singleSlide h3{
+      font-size: 5.8vw;
+    }
+
+    .sliderBox {
+      height: 50em;
+    }
+
+    .resource div {
+      grid-column-start: 1;
+      grid-column-end: 4;
+    }
+
+    .anh {
+      padding: 0;
+    }
+
+    .anhnhom {
+      background: url('image/AnhNhom.png') no-repeat;
+      background-size: 52.8vw auto;
+      height: 58vw;
+    }
+
+    .poster {
+      background: url('image/Poster.png') no-repeat ;
+      background-size: auto 45.6vw;
+    }
+
+    .mindmap {
+      background: url('image/Mindmap.jpg') no-repeat;
+      height: 70vw;
+      background-size: auto 60vw;
+    }
+
   }
