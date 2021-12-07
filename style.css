@@ -114,8 +114,7 @@
 
   .resource {
     grid-area: 4/ 1/ 5/ 4;
-    width: 100%;
-    text-align: center; 
+    width: 100%; 
     display: grid;
     grid-template-columns: 1fr 2fr 1fr;
     grid-template-rows: auto auto;
