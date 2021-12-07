@@ -371,4 +371,12 @@
       background-size: auto 60vw;
     }
 
+    #sliderPrev {
+      left: -3vw;
+    }
+     
+    #sliderNext {
+      right: -3vw;
+    }
+
   }
