@@ -170,7 +170,7 @@
     width: 100%;
     grid-area: 3 / 2 / 4 / 3; 
     display: block;
-    height: 40em;
+    height: 46em;
   }
 
   .modal-body h5{
@@ -181,7 +181,7 @@
     overflow: hidden;
     position: relative;
     width: 80%;
-    height: 38em;
+    height: 46em;
     padding: 0px;
     margin: 0px;
     z-index: 0;
