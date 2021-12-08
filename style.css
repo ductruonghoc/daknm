@@ -13,8 +13,10 @@
     width: 100%;
     text-align: center;
     grid-area: 1 / 1 / 2 / 4;
-    border-bottom: 1px solid rgb(243, 9, 9);
-    background-color: #fff5f7;
+    background: url('image/Cover.svg') no-repeat;
+    background-size: cover;
+    height: calc(0.457 * 100vw);
+    border-bottom: 1px solid red;
   }
 
   .content {
