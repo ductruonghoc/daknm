@@ -92,6 +92,7 @@
   }
 
   .video {
+    border-top:solid 2px rgba(0, 0, 0, 0.1);
     margin-top:1vw;
     grid-area: 4/ 1/ 5/ 5;
     padding-left: 15vw;
