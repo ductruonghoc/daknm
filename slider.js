@@ -14,11 +14,8 @@
         this.role = role;
         this.description = description;
         this.link = link;
-        // we need an id to target later using getElementById
         this.id = "slide" + slideIndex;
-        // Add one to the index for the next slide number
         slideIndex++;
-        // Add this Slide to our array
         slideArray.push(this);
         }
         
