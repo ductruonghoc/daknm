@@ -66,7 +66,7 @@
 
   .poster {
     grid-area: 1/ 2/ 2/ 3;
-    background: url('image/Poster.png') no-repeat ;
+    background: url('image/Poster.png') no-repeat -2.56vw 0.001vw;
     background-size: auto 27.85vw;
     display: flex;
     align-items: flex-end;
@@ -386,8 +386,8 @@
     }
 
     .poster {
-      background: url('image/Poster.png') no-repeat ;
-      background-size: auto 55.16vw;
+      background: url('image/Poster.png') no-repeat -2.5vw -0.2vw;
+      background-size: auto 55.9vw;
     }
 
     .mindmap {
