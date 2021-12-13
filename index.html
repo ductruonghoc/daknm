@@ -15,8 +15,8 @@
 		
 		<div class="content">
 			<button type="button" class="teptin" data-toggle="modal" data-target="#myModal"></button>
-			<button type="button" onclick="Collapse();" class="hinhanh"></button>
-			<div id="anhnhom" class="anh">
+			<button id="anh" type="button" onclick="Collapse(this.id);" class="hinhanh"></button>
+			<div id="b_anh" class="anh">
 				<div class="anhnhom">
 					<h3>Ảnh nhóm</h3>
 				</div>
@@ -110,24 +110,28 @@
 				</div>
 				<!-- Modal body -->
 				<div class="modal-body">
-					<h5>Hợp đồng thành lập nhóm</h5>
-					<iframe src="https://drive.google.com/file/d/1jqxPAQWUCd5ZndY24FG54E7kJJ7kWay4/preview" width="100%" height="650vw" allow="autoplay"></iframe>
-					<h5>Biên bản kế hoạch</h5>
-					<iframe src="https://drive.google.com/file/d/13TY604JWeyXVzbNQ_YzIZKXzBZPIq6Ej/preview" width="100%" height="650vw" allow="autoplay"></iframe>
-					<h5>Biên bản đánh giá thành viên cuối môn học</h5>
-					<iframe src="https://drive.google.com/file/d/1lriO3spGFv6E9p8sajgzyQgnOfAUPcbA/preview" width="100%" height="650vw" allow="autoplay"></iframe>
-					<h5>Biên bản họp nhóm lần 1</h5>
-					<iframe src="https://drive.google.com/file/d/1UGpPUICUb29oMWCe5F77P6oozixmcGE3/preview" width="100%" height="650vw" allow="autoplay"></iframe>
-					<h5>Biên bản họp nhóm lần 2</h5>
-					<iframe src="https://drive.google.com/file/d/1lteq6a33NPc-gwy4wBUEw4YzNhPJP8Bu/preview" width="100%" height="650vw" allow="autoplay"></iframe>
-					<h5>Biên bản họp nhóm lần 3</h5>
-					<iframe src="https://drive.google.com/file/d/11Iget3ZIz2YlgFxdbZtKtCPwxmVHUM0F/preview" width="100%" height="650vw" allow="autoplay"></iframe>
-					<h5>Biên bản họp nhóm lần 4</h5>
-					<iframe src="https://drive.google.com/file/d/11Iget3ZIz2YlgFxdbZtKtCPwxmVHUM0F/preview" width="100%" height="650vw" allow="autoplay"></iframe>
-					<h5>Biên bản họp nhóm lần 5</h5>
-					<iframe src="https://drive.google.com/file/d/1ebnI2-L3Xxyf5VgmKQY775yDF8qUvYgG/preview" width="100%" height="650vw" allow="autoplay"></iframe>
-					<h5>Biên bản họp nhóm lần 6</h5>
-					<iframe src="https://drive.google.com/file/d/143AxJ672TdUoxQJc6xhz59M3JB8TKBld/preview" width="100%" height="650vw" allow="autoplay"></iframe>
+					<h4>Nhấp vào đề mục để xem các biên bản</h4>
+					<h5><button id="hdtl" onclick="Collapse(this.id);">Hợp đồng thành lập nhóm</button></h5>
+					<iframe style="display: none;" id="b_hdtl" src="https://drive.google.com/file/d/1jqxPAQWUCd5ZndY24FG54E7kJJ7kWay4/preview" width="100%" height="650vw" allow="autoplay"></iframe>
+					<h5><button id="bbkh" onclick="Collapse(this.id);">Biên bản kế hoạch</button></h5>
+					<iframe style="display: none;" id="b_bbkh" src="https://drive.google.com/file/d/13TY604JWeyXVzbNQ_YzIZKXzBZPIq6Ej/preview" width="100%" height="650vw" allow="autoplay"></iframe>
+					<h5><button id="bbdg" onclick="Collapse(this.id);">Biên bản đánh giá thành viên cuối môn học</button></h5>
+					<iframe style="display: none;" id="b_bbdg" src="https://drive.google.com/file/d/1lriO3spGFv6E9p8sajgzyQgnOfAUPcbA/preview" width="100%" height="650vw" allow="autoplay"></iframe>
+					<h5>Biên bản họp nhóm</h5>
+					<ul>
+						<h6><li>Lần 1</li><h6>
+						<iframe src="https://drive.google.com/file/d/1UGpPUICUb29oMWCe5F77P6oozixmcGE3/preview" width="100%" height="650vw" allow="autoplay"></iframe>
+						<h6><li>Lần 2</li><h6>
+						<iframe src="https://drive.google.com/file/d/1lteq6a33NPc-gwy4wBUEw4YzNhPJP8Bu/preview" width="100%" height="650vw" allow="autoplay"></iframe>
+						<h6><li>Lần 3</li><h6>
+						<iframe src="https://drive.google.com/file/d/11Iget3ZIz2YlgFxdbZtKtCPwxmVHUM0F/preview" width="100%" height="650vw" allow="autoplay"></iframe>
+						<h6><li>Lần 4</li><h6>
+						<iframe src="https://drive.google.com/file/d/11Iget3ZIz2YlgFxdbZtKtCPwxmVHUM0F/preview" width="100%" height="650vw" allow="autoplay"></iframe>
+						<h6><li>Lần 5</li><h6>
+						<iframe src="https://drive.google.com/file/d/1ebnI2-L3Xxyf5VgmKQY775yDF8qUvYgG/preview" width="100%" height="650vw" allow="autoplay"></iframe>
+						<h6><li>Lần 6</li><h6>
+						<iframe src="https://drive.google.com/file/d/143AxJ672TdUoxQJc6xhz59M3JB8TKBld/preview" width="100%" height="650vw" allow="autoplay"></iframe>
+					</ul>
 					<h5>Biên bản báo cáo tiến độ và minh chứng lần 1</h5>
 					<iframe src="https://drive.google.com/file/d/1wPCCWsiC3uUoRiwciVQQ290qYbqfqgQX/preview" width="100%" height="650vw" allow="autoplay"></iframe>
 					<h5>Biên bản báo cáo tiến độ và minh chứng lần 2</h5>
@@ -157,9 +161,9 @@
 			  });
 		</script>
 		<script>
-			function Collapse()
+			function Collapse(clicked_id)
 			{
-				var x = document.getElementById("anhnhom");	
+				var x = document.getElementById("b_"+clicked_id);	
 				if (x.style.display === "none") x.style.display = "grid";
 				else x.style.display = "none";
 			}
