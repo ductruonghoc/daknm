@@ -447,3 +447,13 @@
       margin-left: 10vw;
     }
   }
+
+  @media only screen and (max-width: 1400px){
+    .sliderBox {
+      height: 50em;
+    }
+
+    #myslider{
+      height: 50em;
+    }
+  }
