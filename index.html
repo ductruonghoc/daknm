@@ -110,34 +110,39 @@
 				</div>
 				<!-- Modal body -->
 				<div class="modal-body">
-					<h4>Nhấp vào đề mục để xem các biên bản</h4>
-					<h5><button id="hdtl" onclick="Collapse(this.id);">Hợp đồng thành lập nhóm</button></h5>
-					<iframe style="display: none;" id="b_hdtl" src="https://drive.google.com/file/d/1jqxPAQWUCd5ZndY24FG54E7kJJ7kWay4/preview" width="100%" height="650vw" allow="autoplay"></iframe>
-					<h5><button id="bbkh" onclick="Collapse(this.id);">Biên bản kế hoạch</button></h5>
-					<iframe style="display: none;" id="b_bbkh" src="https://drive.google.com/file/d/13TY604JWeyXVzbNQ_YzIZKXzBZPIq6Ej/preview" width="100%" height="650vw" allow="autoplay"></iframe>
-					<h5><button id="bbdg" onclick="Collapse(this.id);">Biên bản đánh giá thành viên cuối môn học</button></h5>
-					<iframe style="display: none;" id="b_bbdg" src="https://drive.google.com/file/d/1lriO3spGFv6E9p8sajgzyQgnOfAUPcbA/preview" width="100%" height="650vw" allow="autoplay"></iframe>
-					<h5>Biên bản họp nhóm</h5>
-					<ul>
-						<h6><li>Lần 1</li><h6>
-						<iframe src="https://drive.google.com/file/d/1UGpPUICUb29oMWCe5F77P6oozixmcGE3/preview" width="100%" height="650vw" allow="autoplay"></iframe>
-						<h6><li>Lần 2</li><h6>
-						<iframe src="https://drive.google.com/file/d/1lteq6a33NPc-gwy4wBUEw4YzNhPJP8Bu/preview" width="100%" height="650vw" allow="autoplay"></iframe>
-						<h6><li>Lần 3</li><h6>
-						<iframe src="https://drive.google.com/file/d/11Iget3ZIz2YlgFxdbZtKtCPwxmVHUM0F/preview" width="100%" height="650vw" allow="autoplay"></iframe>
-						<h6><li>Lần 4</li><h6>
-						<iframe src="https://drive.google.com/file/d/11Iget3ZIz2YlgFxdbZtKtCPwxmVHUM0F/preview" width="100%" height="650vw" allow="autoplay"></iframe>
-						<h6><li>Lần 5</li><h6>
-						<iframe src="https://drive.google.com/file/d/1ebnI2-L3Xxyf5VgmKQY775yDF8qUvYgG/preview" width="100%" height="650vw" allow="autoplay"></iframe>
-						<h6><li>Lần 6</li><h6>
-						<iframe src="https://drive.google.com/file/d/143AxJ672TdUoxQJc6xhz59M3JB8TKBld/preview" width="100%" height="650vw" allow="autoplay"></iframe>
+					<h4>Nhấp lần 1 vào đề mục để mở các biên bản. Nhấp lần 2 để đóng.</h4>
+					<h5 style="border-bottom: 1px solid rgba(192,192,192,0.5);"><button id="hdtl" onclick="Collapse(this.id);">Hợp đồng thành lập nhóm</button></h5>
+					<iframe style="display: none;" id="b_hdtl" src="https://drive.google.com/file/d/1jqxPAQWUCd5ZndY24FG54E7kJJ7kWay4/preview" width="100%" allow="autoplay"></iframe>
+					<h5 style="border-bottom: 1px solid rgba(192,192,192,0.5);"><button id="bbkh" onclick="Collapse(this.id);">Biên bản kế hoạch</button></h5>
+					<iframe style="display: none;" id="b_bbkh" src="https://drive.google.com/file/d/13TY604JWeyXVzbNQ_YzIZKXzBZPIq6Ej/preview" width="100%" allow="autoplay"></iframe>
+					<h5 style="border-bottom: 1px solid rgba(192,192,192,0.5);"><button id="bbdg" onclick="Collapse(this.id);">Biên bản đánh giá thành viên cuối môn học</button></h5>
+					<iframe style="display: none;" id="b_bbdg" src="https://drive.google.com/file/d/1lriO3spGFv6E9p8sajgzyQgnOfAUPcbA/preview" width="100%" allow="autoplay"></iframe>
+					<h5 style="border-bottom: 1px solid rgba(192,192,192,0.5);"><button id="bbtk" onclick="Collapse(this.id);">Biên bản tổng kết</button></h5>
+					<iframe style="display: none;" id="b_bbtk" src="https://drive.google.com/file/d/15LKUc8gNq_-XoXixFupEPpz3reJy-2K7/preview" width="100%" allow="autoplay"></iframe>
+					<h5>Biên bản họp nhóm(Nhấp các tiểu mục để mở hoặc đóng biên bản)</h5>
+					<ul style="border-bottom: 1px solid rgba(192,192,192,0.5);">
+						<h6><li><button id="bbhn1" onclick="Collapse(this.id);">Lần 1</button></li><h6>
+						<iframe style="display: none;" id="b_bbhn1" src="https://drive.google.com/file/d/1UGpPUICUb29oMWCe5F77P6oozixmcGE3/preview" width="100%" allow="autoplay"></iframe>
+						<h6><li><button id="bbhn2" onclick="Collapse(this.id);">Lần 2</button></li><h6>
+						<iframe style="display: none;" id="b_bbhn2" src="https://drive.google.com/file/d/1lteq6a33NPc-gwy4wBUEw4YzNhPJP8Bu/preview" width="100%" allow="autoplay"></iframe>
+						<h6><li><button id="bbhn3" onclick="Collapse(this.id);">Lần 3</button></li><h6>
+						<iframe style="display: none;" id="b_bbhn3" src="https://drive.google.com/file/d/11Iget3ZIz2YlgFxdbZtKtCPwxmVHUM0F/preview" width="100%" allow="autoplay"></iframe>
+						<h6><li><button id="bbhn4" onclick="Collapse(this.id);">Lần 4</button></li><h6>
+						<iframe style="display: none;" id="b_bbhn4" src="https://drive.google.com/file/d/1y8oKGtnAVPDNe8kZfyvtqaywqpoREoTK/preview" width="100%" allow="autoplay"></iframe>
+						<h6><li><button id="bbhn5" onclick="Collapse(this.id);">Lần 5</button></li><h6>
+						<iframe style="display: none;" id="b_bbhn5" src="https://drive.google.com/file/d/1ebnI2-L3Xxyf5VgmKQY775yDF8qUvYgG/preview" width="100%" allow="autoplay"></iframe>
+						<h6><li><button id="bbhn6" onclick="Collapse(this.id);">Lần 6</button></li><h6>
+						<iframe style="display: none;" id="b_bbhn6" src="https://drive.google.com/file/d/143AxJ672TdUoxQJc6xhz59M3JB8TKBld/preview" width="100%" allow="autoplay"></iframe>
 					</ul>
-					<h5>Biên bản báo cáo tiến độ và minh chứng lần 1</h5>
-					<iframe src="https://drive.google.com/file/d/1wPCCWsiC3uUoRiwciVQQ290qYbqfqgQX/preview" width="100%" height="650vw" allow="autoplay"></iframe>
-					<h5>Biên bản báo cáo tiến độ và minh chứng lần 2</h5>
-					<iframe src="https://drive.google.com/file/d/1WjIgsmq6GETM9cthoWUi8jNaH6aUskUH/preview" width="100%" height="650vw" allow="autoplay"></iframe>
-					<h5>Biên bản báo cáo tiến độ và minh chứng lần 3</h5>
-					<iframe src="https://drive.google.com/file/d/1WZq7C9jPTgar6uWGaw6wwN52ywoYvHCU/preview" width="100%" height="650vw" allow="autoplay"></iframe>
+					<h5>Biên bản báo cáo tiến độ và minh chứng(Nhấp các tiểu mục để mở hoặc đóng biên bản)</h5>
+					<ul style="border-bottom: 1px solid rgba(192,192,192,0.5);">
+						<h6><li><button id="bbmc1" onclick="Collapse(this.id);">Lần 1</button></li><h6>
+						<iframe style="display: none;" id="b_bbmc1" src="https://drive.google.com/file/d/1wPCCWsiC3uUoRiwciVQQ290qYbqfqgQX/preview" width="100%" allow="autoplay"></iframe>
+						<h6><li><button id="bbmc2" onclick="Collapse(this.id);">Lần 2</button></li><h6>
+						<iframe style="display: none;" id="b_bbmc2" src="https://drive.google.com/file/d/1WjIgsmq6GETM9cthoWUi8jNaH6aUskUH/preview" width="100%" height="650vw" allow="autoplay"></iframe>
+						<h6><li><button id="bbmc3" onclick="Collapse(this.id);">Lần 3</button></li><h6>
+						<iframe style="display: none;" id="b_bbmc3" src="https://drive.google.com/file/d/1WZq7C9jPTgar6uWGaw6wwN52ywoYvHCU/preview" width="100%" height="650vw" allow="autoplay"></iframe>
+					</ul>
 				</div>
 				<!-- Modal footer -->
 				<div class="modal-footer">

@@ -163,6 +163,7 @@
     padding: 0;
     font: inherit;
     cursor: pointer;
+    text-align: left;
   }
 
   button:focus {
@@ -177,7 +178,21 @@
   }
 
   .modal-body h5{
-    margin-top: 1.3vw;
+    margin-top: 0.6vw;
+    padding-bottom: 0.6vw;
+  }
+
+  .modal-body ul{
+    padding-bottom: 0.6vw;
+    padding-left: 0;
+  }
+
+  ul li{
+    margin-left: 2vw;
+  }
+
+  .modal-body iframe{
+    height: 50vw;
   }
    
   #mySlider {
@@ -418,5 +433,13 @@
 
     #rs h3 {
       margin-top: 8vw;
+    }
+
+    .modal-body iframe{
+      height: 90vw;
+    }
+
+    ul li {
+      margin-left: 10vw;
     }
   }
