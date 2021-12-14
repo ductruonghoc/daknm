@@ -158,12 +158,13 @@
 
   button {
     background: none;
-    color: inherit;
+    color: rgb(53, 120, 243);
     border: none;
     padding: 0;
     font: inherit;
     cursor: pointer;
     text-align: left;
+    text-decoration: underline;
   }
 
   button:focus {
