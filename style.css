@@ -182,6 +182,10 @@
     padding-bottom: 0.6vw;
   }
 
+  .modal-body h4{
+    margin-bottom: 1vw;
+  }
+
   .modal-body ul{
     padding-bottom: 0.6vw;
     padding-left: 0;
